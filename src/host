@@ -1,0 +1,118 @@
+act_info.c:	    if (ch->desc != NULL && ch->desc->connected != CON_PLAYING 
+act_info.c:	    &&  		    ch->desc->connected != CON_GEN_GROUPS)
+act_info.c:    if( wch->desc != NULL && wch->desc->editor != 0 )
+act_info.c:    if( wch->desc != NULL && wch->desc->editor != '\0')
+act_wiz.c:        return ch->desc->original;
+act_wiz.c:	if ( ch->desc == NULL || ch->desc->connected != CON_PLAYING )
+act_wiz.c:    	sprintf(buf, "{mHost: {W%s{x\n\r", (victim->pcdata->orig_host[0] != '0') ? victim->pcdata->orig_host : victim->desc->host);
+act_wiz.c:    if ( victim->desc->snoop_by != NULL )
+act_wiz.c:	for ( d = ch->desc->snoop_by; d != NULL; d = d->snoop_by )
+act_wiz.c:    victim->desc->snoop_by = ch->desc;
+act_wiz.c:    if ( ch->desc->original != NULL )
+act_wiz.c:    ch->desc->character = victim;
+act_wiz.c:    ch->desc->original  = ch;
+act_wiz.c:    if ( ch->desc->original == NULL )
+act_wiz.c:    wiznet(buf,ch->desc->original,0,WIZ_SWITCHES,WIZ_SECURE,get_trust(ch));
+act_wiz.c:    ch->desc->character       = ch->desc->original;
+act_wiz.c:    ch->desc->original        = NULL;
+act_wiz.c:    ch->desc->character->desc = ch->desc; 
+act_wiz.c:	else if( wch->desc->editor == 1)
+act_wiz.c:        else if( wch->desc->editor == 2)
+act_wiz.c:        else if( wch->desc->editor == 3)
+act_wiz.c:        else if( wch->desc->editor == 4)
+act_wiz.c:            wch->desc->host);
+alias.c:	rch = ch->desc->original ? ch->desc->original : ch;
+alias.c:	rch = ch->desc->original ? ch->desc->original : ch;
+comm.c:        if (ch->desc->ansi)
+comm.c:        if (ch->desc->ansi)
+comm.c:	    ch->pcdata->orig_host = str_dup(ch->desc->host);
+comm.c:	    sprintf(buf, "Host %s shared with %s", ch->desc->host, cch->name);
+comm.c:    ||   ch->desc->connected != CON_PLAYING
+comm.c:    ch->desc->showstr_head = alloc_mem(strlen(txt) + 1);
+comm.c:    strcpy(ch->desc->showstr_head,txt);
+comm.c:    ch->desc->showstr_point = ch->desc->showstr_head;
+comm.c:		ch->desc->showstr_head  = alloc_mem( strlen( buf ) + 1 );
+comm.c:		strcpy( ch->desc->showstr_head, buf );
+comm.c:		ch->desc->showstr_point = ch->desc->showstr_head;
+comm.c:		ch->desc->showstr_head  = alloc_mem( strlen( buf ) + 1 );
+comm.c:		strcpy( ch->desc->showstr_head, buf );
+comm.c:		ch->desc->showstr_point = ch->desc->showstr_head;
+comm.c:    	if(!str_cmp(ch->desc->host, d->host))
+handler.c:    if ( ch->desc != NULL && ch->desc->original != NULL )
+handler.c:	ch = ch->desc->original;
+handler.c:    if ( ch->desc != NULL && ch->desc->original != NULL )
+handler.c:	ch->desc->character = NULL;
+hedit.c:#define EDIT_HELP(ch, help)	( help = (HELP_DATA *) ch->desc->pEdit )
+hedit.c:	ch->desc->pEdit		= (HELP_DATA *) help;
+hedit.c:	ch->desc->editor	= ED_HELP;
+hedit.c:	ch->desc->pEdit		= (void *) pHelp;
+hedit.c:	ch->desc->editor	= ED_HELP;
+interp.c:	    	allgrant = ch->desc->original->grant;
+interp.c:    if ( ch->desc != NULL && ch->desc->snoop_by != NULL )
+interp.c:	write_to_buffer( ch->desc->snoop_by, "% ",    2 );
+interp.c:	write_to_buffer( ch->desc->snoop_by, logline, 0 );
+interp.c:	write_to_buffer( ch->desc->snoop_by, "\n\r",  2 );
+olc.c:    switch (ch->desc->editor)
+olc.c:    switch ( ch->desc->editor )
+olc.c:	pArea = (AREA_DATA *)ch->desc->pEdit;
+olc.c:	pObj = (OBJ_INDEX_DATA *)ch->desc->pEdit;
+olc.c:	pMob = (MOB_INDEX_DATA *)ch->desc->pEdit;
+olc.c:    	pMprog = (MPROG_CODE *)ch->desc->pEdit;
+olc.c:    	pHelp = (HELP_DATA *)ch->desc->pEdit;
+olc.c:    switch (ch->desc->editor)
+olc.c:    ch->desc->pEdit = NULL;
+olc.c:    ch->desc->editor = 0;
+olc.c:	ch->desc->editor = ED_AREA;
+olc.c:    ch->desc->pEdit = (void *)pArea;
+olc.c:    ch->desc->editor = ED_AREA;
+olc.c:	    ch->desc->editor = ED_ROOM;
+olc.c:	    char_to_room( ch, ch->desc->pEdit );
+olc.c:	    SET_BIT( ((ROOM_INDEX_DATA *)ch->desc->pEdit)->area->area_flags, AREA_CHANGED );
+olc.c:    ch->desc->pEdit	= (void *) pRoom;
+olc.c:    ch->desc->editor	= ED_ROOM;
+olc.c:	ch->desc->pEdit = (void *)pObj;
+olc.c:	ch->desc->editor = ED_OBJECT;
+olc.c:		ch->desc->editor = ED_OBJECT;
+olc.c:	ch->desc->pEdit = (void *)pMob;
+olc.c:	ch->desc->editor = ED_MOBILE;
+olc.c:		ch->desc->editor = ED_MOBILE;
+olc_act.c:	ch->desc->pEdit = (void *)pMob;
+olc_act.c:    ch->desc->pEdit = (void *)ch->in_room;
+olc_act.c:	ch->desc->pEdit = (void *)pObj;
+olc_act.c:    ch->desc->pEdit = (void *)ch->in_room;
+olc_act.c:    ch->desc->pEdit     =   (void *)pArea;
+olc_act.c:    ch->desc->pEdit		= (void *)pRoom;
+olc_act.c:    ch->desc->pEdit		= (void *)pObj;
+olc_act.c:    ch->desc->pEdit		= (void *)pMob;
+olc_mpcode.c:	ch->desc->pEdit		= (void *)pMcode;
+olc_mpcode.c:	ch->desc->editor	= ED_MPCODE;
+olc_mpcode.c:    ch->desc->pEdit		= (void *)pMcode;
+olc_mpcode.c:    ch->desc->editor		= ED_MPCODE;
+olc_save.c:	if ( ch->desc->editor == ED_NONE )
+olc_save.c:	switch (ch->desc->editor)
+olc_save.c:		pArea = (AREA_DATA *)ch->desc->pEdit;
+olc_save.c:		pArea = ( (OBJ_INDEX_DATA *)ch->desc->pEdit )->area;
+olc_save.c:		pArea = ( (MOB_INDEX_DATA *)ch->desc->pEdit )->area;
+save.c:    if ( ch->desc != NULL && ch->desc->original != NULL )
+save.c:	ch = ch->desc->original;
+save.c:    if(ch->desc->host[0] =! '\0')
+save.c:    	    ch->pcdata->orig_host : ch->desc->host		);
+string.c:    ch->desc->pString = pString;
+string.c:    ch->desc->pString = pString;
+string.c:	    free_string(*ch->desc->pString);
+string.c:	    *ch->desc->pString = str_dup( "" );
+string.c:            send_to_char( numlineas(*ch->desc->pString), ch );
+string.c:            *ch->desc->pString =
+string.c:                string_replace( *ch->desc->pString, arg2, arg3 );
+string.c:            *ch->desc->pString = format_string( *ch->desc->pString );
+string.c:		*ch->desc->pString = string_linedel( *ch->desc->pString, atoi(arg2) );
+string.c:		*ch->desc->pString = string_lineadd( *ch->desc->pString, tmparg3, atoi(arg2) );
+string.c:		*ch->desc->pString = string_linedel( *ch->desc->pString, atoi(arg2) );
+string.c:		*ch->desc->pString = string_lineadd( *ch->desc->pString, tmparg3, atoi(arg2) );
+string.c:	if ( ch->desc->editor == ED_MPCODE ) /* para los mobprogs */
+string.c:        ch->desc->pString = NULL;
+string.c:    strcpy( buf, *ch->desc->pString );
+string.c:        ch->desc->pString = NULL;
+string.c:    free_string( *ch->desc->pString );
+string.c:    *ch->desc->pString = str_dup( buf );
+update.c:	if (ch->desc != NULL && ch->desc->descriptor % 30 == save_number)

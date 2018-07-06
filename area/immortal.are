@@ -1,0 +1,540 @@
+#AREADATA
+Name IMM LAND~
+Builders All~
+Range 102 110
+VNUMs 400 499
+Credits (null)~
+Security 3
+End
+
+
+
+#MOBILES
+#400
+Trainer~
+Trainer~
+Trainer
+~
+~
+human~
+ABJKb C 0 0 0 0
+100 100 10d300+3300 100d10+100 11d12+59 none
+-15 -15 -15 -14
+0 0 0 0
+stand stand none 0
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#403
+High test mob~
+high test mob~
+High test mob
+~
+~
+human~
+AS 0 0 0 0 0
+140 140 10d420+6020 140d10+100 13d14+83 none
+-24 -24 -24 -23
+0 0 0 0
+stand stand none 0
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#0
+
+
+
+#OBJECTS
+#400
+Building Rules Sign~
+{RAN IMPORTANT SIGN IS HERE - Look Sign to read.{x~
+{RAN IMPORTANT SIGN IS HERE - Look Sign to read.{x~
+unknown~
+trash 0 P
+0
+0 0 0 0 0
+1 0 0 P
+E
+sign~
+There are some big changes going on building-wise, and this is a
+temporary reminder to assist you in building correctly.  
+ 
+1. Never link areas on the bp. It will cause horrible problems.
+2. Eq is undergoing DRASTIC changes. Guidelines will be established soon.
+3. Mob will be similar. Waiting for playtesting info.
+4. Do not snoop around areas, and only edit/help when asked to.
+5. A building report will be posted every week before sunday to me.
+This will detail what you have done or what you require.
+6. All areas are to be built as though they were from the books.
+I greatly encourage research, and I personally have info on many places.
+7. Playtesters have been equipped with the commands necessary for their job, 
+but I won't hesitate to remove those skills if they are abused - they are a priviledge.
+~
+#401
+Fountain~
+A Fountain~
+A fountain for drinking.~
+unknown~
+fountain OY P
+0
+-1 -1 'orange juice' 0 0
+0 0 0 P
+#402
+fruit~
+some fruit~
+(no description)~
+unknown~
+trash V AO
+0
+0 0 0 0 0
+0 0 0 P
+A
+5 20
+#403
+boot~
+boot~
+Boot~
+unknown~
+armor 0 AG
+0
+0 0 0 0 0
+20 0 0 P
+F
+A 0 0 d
+#404
+Staff~
+staff~
+Staff~
+steel-~
+weapon a AN
+0
+sword 10 8 smash D
+101 250 20000 P
+A
+18 3
+A
+19 3
+#405
+shiny sword~
+shiny sword~
+Shiny sword~
+steel-~
+weapon 0 AN
+0
+sword 10 10 slash D
+100 400 0 P
+A
+18 3
+A
+19 3
+#406
+steel breastplate plate~
+A Steel Breastplate~
+A finely crafted steel breastplate is here. It sure looks heavy!~
+steel-~
+armor 0 AD
+BD
+CE CE CE CE 0
+100 400 90000 P
+A
+17 -30
+#407
+studded leather shirt~
+A Studded Leather Shirt~
+A leather shirt with iron studs is here.~
+steel-~
+armor 0 AD
+BCD
+AC AC AC AC 0
+5 10 4500 P
+#408
+torch~
+torch~
+Torch~
+unknown~
+light 0 A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+100 0 0 P
+#409
+bucket~
+bucket~
+Bucket~
+unknown~
+armor 0 AE
+0
+AB AB AB AB 0
+1 0 0 P
+F
+A 0 0 A
+#410
+plate arm~
+plate arm~
+Plate arm~
+unknown~
+armor 0 AI
+0
+BC BC BC BC 0
+100 0 0 P
+F
+A 0 0 S
+#411
+plate legs~
+plate legs~
+Plate legs~
+unknown~
+armor 0 AF
+0
+AB AB AB AB 0
+100 0 0 P
+F
+A 0 0 R
+#412
+plate feet~
+plate feet~
+Plate feet~
+unknown~
+armor 0 AG
+0
+BC BC BC BC 0
+100 0 0 P
+#413
+plate hands~
+plate hands~
+Plate hands~
+unknown~
+armor 0 AH
+0
+BC BC BC BC 0
+0 0 0 P
+#414
+plate shield~
+plate shield~
+Plate shield~
+unknown~
+armor 0 AJ
+0
+BCDE BCDE BCDE BCDE 0
+0 0 0 P
+#415
+robes~
+cloth robes~
+Cloth robes~
+silk-~
+armor GS AD
+0
+0 0 0 0 0
+95 50 30000 P
+A
+17 -30
+A
+13 10
+#416
+ring of protection~
+ring pro 3~
+Ring pro 3~
+unknown~
+jewelry 0 AB
+0
+0 0 0 0 0
+60 50 300000 P
+A
+17 -30
+A
+20 -3
+#417
+cloak pro 3~
+cloak~
+Cloak~
+unknown~
+armor 0 AK
+0
+0 0 0 0 0
+1 50 30000 P
+A
+20 -3
+A
+17 -30
+#418
+amulet pro 3~
+amulet~
+Amulet~
+unknown~
+jewelry 0 AC
+0
+0 0 0 0 0
+1 50 30000 P
+A
+17 -30
+A
+20 -3
+#419
+gloves~
+gloves~
+Gloves~
+unknown~
+armor 0 AH
+0
+0 0 0 0 0
+1 50 30000 P
+#420
+shield~
+shield~
+Staff~
+unknown~
+armor 0 AO
+0
+0 0 0 0 0
+60 250 30000 P
+A
+18 3
+A
+19 3
+#0
+
+
+
+#ROOMS
+#400
+{YThe Playtesting Arena.{x~
+{yThis area is reserved for the playtesters.  All testing eq and
+characters will reside in this area.  {x 
+~
+~
+0 0 12
+D0
+~
+~
+0 0 403
+D1
+~
+~
+0 0 401
+D2
+~
+~
+0 0 407
+D3
+~
+~
+0 0 405
+S
+#401
+{YThe Playtesting Arena.{x~
+{yThis area is reserved for the playtesters.  All testing eq and
+characters will reside in this area.  {x 
+~
+~
+0 4195332 9
+D0
+~
+~
+0 0 402
+D2
+~
+~
+0 0 408
+D3
+~
+~
+0 0 400
+S
+#402
+{YThe Playtesting Arena.{x~
+{yThis area is reserved for the playtesters.  All testing eq and
+characters will reside in this area.  {x 
+~
+~
+0 4 0
+D2
+~
+~
+0 0 401
+D3
+~
+~
+0 0 403
+S
+#403
+{YThe Playtesting Arena.{x~
+{yThis area is reserved for the playtesters.  All testing eq and
+characters will reside in this area.  {x 
+~
+~
+0 0 0
+D1
+~
+~
+0 0 402
+D2
+~
+~
+0 0 400
+D3
+~
+~
+0 0 404
+S
+#404
+{YThe Playtesting Arena.{x~
+{yThis area is reserved for the playtesters.  All testing eq and
+characters will reside in this area.  {x 
+~
+~
+0 0 0
+D1
+~
+~
+0 0 403
+D2
+~
+~
+0 0 405
+S
+#405
+{YThe Playtesting Arena.{x~
+{yThis area is reserved for the playtesters.  All testing eq and
+characters will reside in this area.  {x 
+~
+~
+0 0 0
+D0
+~
+~
+0 0 404
+D1
+~
+~
+0 0 400
+D2
+~
+~
+0 0 406
+S
+#406
+{YThe Playtesting Arena.{x~
+{yThis area is reserved for the playtesters.  All testing eq and
+characters will reside in this area.  {x 
+~
+~
+0 0 0
+D0
+~
+~
+0 0 405
+D1
+~
+~
+0 0 407
+S
+#407
+{YThe Playtesting Arena.{x~
+{yThis area is reserved for the playtesters.  All testing eq and
+characters will reside in this area.  {x 
+~
+~
+0 0 0
+D0
+~
+~
+0 0 400
+D1
+~
+~
+0 0 408
+D3
+~
+~
+0 0 406
+S
+#408
+{YThe Playtesting Arena.{x~
+{yThis area is reserved for the playtesters.  All testing eq and
+characters will reside in this area.  {x 
+~
+~
+0 0 0
+D0
+~
+~
+0 0 401
+D3
+~
+~
+0 0 407
+S
+#410
+{WS{wm{Do{Wk{we {DR{Wo{wo{Dm{x~
+{wThis room was designed and created to give the immortals of lance who
+smoke a place to smoke and ignore or talk to each other as much as they
+wish.  Each Imm MUST understand the rules for sitting in this room.  
+ 
+1st. NO ONE CAN TALK BAD ABOUT POT IN HERE.
+ 
+2nd. WE MUST BE NICE WHILE IN HERE.
+ 
+3rd. WE CANNOT GET MAD WITH EACH OTHER WHILE TALKING MUD BIZNESS IN THIS ROOM.
+~
+~
+0 0 0
+D2
+~
+~
+4 0 420
+S
+#420
+Zeboim's Office~
+It's a giant sand castle at the bottom of the ocean...  How odd.  One
+might guess that this is the home of a god or other magic being.  Why.. 
+Because sand wouldn't hold shape in water otherwise.  Another look and Wow
+this is the home of the legendary sea bitch Zeboim 
+~
+~
+0 4 0
+D0
+~
+~
+4 0 410
+S
+#475
+{RLunitari's Corner of the Universe{x~
+{mThe red-robed goddess has a strange fascination with the color purple. 
+Yep, she's made that pretty clear.  Her walls are purple, her carpet is
+purple, her ceiling is purple...  With those glow-in-the-dark star stickers.
+A huge corner desk fills one corner of the room.  And you'd think, with her
+being a goddess and all, the desk would be clean.  Wrong!  CD cases are
+stacked on one end next to a blaring stereo.  And beside that is her
+computer, on which she likes to goof off and mud when she gets the chance. 
+But most of the desk is cluttered with bits and pieces of PlayImm and
+PlayImp magazines.  What a whacko.  {x 
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 410 2 1
+D 0 420 0 1
+O 0 400 0 400
+O 0 401 0 400
+M 0 400 1 400 1
+M 0 403 1 405 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

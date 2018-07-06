@@ -1,0 +1,202 @@
+#HELPS
+102 AREANERAKA~
+
+{cNeraka includes:{x
+Plains of Neraka
+Neraka
+Forest of Neraka
+Volcanoes & Fissures
+~
+
+102 AREARIVEROFHEALING~
+
+{cThe River of Healing includes:{x
+River of Healing
+Lake of Light
+Temple of Mishakal (ruins)
+Hill Giant Settlement
+Cave & Spring
+Waterfall
+~
+
+102 AREASANCTION~
+
+{cSanction includes:{x
+Lords of Doom
+Sanction
+~
+
+102 AREATHROTL~
+
+{cThrotl includes:{x
+Throtl
+Throtl Gap
+~
+
+102 AREAWINSTONSTOWER~
+
+{cWinston's Tower includes:{x
+Winston's Tower
+Ruins of Istaran Fortress
+~
+
+
+
+102 AREAINFO~
+
+{YNOTE:{r If you have additional info for one of the areas or info for an area
+that doesn't have a help file please either note Reorx or email him. He can be
+reached at reorx@partyradiomail.com. A {G*{r next to the area's name means we
+are lacking information for that area. Thanks! Also, if there is a \\ before
+the area name it means that the help file does exit for that area.{x
+
+This is a full list of all the areas with help files:
+\\ Astivar Mountains                   - help astivarmountains
+Dragons Graveyard                      - help dragonsgraveyard
+\\ Hearthhome                     {G*{x    - help hearthhome
+\\ Ohme                           {G*{x    - help ohme
+\\ The Peak of Clouds/Mount Brego      - help peakofclouds  or  mountbrego
+\\ Woods of Lahue                 {G*{x    - help woodsoflahue
+Lemish                            {G*{x    - help lemish
+Garnet                            {G*{x    - help garnet
+Throtl                            {G*{x    - help throtl
+Caergoth                          {G*{x    - help caergoth
+Kalaman                           {G*{x    - help kalaman
+
+{MPlease see 'areaplan' for a list of areas that need to be made.{x
+~
+
+102 AREAPLAN~
+This is to be used as a reference to what areas need to be created:
+
+Key: {r+{x = See 'help area(name)' for information on what exactly
+             is in the area.
+        If the area name is in {Gbright green{x that means it is already
+        assigned to a builder.
+
+{WPalanthas{x          Peak of the Clouds/Mt. Brego
+Kalaman            Woods of Lahue                  {r+{GWinston's Tower{x
+Caergoth           Astivar Mts.                    Silent Plains
+Lemish             Dragons Graveyard               Worldscap Mts.
+{r+{xThrotl            Hearthhome                      Worldscrown
+Garnet                 Ohme                        Cloudpainter
+{GGwynned{x            Khalkist Mts.
+Verkhas Hills      Thoradin/Zhakar        Port Balifor
+Vingaard Mts.      {r+{xSanction              Flotsam
+Garnet Mts.        {r+{xNeraka                Hillshar
+Dargaard Mts.      Doom Range             Trigol
+
+{GQualinesti{x
+{GSolace{x
+
+I am thinking about signing a whole area to one person, aka
+Northern Ergoth etc. This way they know what they have already done
+and it may be a little more coordinated. For big areas such as
+Solamnia though it might be a curse to assign one person to the whole
+area =)
+{YKeep in mind that this is just an idea. If you have any other ideas
+about an are you would like to build please contact me, Reorx, or our
+head builder yet to be appointed. Thanks.{x
+
+See help areainfo for more information
+~
+
+102 ASTIVARMOUNTAINS~
+
+{YNOTE:{r This area is for the Astivar Mountains. This does not include the
+Peak of Clouds, Mount Brego, Woods of Lahue, or Hearthhome. Those areas will
+be made as seperate areas and will be connected when they are both done.{x
+
+	The Asitivar Mountain range is located about 100 miles west of the
+great city of Kalaman. This mountain range travels north and south and at its
+north end almost reaches the Moors and the Cape of Nordmaar. The southern end
+of the range is very close to the northern part of the Khalkist Mountains.
+	This mountain range is home to many dwarves and ogres who oddly live
+their seperate likes in a sort of harmony. They don't battle like you would
+think these to races would, but Hrench and Krun Silverchisel have created a
+sort of treaty. Occasionally, a few Lahutians will come from their village in
+the Woods of Lahue to explore the mountain ranges.
+	There is nothing very dangerous in this area so it shouldn't be too
+high of an area (level wise) but it shouldn't be very low either.
+~
+
+102 HEARTHHOME~
+
+{YNOTE:{r This area is just the dwarven village of Hearthhome. On completion,
+this area will be connected to the areas surrounding it, such as the Astivar
+Mountains and the Woods of Lahue.{x
+
+	Hearthhome is a small dwarven village at the base of the Peak of Clouds
+and Mount Brego in the Astivar Mountain range. Some of the dwarves living here
+were alive during the War of the Lance and their leader, Krun Silverchisel, was
+among these ancient dwarves. The dwarves, not wishing for another war, created
+sort of a pact with Hrench and the remainder of his Bloody Fist ogre tribe.
+
+	Little is known about this area either so if you have any addition info
+it would be much appreciated.
+~
+
+102 OHME~
+
+	I know absolutely nothing about this area except that it is northwest
+of Kalaman and north of the Astivar Mountain Range. Info would help.
+~
+
+102 PEAKOFCLOUDS MOUNTBREGO~
+
+{YNOTE:{r This area is for The Peak of Clouds and Mount Brego only. The Astivar
+Mountains will be made as a seperate area. The areas will then be connected.{x
+
+	The Peak of Clouds, the highest point in the Astivar Mountains, and its
+sister peak Mount Brego haven been the center of mystical activities since the
+Cataclysm. Most people do not know of this areas importance, but those who do
+think this a place to be avoided. (Since this is so, maybe make the area
+contain pretty decent EQ. Could sort of be like the Hawklord area on Ansalon
+(if you play/played there)).
+	The Astivar Mountains were created created during the Cataclysm.
+Their peaks range from being 4,000 to 10,000 feet above sea level. Besides
+this fact, Mount Brego reaches 12,000 feet while its sister the Peak of Clouds
+skies 14,000 feet above sea level.
+	The Peak of Clouds is so high that the boundaries between Krynn and
+the Abyss are very weak up there. Those skilled in the art of magic are able
+to view the Abyss and the very few who have mastered the art are even able to
+enter into the actual plane. (This is pretty cool to guild. You could have a
+closed exit at the very top of the Peak (no key), meaning you would need pass
+door to get through. Since only the skilled in magic can see this have the
+room behind the exit have a description like you are looking out into the
+Abyss. Then have a portal that is hidden and invisible that leads to the Abyss
+(the only way into the Abyss). This way, they would need magic to get out of
+there, like you would have to in actual DL settings). At the top their is also
+a Kyrie living there. He is extremely absentminded yet he greatly understands
+the powers within Krynn and oneself which can be used to perform at least some
+sort of magic. Keelak, being very smart, deffinitely seems a real dummy.
+(Maybe have a ledge near the Abyss exit for his home. You could make a nifty
+mob_prog for him too :P).
+	Mount Brego is filled with magical tunnels that could lead you anywhere
+in all of Ansalon. (Also cool to build. Have many side tunnels with a one way
+exit at the end to some room across the continent. Maybe even some go to an
+aggro mob or a death trap to make it a little dangerous). Ogres live in these
+tunnels mapping them out for the Great Green Dragon Lorrinar, so called master
+of the Woods of Lahue. (Lorrinar is part of the Woods of Lahue, a seperate
+area). These Ogres are the remnants of the Bloody Fist tribe. After being
+forced to flee their homeland by the dragon known as Cinder they fled into the
+Astivar Mountains making their home in Mount Brego. Their captain (Hrench)
+makes sure to please Lorrinar with his tribes' maps because he does not wish
+to anger yet another dragon.
+~
+
+102 WOODSOFLAHUE~
+
+{YNOTE:{r This area is the Woods of Lahue only. This does not include the
+Astivar Mountains, the Peak of Clouds, Mount Brego or Hearthhome. Those will
+be seperate areas and will be connected on completion.{x
+
+	The Woods of Lahue is a small forested area at the northern end of the
+Astivar Mountains. Inside this forest there are some villages which contiain
+native Lahutians. This race is literally unkown and so is the area.
+
+	If you have any additional info, please note or email Reorx. Thanks.
+~
+ 
+0 $~
+#$

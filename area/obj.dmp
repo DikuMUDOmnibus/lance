@@ -1,0 +1,1815 @@
+
+Object Analysis
+---------------
+#1      0 active   0 reset      a gold coin
+#2      0 active   0 reset      a steel coin
+#3      0 active   0 reset      %d steel coins
+#4      0 active   0 reset      %d gold coins
+#5      0 active   0 reset      %d gold coins and %d steel coins
+#10     0 active   0 reset      the corpse of %s
+#11     0 active   0 reset      the corpse of %s
+#12     0 active   0 reset      the head of %s
+#13     0 active   0 reset      the heart of %s
+#14     0 active   0 reset      the arm of %s
+#15     0 active   0 reset      the leg of %s
+#16     0 active   0 reset      the guts of %s
+#17     0 active   0 reset      the brains of %s
+#19     1 active   0 reset      safe token
+#20     0 active   0 reset      a Magic Mushroom
+#21     1 active   0 reset      a bright ball of light
+#22     0 active   0 reset      a magical spring
+#23     0 active   0 reset      a floating disc
+#24     0 active   0 reset      safe container for %s
+#25     0 active   0 reset      a shimmering gate
+#26     0 active   0 reset      {DTakhisis{x's Crown of Power
+#27     0 active   0 reset      ({CSteel{x) the Hammer of Reorx
+#28     1 active   0 reset      the legendary Dragonlance
+#29     0 active   0 reset      habbakuk's pipe
+#30     0 active   0 reset      conrad's walking stick
+#31     0 active   0 reset      the Staff of {WMagius{x
+#32     0 active   0 reset      huma's travel pack
+#33     0 active   0 reset      ({cMagical{x) {GKe{Rnd{Ber{x {WWa{Glk{Ying{x {yshoes{x
+#34     0 active   0 reset      gauntlets from Istar
+#35    16 active   0 reset      a {RR{Be{Gs{Yt{Mr{Ci{Rn{Bg{x Coupon
+#36     2 active   0 reset      a {mM{ba{ck{re{yo{gv{be{rr{x Coupon
+#37     7 active   0 reset      a {cQuest{x Note
+#38     0 active   0 reset      a {cTrue {bFaith{x Coupon
+#39     1 active   0 reset      a {rHome{x Coupon
+#40     0 active   0 reset      a ({WDiamond{x) Sweet looking gem
+#41     0 active   0 reset      a {RDeck{Ydraw{x coupon
+#42     0 active   0 reset      {RR{mP{Da {WCo{Mup{won{x
+#43     1 active   0 reset      ({GDeck{x) {CSquirtle{x
+#44     0 active   0 reset      ({GDeck{x) {GBulbasaur{x
+#45     0 active   0 reset      ({GDeck{x) {RCharizard{x
+#46     0 active   0 reset      ({GDeck{x) {YPikachu{x
+#47     0 active   0 reset      ({YChampion{x) {YA Pokemon badge{x
+#87     0 active   0 reset      ({DDark{x) Gauntlets of Abyssal Planes
+#89     3 active   0 reset      ({DBlack{x) {cA stick of Licorice{x
+#90     0 active   0 reset      ({cTwizzlers{x) {DA package of black Licorice{x
+#91     0 active   0 reset      {yThe Dark Sword "{DNecromondius{y"{x
+#92     4 active   0 reset      {WA little milk fountain{x
+#93    13 active   0 reset      a {yWOM{wDRADON{x
+#94     9 active   0 reset      ({ROpening Day{x) {MA Legends of the Lance Ballcap{x
+#95    10 active   0 reset      ({ROpening Day{x) {WThe Newbie Aura{x
+#96    10 active   0 reset      ({ROpening Day{x) {CA Legends of the Lance Fan Club T-Shirt{x
+#97     9 active   0 reset      ({YTwisted{x) {yVines from a Vallenwood twisted into a Bracelet{x
+#98     7 active   0 reset      ({ROpening Day{x) {YThe best carepackage ever{x
+#99     1 active   0 reset      a {YGolden{x flute
+#300    1 active   0 reset      a small dusk of timian herbs
+#301    1 active   0 reset      a small dusk of black gyvel
+#302    1 active   0 reset      a small dusk of poison ivy
+#303    1 active   0 reset      a dark red jar
+#304    3 active   0 reset      wild flowers
+#307    1 active   0 reset      a strange amulet
+#308    1 active   0 reset      a druish staff
+#309    1 active   0 reset      a rabbit roast
+#310    1 active   0 reset      a strange template
+#311    1 active   0 reset      a clear potion
+#312    1 active   0 reset      a scroll titled 'jhyfrdow'
+#400    0 active   0 reset      (no short description)
+#401    6 active   0 reset      a dwarven skull
+#420    1 active   0 reset      a velvet covered king sized bed
+#421    1 active   0 reset      {DSirrion's Gruesome Throne{x
+#600    1 active   0 reset      a hand axe
+#601    4 active   0 reset      a meat cleaver
+#602    2 active   0 reset      a side of beef
+#603    2 active   0 reset      a side of pork
+#604    2 active   0 reset      a side of horse
+#605    2 active   0 reset      a defeathered chicken
+#606    1 active   0 reset      an emerald ring
+#607    1 active   0 reset      a glass trinket
+#608    1 active   0 reset      a golden necklace
+#609    2 active   0 reset      a head of cabbage
+#610    2 active   0 reset      a head of lettuce
+#611    3 active   0 reset      a bottle of milk
+#612    2 active   0 reset      an apple
+#613    2 active   0 reset      an ear of corn
+#614    1 active   0 reset      a pile of hay
+#615    3 active   0 reset      a pitchfork
+#616   14 active   0 reset      a leather vest
+#617    1 active   0 reset      some leather sleeves
+#618    1 active   0 reset      some leather leggings
+#619    1 active   0 reset      some leather boots
+#620   27 active   0 reset      an Ofcol signet ring
+#621   15 active   0 reset      brass plate
+#622    2 active   0 reset      a brass helm
+#623    3 active   0 reset      brass leggings
+#624    2 active   0 reset      brass boots
+#625    2 active   0 reset      brass gauntlets
+#626    2 active   0 reset      brass sleeves
+#627    8 active   0 reset      a brass shield
+#628    2 active   0 reset      a brass girth
+#629    1 active   0 reset      a brass bracer
+#630   14 active   0 reset      a claymore
+#631    2 active   0 reset      silver plate
+#632    2 active   0 reset      a silver helm
+#633    1 active   0 reset      silver leggings
+#634    1 active   0 reset      silver boots
+#635    1 active   0 reset      silver gauntlets
+#636    1 active   0 reset      silver sleeves
+#637    1 active   0 reset      the silver shield
+#638    1 active   0 reset      the silver girth
+#639    1 active   0 reset      platinum plate
+#640    1 active   0 reset      the platinum helmet
+#641    1 active   0 reset      platinum leggings
+#642    1 active   0 reset      platinum boots
+#643    1 active   0 reset      platinum gauntlets
+#644    1 active   0 reset      platinum sleeves
+#645    1 active   0 reset      the platinum spiked shield
+#646    1 active   0 reset      the platinum girth
+#647    7 active   0 reset      holy Avenger
+#648    4 active   0 reset      a shot of whiskey
+#649    5 active   0 reset      a quart of ale
+#650    4 active   0 reset      a quart of port brew
+#651    6 active   0 reset      the citadel key
+#652    1 active   0 reset      the Holy Symbol of Bahamut
+#653    2 active   0 reset      a ranseur
+#654    6 active   0 reset      a golden dragonscale torso
+#655    0 active   0 reset      a golden dragonhelm
+#656    1 active   0 reset      golden dragonscale leggings
+#657    2 active   0 reset      golden dragonscale boots
+#658    1 active   0 reset      golden dragonscale gauntlets
+#659    1 active   0 reset      golden dragonscale sleeves
+#660    6 active   0 reset      a golden dragonscale shield
+#661    1 active   0 reset      a golden dragonscale girth
+#662    3 active   0 reset      the golden claw
+#663    1 active   0 reset      the Gold Dragon Orb
+#664    4 active   0 reset      a golden robe
+#665    3 active   0 reset      a house key
+#666    3 active   0 reset      a broom
+#667    1 active   0 reset      a chest
+#668    1 active   0 reset      the Golden Claw
+#669    3 active   0 reset      the golden claw
+#900    1 active   0 reset      the Aegis
+#901    1 active   0 reset      the Thunder Bolt
+#902    1 active   0 reset      a Winged Helmet
+#903    1 active   0 reset      the spear of Ares
+#904    2 active   0 reset      a pair of winged sandals
+#905    2 active   0 reset      an ivory staff
+#906    1 active   0 reset      poseidon's Trident
+#907    2 active   0 reset      a silver bow
+#908    2 active   0 reset      flaming gauntlets
+#909    9 active   0 reset      ambrosia
+#910    2 active   0 reset      a glowing necklace
+#911    2 active   0 reset      a sapphire ring
+#912    1 active   0 reset      a brightly glowing shield
+#913    5 active   0 reset      a notched axe
+#914    5 active   0 reset      a bunch of grapes
+#915    4 active   0 reset      a fan made of peacock feathers
+#916    4 active   0 reset      a lute
+#917    4 active   0 reset      a gold nugget
+#918    1 active   0 reset      an apple
+#919    5 active   0 reset      a pear
+#920    1 active   0 reset      a orange
+#921    5 active   0 reset      a kiwi
+#922    1 active   0 reset      the Amulet of Ra
+#923    1 active   0 reset      the Sword of the Sun
+#924    1 active   0 reset      a blue robe
+#925    1 active   0 reset      a wide brimmed hat
+#926    9 active   0 reset      nectar
+#927    1 active   0 reset      a Cell key
+#928    1 active   0 reset      a secret map of Olympus
+#1100   1 active   0 reset      the rainbow staff
+#1101   1 active   0 reset      sting
+#1102   1 active   0 reset      a sign
+#1103   4 active   0 reset      a pipeweed bread
+#1104   1 active   0 reset      a silvery cloak
+#1105   1 active   0 reset      the One Ring
+#1106   1 active   0 reset      an elven spear
+#1107   1 active   0 reset      a mithril axe
+#1108   1 active   0 reset      the thain girth
+#1109   0 active   0 reset      a tiny dagger
+#1110   8 active   0 reset      an egg
+#1111   1 active   0 reset      a bag
+#1112   1 active   0 reset      a lantern
+#1113   1 active   0 reset      a bardiche
+#1114   0 active   0 reset      a flail
+#1115   3 active   0 reset      a wooden bardiche
+#1116   4 active   0 reset      a shiriff's dagger
+#1117   1 active   0 reset      the Thain's club
+#1200   5 active   0 reset      a sash with the symbol of the raven
+#1500  13 active   0 reset      an automated pounding mace
+#1501   6 active   0 reset      a metal plate
+#1502   5 active   0 reset      a short gladius
+#1503   4 active   0 reset      a gnomish book
+#1504   1 active   0 reset      a small pair of glasses
+#1505   2 active   0 reset      a small pair of working gloves
+#1506   1 active   0 reset      a small fountain
+#1507   1 active   0 reset      reorx's altar
+#1508   1 active   0 reset      a wooden pew
+#1509   1 active   0 reset      white Stone
+#1510   1 active   0 reset      gunthar's heavily gilded throne
+#1511   1 active   0 reset      a master bed
+#1512   4 active   0 reset      a queen sized bed
+#1513   1 active   0 reset      a horse trough
+#1514   6 active   0 reset      a castle guards sword
+#1515   0 active   0 reset      a castle guard shield
+#1516   1 active   0 reset      a pair of stable boy boots
+#1517   2 active   0 reset      a gold necklace
+#1518   1 active   0 reset      a gleaming broad sword
+#1519   1 active   0 reset      chain mail armor
+#1520   1 active   0 reset      a small red potion
+#1521   1 active   0 reset      a small green potion
+#1522   1 active   0 reset      a small wand of magic missile
+#1523   0 active   0 reset      a flaming broad sword
+#1524   3 active   0 reset      a pulsating {rred{X orb
+#1525   0 active   0 reset      an ornate suit of plate mail
+#1526   0 active   0 reset      ({rBloody{X) a long double edged broadsword
+#1595   0 active   0 reset      a life size inflateable {rChemosh{X doll
+#1596   0 active   0 reset      {Da {rbloody{D suit of {ybone{D armor{X
+#1597   2 active   0 reset      {rChemosh's bloody throne{X
+#1598   0 active   0 reset      {Da screaming {yundead{D soul{X
+#1599   0 active   0 reset      {rChemosh's{D jagged dagger of {yundead{D souls{X
+#2001   1 active   0 reset      a glowing key
+#2002   2 active   0 reset      a suit of granite platemail
+#2003   2 active   0 reset      an onyx ring
+#2004   1 active   0 reset      the neutralizer
+#2005   1 active   0 reset      the sword Excalibur
+#2006   2 active   0 reset      a kingly crown
+#2007   1 active   0 reset      stone
+#2008   1 active   0 reset      a flask of holy water
+#2009  15 active   0 reset      a suit of chainmail
+#2010   1 active   0 reset      a white cape
+#2011   2 active   0 reset      the shield of defense
+#2012   2 active   0 reset      a dragonscale shield
+#2013   1 active   0 reset      a prism wand
+#2014   2 active   0 reset      a shadow cloak
+#2015  10 active   0 reset      a misty potion
+#2016  11 active   0 reset      a templar's sword
+#2200   7 active   0 reset      a jagged spear
+#2201   1 active   0 reset      a silver dagger
+#2202   1 active   0 reset      a dragon's tooth knife
+#2203   1 active   0 reset      a dragon skin bracelet
+#2204   1 active   0 reset      a black silk belt
+#2210   1 active   0 reset      a white silk belt
+#2211   1 active   0 reset      a platinum bracelet.
+#2220   1 active   0 reset      a holy symbol
+#2221   0 active   0 reset      a plain black robe
+#2222   1 active   0 reset      an emerald sword
+#2223   2 active   0 reset      a stone club
+#2224   0 active   0 reset      a diamond ring
+#2230   0 active   0 reset      a copper ring
+#2231   1 active   0 reset      a steel key
+#2232   1 active   0 reset      a ruby key
+#2233   1 active   0 reset      a white key
+#2234   1 active   0 reset      a grey key
+#2237   0 active   0 reset      a stone key
+#2240   1 active   0 reset      a black key
+#2241   1 active   0 reset      a platinum key
+#2242   1 active   0 reset      a crested shield
+#2243   1 active   0 reset      a golden wand
+#2244   1 active   0 reset      a silver staff
+#2245   1 active   0 reset      the staff of the dragon
+#2246   1 active   0 reset      scale mail
+#2250   1 active   0 reset      a black staff
+#2251   1 active   0 reset      a cyan potion
+#2252   1 active   0 reset      a magenta potion
+#2254   1 active   0 reset      a pair of spiked gauntlets
+#2260   2 active   0 reset      a golden scimitar
+#2261   2 active   0 reset      a diamond brooch
+#2270   1 active   0 reset      a runed scroll
+#2271   1 active   0 reset      a pair of dragon skin gloves
+#2275   1 active   0 reset      a helm of dragon kind
+#2276   1 active   0 reset      a fur cloak
+#2280   1 active   0 reset      a pair of dragon scale leggings
+#2281   1 active   0 reset      a set of dragon scale sleeves
+#2285   1 active   0 reset      a dragon tailed whip
+#2286   8 active   0 reset      a copper hammer
+#2287   5 active   0 reset      a silver dagger
+#2299   1 active   0 reset      a tarnished gold key
+#2800   1 active   0 reset      the cadaver-toy
+#2801   1 active   0 reset      the heap of carnage
+#2802   1 active   0 reset      the troll skin
+#2803   1 active   0 reset      an opal ring
+#2804   1 active   0 reset      a leather belt
+#2805   1 active   0 reset      a cracked bone
+#3000   1 active   0 reset      a barrel of beer
+#3001   1 active   0 reset      a bottle of beer
+#3002   3 active   0 reset      a bottle of ale
+#3003   4 active   0 reset      a bottle of firebreather
+#3004   4 active   0 reset      a bottle of local specialty
+#3005   1 active   0 reset      Hassan's scimitar
+#3006   0 active   0 reset      A Clan Stone
+#3009   1 active   0 reset      a big pot pie
+#3010   1 active   0 reset      the donation pit
+#3011   1 active   0 reset      a bread
+#3012   1 active   0 reset      a cinnamon roll
+#3013   1 active   0 reset      a batch of Sara's cookies
+#3014   1 active   0 reset      a blueberry danish
+#3020   1 active   0 reset      a dagger
+#3021   9 active   0 reset      a small sword
+#3022  29 active   0 reset      a long sword
+#3023   1 active   0 reset      a club
+#3024   1 active   0 reset      a mace
+#3025   1 active   0 reset      a hand axe
+#3026   1 active   0 reset      a battle axe
+#3027   1 active   0 reset      a spear
+#3028   1 active   0 reset      a wooden staff
+#3029   1 active   0 reset      a flail
+#3030   1 active   0 reset      a torch
+#3031   1 active   0 reset      a hooded brass lantern
+#3032   1 active   0 reset      a bag
+#3033   1 active   0 reset      a box
+#3039   1 active   0 reset      a scroll of cancellation
+#3040   1 active   0 reset      a scroll of identify
+#3041   1 active   0 reset      a yellow potion of see invisible
+#3042   1 active   0 reset      a scroll of recall
+#3043   1 active   0 reset      a ring of protection
+#3044   1 active   0 reset      a wand of magic missiles
+#3045   1 active   0 reset      a scale mail jacket
+#3046   0 active   0 reset      a bronze breast plate
+#3047   0 active   0 reset      a special bronze breast plate
+#3050   1 active   0 reset      a raft
+#3051   1 active   0 reset      a canoe
+#3052   6 active   0 reset      a leather bracer
+#3053   1 active   0 reset      a leather belt
+#3054   1 active   0 reset      a leather girdle
+#3060   2 active   0 reset      a leather jerkin
+#3061   2 active   0 reset      a leather cap
+#3062   1 active   0 reset      a pair of leather pants
+#3063   1 active   0 reset      a pair of leather boots
+#3064   1 active   0 reset      a pair of leather gloves
+#3065   1 active   0 reset      a pair of leather sleeves
+#3066   6 active   0 reset      a hard leather jerkin
+#3067   1 active   0 reset      a hard leather cap
+#3068   1 active   0 reset      a pair of hard leather pants
+#3069   1 active   0 reset      a pair of hard leather boots
+#3070   1 active   0 reset      a pair of hard leather gloves
+#3071   1 active   0 reset      a pair of hard leather sleeves
+#3072   8 active   0 reset      a scale mail jerkin
+#3073   1 active   0 reset      a scale mail coif
+#3074   3 active   0 reset      a long scale mail skirt
+#3075   2 active   0 reset      a pair of reinforced boots
+#3076   3 active   0 reset      a pair of reinforced gloves
+#3077   3 active   0 reset      a pair of scale mail sleeves
+#3080   1 active   0 reset      a potion of healing
+#3081   1 active   0 reset      a potion of sanctuary
+#3082   1 active   0 reset      a potion of divine protection
+#3083   1 active   0 reset      a potion of cure light wounds
+#3084   1 active   0 reset      a potion of cure serious wounds
+#3085   1 active   0 reset      a potion of cure critical wounds
+#3086   1 active   0 reset      a bottle of antidote
+#3087   1 active   0 reset      a potion of cure blindness
+#3088   1 active   0 reset      a vial of holy water
+#3089   1 active   0 reset      a potion of armor
+#3090   1 active   0 reset      a potion of negation
+#3091   1 active   0 reset      a potion of flying
+#3092   1 active   0 reset      a potion of true sight
+#3097   1 active   0 reset      a small metal shield
+#3100   2 active   0 reset      a cup of tea
+#3101   1 active   0 reset      a cup of coffee
+#3102   1 active   0 reset      a cup of water
+#3105   2 active   0 reset      a bronze bracer
+#3106   0 active   0 reset      an iron bracer
+#3110   1 active   0 reset      a chain mail shirt
+#3111   1 active   0 reset      a chain mail coif
+#3112   1 active   0 reset      a long chain mail skirt
+#3113   1 active   0 reset      a pair of iron-bound boots
+#3114   1 active   0 reset      a pair of chain mail gauntlets
+#3115   1 active   0 reset      a pair of chain mail sleeves
+#3116   1 active   0 reset      a large metal shield
+#3117   1 active   0 reset      a small wooden shield
+#3120   2 active   0 reset      a key
+#3121   1 active   0 reset      a key
+#3122   1 active   0 reset      a key
+#3123   1 active   0 reset      a key
+#3124   1 active   0 reset      a long sword
+#3129   0 active   0 reset      a pair of hand cuffs
+#3130   1 active   0 reset      the desk
+#3131   1 active   0 reset      the safe
+#3132   1 active   0 reset      the silver coins
+#3133   0 active   0 reset      the City Key
+#3134   3 active   0 reset      the Bench
+#3135   2 active   0 reset      a fountain
+#3136   1 active   0 reset      a small pile of coins
+#3137   1 active   0 reset      a steel key
+#3138   2 active   0 reset      a buffalo water skin
+#3139   1 active   0 reset      the receptionist's letter of resignation
+#3140   1 active   0 reset      the bank's notice of liquidation
+#3150   1 active   0 reset      a cup of cinnamon coffee
+#3151   1 active   0 reset      a bowl of chicken noodle soup
+#3152   1 active   0 reset      a bowl of beef stew
+#3153   1 active   0 reset      a biscuit
+#3154   1 active   0 reset      a bottle of George Killian's Irish Red
+#3161   0 active   0 reset      a white key
+#3162   7 active   0 reset      a map of the city of Midgaard
+#3163   1 active   0 reset      a map of Thera
+#3164   1 active   0 reset      a map of southern Midgaard
+#3165   1 active   0 reset      a map of the Dwarven Kingdom
+#3166   1 active   0 reset      a map of the first level of Moria
+#3167   1 active   0 reset      a map of New Thalos 
+#3168   1 active   0 reset      a map of Olympus
+#3200  12 active   0 reset      the juke
+#3237   0 active   0 reset      the donation pit
+#3238   0 active   0 reset      a buffalo water skin
+#3240   0 active   0 reset      a scroll of identify
+#3241   0 active   0 reset      a yellow potion of see invisible
+#3242   0 active   0 reset      a scroll of recall
+#3280   0 active   0 reset      a potion of healing
+#3281   0 active   0 reset      a potion of sanctuary
+#3282   0 active   0 reset      a potion of divine protection
+#3283   0 active   0 reset      a potion of cure light wounds
+#3284   0 active   0 reset      a potion of cure serious wounds
+#3285   0 active   0 reset      a potion of cure critical wounds
+#3286   0 active   0 reset      a bottle of antidote
+#3287   0 active   0 reset      a potion of cure blindness
+#3288   0 active   0 reset      a vial of holy water
+#3289   0 active   0 reset      a potion of armor
+#3290   0 active   0 reset      a potion of negation
+#3291   0 active   0 reset      a potion of flying
+#3292   0 active   0 reset      a potion of true sight
+#3349   2 active   0 reset      a glowing long sword
+#3350  36 active   0 reset      a standard issue sword
+#3351  10 active   0 reset      a standard issue dagger
+#3352   0 active   0 reset      a standard issue mace
+#3353  27 active   0 reset      a standard issue vest
+#3354   3 active   0 reset      a standard issue shield
+#3355   3 active   0 reset      a standard issue cloak
+#3356   2 active   0 reset      a standard issue helmet
+#3357   2 active   0 reset      a pair of standard issue leggings
+#3358   2 active   0 reset      a pair of standard issue boots
+#3359   2 active   0 reset      a pair of standard issue gloves
+#3360   1 active   0 reset      a pair of standard issue sleeves
+#3361   2 active   0 reset      a standard issue cape
+#3362   2 active   0 reset      a standard issue belt
+#3363   3 active   0 reset      a standard issue bracer
+#3364  31 active   0 reset      a city guard signet ring
+#3365  31 active   0 reset      a war banner
+#3371   0 active   0 reset      a diamond wedding ring
+#3372   0 active   0 reset      a gold wedding band
+#3373   1 active   0 reset      a small pearl
+#3374   1 active   0 reset      a garnet
+#3375   1 active   0 reset      an emerald
+#3376   1 active   0 reset      a ruby
+#3377   1 active   0 reset      a diamond
+#3378   1 active   0 reset      an opal
+#3500  14 active   0 reset      a goblin's short sword
+#3501   1 active   0 reset      a long spear
+#3502   6 active   0 reset      a black horned helmet
+#3503   2 active   0 reset      a stained travelling cloak
+#3504   2 active   0 reset      an enchanted leather bracer
+#3505   1 active   0 reset      a rune-covered knife
+#3600   0 active   0 reset      a candlestick
+#3601   1 active   0 reset      a brandy bottle
+#3602   1 active   0 reset      a brandy bottle
+#3603   2 active   0 reset      a wheelbarrow
+#3604   1 active   0 reset      a shovel
+#3605   1 active   0 reset      a rake
+#3610   5 active   0 reset      a dusty skeleton
+#3611   1 active   0 reset      a amethyst
+#3612   1 active   0 reset      a silver pendant
+#3613   1 active   0 reset      a silver dagger
+#5000   3 active   0 reset      a small mining pick
+#5001   1 active   0 reset      a glowing suit of banded mail
+#5002   1 active   0 reset      the halberd
+#5003   1 active   0 reset      the amulet
+#5005   1 active   0 reset      a large leg bone
+#5006   0 active   0 reset      a small cactus cup
+#5007   1 active   0 reset      a small wicker basket
+#5008   1 active   0 reset      a small wicker basket
+#5009   1 active   0 reset      a small wicker basket
+#5010   1 active   0 reset      a small wicker basket
+#5011   1 active   0 reset      a coil of rope
+#5012   1 active   0 reset      a bunch of stakes
+#5013   1 active   0 reset      an old, tattered map
+#5014   1 active   0 reset      a thick padded turban
+#5015   1 active   0 reset      a great pile of treasure
+#5016   1 active   0 reset      a long, curved sabre
+#5017   1 active   0 reset      a curved scimitar
+#5018   5 active   0 reset      a long, pointed cutlass
+#5019   1 active   0 reset      a pink potion
+#5020   1 active   0 reset      a platinum wand
+#5021   1 active   0 reset      a strange energy bow
+#5022   1 active   0 reset      an encrypted scroll
+#5023   1 active   0 reset      an iron bound chest
+#5024   1 active   0 reset      a golden key
+#5025   1 active   0 reset      a copper bracelet
+#5026   1 active   0 reset      a large ruby
+#5027   1 active   0 reset      a glittering diamond
+#5028   1 active   0 reset      a brilliant sapphire
+#5029   1 active   0 reset      a deep blue lapis lazuli
+#5030   1 active   0 reset      the tiger jewel
+#5031   1 active   0 reset      the red-eyed jewel
+#5032   1 active   0 reset      a fiery green emerald
+#5100  14 active   0 reset      a commoner's longsword
+#5101   4 active   0 reset      a noble's longsword
+#5102   4 active   0 reset      a snake headed whip
+#5103   4 active   0 reset      a snake headed whip
+#5104   6 active   0 reset      a snake headed whip
+#5105   3 active   0 reset      a black longsword
+#5106   0 active   0 reset      a snake headed whip
+#5107   0 active   0 reset      a snake headed whip
+#5108   1 active   0 reset      an iron bracer
+#5109   1 active   0 reset      a pair of gauntlets
+#5110   3 active   0 reset      a silvery blue wand
+#5111   1 active   0 reset      a small helmet
+#5112   1 active   0 reset      a small ruby ring
+#5113   1 active   0 reset      a spider shaped dagger
+#5114   1 active   0 reset      a small bright green hat
+#5200   2 active   0 reset      a mithril vest
+#5201   3 active   0 reset      a mithril helm
+#5202   3 active   0 reset      a pair of mithril gauntlets
+#5203   3 active   0 reset      some mithril sleeves
+#5204   3 active   0 reset      a pair of mithril boots
+#5205   3 active   0 reset      a set of mithril leggings
+#5206   3 active   0 reset      a mithril girth
+#5207   1 active   0 reset      a battered iron breast plate
+#5208   1 active   0 reset      a sturdy iron shield
+#5210   1 active   0 reset      a black potion
+#5211   1 active   0 reset      an orange potion
+#5214   3 active   0 reset      a smooth quartz ball
+#5215   2 active   0 reset      a tattered scroll
+#5216   1 active   0 reset      a bound scroll
+#5217   1 active   0 reset      a silver flute
+#5218   2 active   0 reset      a demon-faced talisman
+#5219   2 active   0 reset      a chunk of venison
+#5220   1 active   0 reset      a large cracked fountain
+#5221  17 active   0 reset      a two-handed sword
+#5222   2 active   0 reset      a black silk robe
+#5223   2 active   0 reset      a dark green cloak
+#5224   3 active   0 reset      an engraved ebony seal
+#5225   1 active   0 reset      the desk
+#5226   3 active   0 reset      an engraved ivory seal
+#5227   1 active   0 reset      the glass cabinet
+#5228   1 active   0 reset      a rotten arm
+#5230   1 active   0 reset      a pale blue stone
+#5231   2 active   0 reset      a scarlet and blue stone
+#5232   3 active   0 reset      an incandescent blue stone
+#5233   3 active   0 reset      a deep red stone
+#5234   0 active   0 reset      a pink stone
+#5235   3 active   0 reset      a pearly white stone
+#5237   3 active   0 reset      a lavender and green stone
+#5239   2 active   0 reset      a dull grey stone
+#5241   1 active   0 reset      a pink and green stone
+#5243   2 active   0 reset      a clear stone
+#5250   1 active   0 reset      a mandolin
+#5251   1 active   0 reset      a golden harp
+#5252  13 active   0 reset      a long slim dagger
+#5300  20 active   0 reset      a lamia collar
+#5301   1 active   0 reset      a beautiful iron breast plate
+#5302   1 active   0 reset      a green serpentine staff
+#5304   1 active   0 reset      a scroll of enchantment
+#5305   1 active   0 reset      a bound scroll
+#5306   1 active   0 reset      a large beautiful fountain
+#5307   1 active   0 reset      the curved desk
+#5308   1 active   0 reset      the glass cabinet
+#5309   1 active   0 reset      a mandolin
+#5310   1 active   0 reset      a golden harp
+#5311   1 active   0 reset      a silver flute
+#5312   0 active   0 reset      a green potion
+#5313   1 active   0 reset      some bluish herbs
+#5314   1 active   0 reset      some purplish herbs
+#5315   1 active   0 reset      some grayish herbs
+#5316   1 active   0 reset      some orangish herbs
+#5317   8 active   0 reset      an imperial sword
+#5318   8 active   0 reset      an imperial mace
+#5319  16 active   0 reset      an imperial chest plate
+#5320   7 active   0 reset      an imperial shield
+#5321  12 active   0 reset      an imperial cloak
+#5322   1 active   0 reset      an imperial helm
+#5323   1 active   0 reset      a pair of imperial plate leggings
+#5324   2 active   0 reset      a pair of imperial plate boots
+#5325   2 active   0 reset      a pair of imperial plate gloves
+#5326   1 active   0 reset      a pair of imperial plate sleeves
+#5327   8 active   0 reset      an imperial cape
+#5328   6 active   0 reset      an imperial belt
+#5329   5 active   0 reset      an imperial metal bracer
+#5330   5 active   0 reset      an imperial city guard signet ring
+#5331   2 active   0 reset      an imperial war banner
+#5332   1 active   0 reset      a two-handed sword
+#5600   0 active   0 reset      {yThe Pestilence Mace{x
+#5601   0 active   0 reset      (no short description)
+#5603   1 active   0 reset      a Marble Bench
+#5605   1 active   0 reset      a white marble fountain.
+#5617   1 active   0 reset      an onyx throne erected for {DMorgion{x
+#5633   2 active   0 reset      {Man {Renticing {Mvelvet bed{x
+#5634   1 active   0 reset      a prayer box
+#6000   1 active   0 reset      a lumber axe
+#6001   1 active   0 reset      a chequered shirt
+#6002   1 active   0 reset      a pair of leather boots
+#6003   1 active   0 reset      a fireplace
+#6005   1 active   0 reset      a wooden chest
+#6006   1 active   0 reset      a small brass key
+#6007   1 active   0 reset      a heap of silver coins
+#6010   1 active   0 reset      some blackberries
+#6011   3 active   0 reset      a mushroom
+#6013   2 active   0 reset      the barrel
+#6102   1 active   0 reset      a colossal tree
+#6103   1 active   0 reset      a long, grey branch
+#6104   1 active   0 reset      a long, grey branch
+#6105   1 active   0 reset      a long, grey branch
+#6106   3 active   0 reset      a toadstool
+#6107   1 active   0 reset      a toadstool
+#6110   1 active   0 reset      a yellow potion
+#6111   1 active   0 reset      a large round shield
+#6112   1 active   0 reset      an iron crown
+#6114   1 active   0 reset      an iron ring
+#6155   1 active   0 reset      the morning star
+#6303   1 active   0 reset      a pontiff's headdress
+#6304   2 active   0 reset      a black knight's visor
+#6308   1 active   0 reset      a big pile of coins
+#6309   4 active   0 reset      a blue potion
+#7190   1 active   0 reset      a glinting ring of silver
+#7200   1 active   0 reset      the devil rod
+#7201   1 active   0 reset      the large mace
+#7202   2 active   0 reset      the small mace
+#7203   1 active   0 reset      a purple cloak
+#7204   1 active   0 reset      an neon blue potion
+#7205   1 active   0 reset      a black key
+#7206   1 active   0 reset      a strange white skull
+#7208   4 active   0 reset      a small stick
+#7209   2 active   0 reset      a pair of muddy boots
+#7210   0 active   0 reset      a huge treasure
+#7211   9 active   0 reset      a short sword
+#7216   1 active   0 reset      a red dragon claw
+#7217   1 active   0 reset      a silvery breast plate
+#7218   1 active   0 reset      some silvery leg plates
+#7219   1 active   0 reset      a pair of silvery gloves
+#7220   1 active   0 reset      a silvery helmet
+#7221   1 active   0 reset      the shield of the rose
+#7222   1 active   0 reset      a pair of silvery boots
+#7223   1 active   0 reset      some silvery arm plates
+#7224   1 active   0 reset      a white cloak
+#7298   1 active   0 reset      a huge treasure
+#7299   0 active   0 reset      a short sword
+#7300   1 active   0 reset      a backpack
+#7301   0 active   0 reset      a large beltpouch
+#7303   1 active   0 reset      the Red DragonOrb
+#7304   1 active   0 reset      a red dragon torso
+#7305   1 active   0 reset      red dragonscale leggings
+#7306   1 active   0 reset      a pair of red dragon claws
+#7307   1 active   0 reset      a red dragonhelm
+#7308   1 active   0 reset      the red dragon shield
+#7309   1 active   0 reset      a pair of a red dragon's rear claws
+#7310   1 active   0 reset      red dragon arm guards
+#7700   1 active   0 reset      a massive slate-grey sledgehammer
+#7701   0 active   0 reset      a violet scroll
+#7702   1 active   0 reset      a black etched tablet
+#7703   4 active   0 reset      a scroll with githyanki writings on it
+#7704   2 active   0 reset      a small demon's amulet
+#7705   1 active   0 reset      a devilish talisman
+#7706  12 active   0 reset      a silvery knife
+#7707   8 active   0 reset      a silvery dagger
+#7708  10 active   0 reset      an extremely sharp and thin sword
+#7709   5 active   0 reset      a thin two-handed sword
+#7710   4 active   0 reset      a silvery sword
+#7711   1 active   0 reset      an iron barbed flail
+#7712   1 active   0 reset      the unholy sword of the githyanki
+#7713   1 active   0 reset      a brightly flaming stone
+#7714   4 active   0 reset      some astral powder
+#7715  15 active   0 reset      a splint mail vest
+#7716   5 active   0 reset      a splint mail skirt
+#7717   5 active   0 reset      a pair of splint mail sleeves
+#7718   2 active   0 reset      a pair of ornately designed gauntlets
+#7719   1 active   0 reset      a decaying vest made from cracked leather
+#7720   0 active   0 reset      a violet potion
+#7721   3 active   0 reset      a vial of murky fluid
+#7722   2 active   0 reset      a silvery-colored potion
+#7723   0 active   0 reset      a tasty-looking chocolate mint
+#7724   1 active   0 reset      a black pentagram
+#7725   1 active   0 reset      a rotting pouch
+#7909   1 active   0 reset      a huge treasure
+#7910   1 active   0 reset      a wooden chest
+#7911   1 active   0 reset      a small brass key
+#8301   5 active   0 reset      a long spear
+#8302   2 active   0 reset      a dark horned helmet
+#8303   2 active   0 reset      a suit of chainmail
+#8306   1 active   0 reset      a huge, wicked-looking scythe
+#8307   7 active   0 reset      a murky green potion
+#8308   2 active   0 reset      a rusty claymore
+#8700   3 active   0 reset      an egyptian mace
+#8701   3 active   0 reset      sand-colored robes
+#8702   1 active   0 reset      an obsidian dirk
+#8703   1 active   0 reset      a dirty cloth turban
+#8704   4 active   0 reset      some cloth wrappings
+#8705   1 active   0 reset      a bottle of embalming fluid
+#8706   1 active   0 reset      a jar of formaldehyde
+#8707   1 active   0 reset      a small hot ball of fire
+#8708   1 active   0 reset      a stone scimitar
+#8709   0 active   0 reset      a stone key
+#8710   1 active   0 reset      a mighty stone sarcophagus
+#8711   1 active   0 reset      some ancient dust
+#8712   1 active   0 reset      a small emerald scarab
+#8713   1 active   0 reset      the lamp
+#8714   1 active   0 reset      an ankh
+#8715   1 active   0 reset      a book of riddles
+#8716   1 active   0 reset      a lion's paw
+#8717   1 active   0 reset      the answer
+#8718   1 active   0 reset      the treasure of the sphinx
+#8719   1 active   0 reset      a pile of sand
+#8720   1 active   0 reset      the curse of the mummy
+#8721   2 active   0 reset      a small elixir
+#8722   1 active   0 reset      a golden mask
+#8723   1 active   0 reset      the diamond
+#8724   1 active   0 reset      a blazing sun wand
+#8725   1 active   0 reset      a sandy-colored ring
+#8726   1 active   0 reset      a small golden sphinx
+#8727   1 active   0 reset      a pair of sphinxian leggings
+#8901   2 active   0 reset      a closet
+#8902   1 active   0 reset      a spice jar
+#8903   1 active   0 reset      some black powder
+#8904   1 active   0 reset      some small yellow kernels
+#8905   1 active   0 reset      a crumpled wad of paper
+#8910   4 active   0 reset      a wooden staff
+#8911   2 active   0 reset      a brown robe
+#8913   2 active   0 reset      some bluish herbs
+#8914   2 active   0 reset      some purplish herbs
+#8915   1 active   0 reset      some blackish herbs
+#8916   2 active   0 reset      some grayish herbs
+#8917   1 active   0 reset      some reddish herbs
+#8918   2 active   0 reset      some orangish herbs
+#8919   2 active   0 reset      some pinkish herbs
+#9201   1 active   0 reset      the earth ring
+#9202   1 active   0 reset      a stoney breastplate
+#9203  10 active   0 reset      a fiery dagger
+#9204   1 active   0 reset      a flame red cape
+#9205   1 active   0 reset      the wind boots
+#9206   1 active   0 reset      a hurricane helmet
+#9207   1 active   0 reset      a sparking lightning sword
+#9208   1 active   0 reset      an electric shield
+#9209   1 active   0 reset      an icy girth
+#9210   1 active   0 reset      a waterfall cloak
+#9211   1 active   0 reset      an elemental amulet
+#9212   1 active   0 reset      an elemental bracelet
+#9213   0 active   0 reset      a platinum arm band
+#9214   0 active   0 reset      some platinum leg bands
+#9215  10 active   0 reset      elemental wand of fire
+#9216   3 active   0 reset      an ice staff
+#9217   5 active   0 reset      an elemental rod of earthquake
+#9218   7 active   0 reset      elemental wand of wind and air
+#9219   4 active   0 reset      elemental wand of lightning
+#9220   5 active   0 reset      a stone club
+#9221   3 active   0 reset      a lodestone
+#9222   2 active   0 reset      a lava lamp
+#9223   1 active   0 reset      an energy scroll
+#9224   4 active   0 reset      a water jug
+#9225   6 active   0 reset      magic dust
+#9226   1 active   0 reset      a flame lance
+#9227   1 active   0 reset      an icicle
+#9228   1 active   0 reset      the avalanche
+#9229   1 active   0 reset      the morning star
+#9230   1 active   0 reset      the Shock Whip
+#9231   2 active   0 reset      anti-cyclops elixir
+#9500   2 active   0 reset      the palace key of New Thalos
+#9501   1 active   0 reset      the Key to the City of New Thalos
+#9503   1 active   0 reset      a morningstar
+#9504   1 active   0 reset      an awl-pike
+#9505   1 active   0 reset      a bardiche
+#9506   1 active   0 reset      a bec de corbine
+#9507   1 active   0 reset      a bill-guisarme
+#9508   1 active   0 reset      a fauchard
+#9509   1 active   0 reset      a glaive
+#9510   1 active   0 reset      a guisarme
+#9511   1 active   0 reset      a sickle
+#9512   1 active   0 reset      a two-handed bastard sword
+#9513  22 active   0 reset      a scimitar
+#9514   1 active   0 reset      a rapier
+#9515   2 active   0 reset      a suit of banded mail
+#9516   1 active   0 reset      a suit of brigandine
+#9517   1 active   0 reset      a suit of field plate
+#9518   1 active   0 reset      a suit of ringmail
+#9519  29 active   0 reset      a suit of splintmail
+#9520   1 active   0 reset      a wooden shield
+#9521  29 active   0 reset      a splinted shield
+#9522   1 active   0 reset      a buckler
+#9523   1 active   0 reset      a leather jacket
+#9524   1 active   0 reset      a pair of leather sleeves
+#9525   1 active   0 reset      a leather cap
+#9526   1 active   0 reset      a pair of leather pants
+#9527   1 active   0 reset      a pair of leather gloves
+#9528   1 active   0 reset      a pair of padded leather boots
+#9529   1 active   0 reset      a studded leather jacket
+#9530   1 active   0 reset      a pair of studded leather sleeves
+#9531   1 active   0 reset      a pair of studded leather pants
+#9532   1 active   0 reset      a pair of studded leather gloves
+#9533   1 active   0 reset      a leather shield
+#9534   1 active   0 reset      a sack
+#9535   1 active   0 reset      an oil lamp
+#9536   1 active   0 reset      a backpack
+#9537   1 active   0 reset      a basket
+#9538   1 active   0 reset      a belt pouch
+#9539   1 active   0 reset      a candle
+#9540   1 active   0 reset      a hunk of cheese
+#9541   1 active   0 reset      a bread
+#9542   1 active   0 reset      some dry rations
+#9543   1 active   0 reset      some iron rations
+#9545   1 active   0 reset      some nuts
+#9546   1 active   0 reset      a belt
+#9547   1 active   0 reset      a pair of hiking boots
+#9548   1 active   0 reset      a fur cloak
+#9549   1 active   0 reset      a girdle
+#9550   1 active   0 reset      a pair of hose
+#9551   1 active   0 reset      a common robe
+#9552   1 active   0 reset      an embroidered robe
+#9553   1 active   0 reset      a pair of sandles
+#9554   1 active   0 reset      a sash
+#9555   1 active   0 reset      a silk jacket
+#9556   1 active   0 reset      an egg
+#9557   1 active   0 reset      a carrot
+#9558   1 active   0 reset      a tomato
+#9559   1 active   0 reset      a fig
+#9560   1 active   0 reset      some dates
+#9561   1 active   0 reset      a leg of lamb
+#9562   1 active   0 reset      a side of beef
+#9563   1 active   0 reset      a whole chicken
+#9564   1 active   0 reset      a salted herring
+#9565   1 active   0 reset      a mussel
+#9567   1 active   0 reset      a glass of blue oasis
+#9568   1 active   0 reset      a glass of wine
+#9569   1 active   0 reset      a bottle of grog
+#9570   1 active   0 reset      a glowing blue vial
+#9571   1 active   0 reset      a deep-green potion
+#9572   1 active   0 reset      a crystal clear potion
+#9573   1 active   0 reset      an off white potion
+#9574   1 active   0 reset      a dark blue potion
+#9575   1 active   0 reset      a flaming scorpion
+#9576   1 active   0 reset      a barrel of beer
+#9577   1 active   0 reset      a shot
+#9578   1 active   0 reset      a scroll of recall
+#9579   1 active   0 reset      a grey-silver wand
+#9580   0 active   0 reset      a wand of glinting yellow
+#9581   1 active   0 reset      a wand of oak
+#9582   1 active   0 reset      a pink wand
+#9583   1 active   0 reset      a pair of sewing shears
+#9584   1 active   0 reset      a meat cleaver
+#9585   1 active   0 reset      a fountain pen
+#9586   2 active   0 reset      a sledge hammer
+#9587   1 active   0 reset      a horse shoe
+#9588   1 active   0 reset      a saddle
+#9589   1 active   0 reset      a riding crop
+#9590   2 active   0 reset      a chessboard
+#9591   1 active   0 reset      a sesame seed
+#9592   0 active   0 reset      something
+#9593   1 active   0 reset      the jail key
+#9594   0 active   0 reset      the dungeon key
+#9595   0 active   0 reset      a tie-dye shirt
+#9596   0 active   0 reset      a pair of Bugle Boy jeans
+#9597   0 active   0 reset      a pair of Reebok Pumps
+#9598   1 active   0 reset      the Daemon Claw
+#9599   1 active   0 reset      the wolverine claw
+#9600   1 active   0 reset      the halberd
+#9601   1 active   0 reset      a fountain
+#9602   1 active   0 reset      a beautiful white pearl
+#9800   2 active   0 reset      a {yleather{x tunic
+#9801   4 active   0 reset      shining platemail
+#9802   2 active   0 reset      a short sword
+#9803   1 active   0 reset      ({rBurning{x) A {CCrystal{x Blade
+#9804   4 active   0 reset      a gleaming longsword
+#9805   1 active   0 reset      an {Yancient{x Solamnic sword
+#9806   1 active   0 reset      {CCeremonial{x armor
+#9807   0 active   0 reset      ({Yg{Wl{Yi{Wt{Yt{We{Yr{Wi{Yn{Wg{x) steel gauntlets
+#9808   0 active   0 reset      ({yt{xa{yn{xn{ye{xd{x) leather boots
+#9809   0 active   0 reset      sacred robes
+#9810   7 active   0 reset      a {cspiked{x mace
+#9811   1 active   0 reset      {WM{Ya{Wj{Ye{Wr{Ye{Ws {YT{Wh{Wr{Yo{Wn{Ye{x
+#9812   1 active   0 reset      a Solamnic issue bastard sword
+#9813   0 active   0 reset      ({WB{wl{We{ws{Ws{we{Wd{x)({BL{Ci{Bg{Ch{Bt{Cs{Ba{Cb{Be{Cr{x) {WM{Ya{Wj{Ye{Wr{Ye{Ws{x Beat'em Up Stick
+#9814   0 active   0 reset      ({Gs{xc{Ge{xn{Gt{xe{Gd{x) {WM{Ya{Wj{Ye{Wr{Ye{Ws{x Aroma-Therapy Candle
+#9815   0 active   0 reset      ({Rs{ri{Rt{rh{R-{rw{Ra{rr{Re{x) {WM{Ya{Wj{Ye{Wr{Ye{Ws{x Jedi Apparel
+#9816   1 active   0 reset      ({Wb{xl{We{xs{Ws{xe{Wd{x) Chainmail of Rightousness
+#9817   0 active   0 reset      ({Cs{Bt{Cy{Bl{Ci{Bs{Ch{x) {WM{Ya{Wj{Ye{Wr{Ye{Ws{x portable throne
+#10401   2 active   0 reset      a wicked-looking trident
+#10402   1 active   0 reset      a black leather whip
+#10403   1 active   0 reset      a hickey maker
+#10404   1 active   0 reset      a black-hilted sword called "Farslayer"
+#10405   1 active   0 reset      the angel's skull
+#10406   2 active   0 reset      some rotting flesh
+#10407   2 active   0 reset      the Vorpal Blade
+#10408   1 active   0 reset      a flaming claw
+#10409   3 active   0 reset      a demonskin
+#10410   3 active   0 reset      demon teeth
+#10411   2 active   0 reset      some burning flesh
+#10412   3 active   0 reset      a rivet gun
+#10413   1 active   0 reset      a circular saw
+#10414   1 active   0 reset      a box of matches
+#10415   1 active   0 reset      a bloody black talon
+#10416   1 active   0 reset      jar of blood
+#10417   1 active   0 reset      hell hound teeth
+#10418   1 active   0 reset      an icy bottle
+#10419   1 active   0 reset      an ice spear
+#10420   2 active   0 reset      a large meat hook
+#10421   2 active   0 reset      some meat
+#10422   1 active   0 reset      the blueprint
+#10423   2 active   0 reset      an electric eraser
+#10424   1 active   0 reset      spectacles
+#10425   1 active   0 reset      an unholy symbol
+#10426   1 active   0 reset      unholy robes
+#10427   1 active   0 reset      the sharp teeth of a lawyer
+#10428   1 active   0 reset      a golden ring
+#10429   1 active   0 reset      an engagement ring
+#10430   1 active   0 reset      a prenuptual agreement
+#10431   3 active   0 reset      an ionic torque wrench
+#10432   1 active   0 reset      a figurine of a horse
+#10433   1 active   0 reset      a figurine of a winged horse
+#10434   1 active   0 reset      a figurine of a nightmare
+#10435   1 active   0 reset      a figurine of a black dragon
+#10436   1 active   0 reset      a figurine of a red dragon
+#10437   1 active   0 reset      a figurine of a white dragon
+#10438   1 active   0 reset      a figurine of a green dragon
+#10439   1 active   0 reset      a figurine of a blue dragon
+#10440   1 active   0 reset      a geiger counter
+#10441   1 active   0 reset      a photon-displacement matrix
+#10442   3 active   0 reset      a black jumpsuit
+#10443   1 active   0 reset      an antacid pill
+#10444   2 active   0 reset      a manes' claws
+#10445   2 active   0 reset      a welding torch
+#10446   1 active   0 reset      a blond wig
+#10447   3 active   0 reset      a yellow jumpsuit
+#10448   1 active   0 reset      a cleaver
+#10449   1 active   0 reset      a precious fire opal
+#10450   1 active   0 reset      a hellstone
+#10600   2 active   0 reset      ({DGrey Velvet{x) A Robe of the {rThorn{x Knights
+#10601   3 active   0 reset      ({CSteel{x) mace of a {wSkull{x Knight
+#10602   1 active   0 reset      ({CSteel{x) Dagger of a {rThorn{x Knight
+#10603   2 active   0 reset      ({DBlack{x) Amulet of a {wSkull{x Knight.
+#10604   2 active   0 reset      ({DBlack{x) Cloak of a {BLily{x Knight
+#10605   2 active   0 reset      {
+#10606   2 active   0 reset      a spellbook of a {rThorn{x knight
+#10607   4 active   0 reset      a {BLily{x Sword
+#10608   2 active   0 reset      a {BLily{x Knigts platemail
+#10609   4 active   0 reset      ({yWooden{x) a Staff of {rThorns{x
+#10610   2 active   0 reset      ({DBlack{x) leather boots
+#10611   1 active   0 reset      {DCrown{x of {YPower{x
+#10612   2 active   0 reset      ({DBlack{x) {rThorn{x Knight hood
+#10613   0 active   0 reset      a {CFoot{x Locker
+#10614   2 active   0 reset      rowen's key
+#10615   1 active   0 reset      a fountain shaped like a five headed dragon
+#10616   1 active   0 reset      cell key
+#10617   1 active   0 reset      a {Mbed{x
+#10618   1 active   0 reset      helmet of a {wSkull{x Knight
+#10619   1 active   0 reset      a {BLily{x Knight sword
+#10620   1 active   0 reset      ariakan's room key
+#10621   1 active   0 reset      a {yOak{x desk
+#10622   3 active   0 reset      platemail leggings
+#10623   1 active   0 reset      a {rRed{x {rBloodstone{x
+#10624   1 active   0 reset      an {yoak desk{x
+#10625   1 active   0 reset      a bookshelf
+#10626  10 active   0 reset      ({CSteel{x) Lord of {rThorns{x signet
+#10627  10 active   0 reset      ({CSteel{x) signet of a {BLily{x Lord
+#10628   2 active   0 reset      bread
+#10629  12 active   0 reset      flask of milk
+#10630   1 active   0 reset      slab of cheese
+#10631   1 active   0 reset      a glass of Elvish wine
+#10632   1 active   0 reset      mug of ale
+#10633   1 active   0 reset      a long stone table
+#10634  10 active   0 reset      ({CSteel{x) lord of {wSkull{x signet
+#10635   0 active   0 reset      a {rflowing{D black cape{x
+#10636  10 active   0 reset      ({CSteel{x) Lord of Knight Signet
+#10637  13 active   0 reset      ({CSteel{x) Lord of Night Signet
+#10638   3 active   0 reset      a ({CSteel{x) Knight of {DTakhisis{x signet
+#10639   1 active   0 reset      black herbs
+#10640   1 active   0 reset      the Potion of the Bounty
+#10641   1 active   0 reset      a Rotten Apple
+#10642   1 active   0 reset      a Pouch of Spell Components
+#10643   1 active   0 reset      a {BLily{x Knights helmet
+#10649   1 active   0 reset      a bench
+#10669   8 active   0 reset      {DTakhisis's{x {GWeedy{x {WJo{ri{Rnt{x
+#10670   0 active   0 reset      made from the best onyx mined in the Khalikists, this is the desk of Synvenstri Darksinger. I would pity those on the opposite side of this desk.
+#10671   2 active   0 reset      {DBlack{x Stone desk
+#10673   1 active   0 reset      a {cDagger{x of {DTakhisis{x
+#10674   0 active   0 reset      {Dgauntlets{x etched with {rlilies{x
+#10693   0 active   0 reset      a {Dbreastplate{x etched with {rlilies{x
+#10694   3 active   0 reset      a {DBackpack{x
+#10695   1 active   0 reset      a large {Dblack{x chair
+#10696   0 active   0 reset      {DThe {rDark Vengeance {DSword{x
+#10697   2 active   0 reset      takhisis Throne
+#10698   0 active   0 reset      {DA Dark Aura{x
+#10699   0 active   0 reset      a ring of {RRed{x Dragons
+#10700   0 active   0 reset      ({RSEXY!{x) {DA Tight Leather Bra{x
+#10701   0 active   0 reset      ({RSEXY!{x) {DA Pair of Tight Leather Pants.{x
+#10702   1 active   0 reset      {xReorx's rock bed
+#10703   1 active   0 reset      {YBranchala{x's bed of {MLove{x and {GMusic{x
+#10704   0 active   0 reset      (no short description)
+#10705   1 active   0 reset      {bA King Size Bed{x
+#10706   0 active   0 reset      pants
+#10707   1 active   0 reset      a harem of beautiful women
+#10708   1 active   0 reset      a huge axe of power
+#10709   1 active   0 reset      a Pill Bottle
+#10710  36 active   0 reset      a Xanax
+#10711   1 active   0 reset      a LArge Desk
+#10712   0 active   0 reset      mishy's Medicinal Brew
+#10713   1 active   0 reset      a large bear skin rug
+#10714   1 active   0 reset      a White Beret
+#10715   1 active   0 reset      a White Blouse
+#10716   1 active   0 reset      a Plaid Jacket
+#10717   1 active   0 reset      a Short Plaid Skirt
+#10718   1 active   0 reset      white Tights
+#10719   1 active   0 reset      black Patent Leather Shoes
+#10720   1 active   0 reset      a Blue Crystal Staff
+#10721   0 active   0 reset      a Red Rose
+#10722   1 active   0 reset      a HotTub
+#10723   1 active   0 reset      ({RRedScaled{x) The Dragon's Claw
+#10724   0 active   0 reset      fountain
+#10725   1 active   0 reset      ({WBrilliant{X) a {Gleveling{X orb
+#10726  12 active   0 reset      a Restring Coupon
+#10727   0 active   0 reset      mishakal's Backpack
+#10728   5 active   0 reset      recall potion
+#10729   0 active   0 reset      ({RBurning{x) The Essence of the Inferno
+#10730   1 active   0 reset      {W({rDemonic{W){X A Sword Named {DTakhisis' Wrath{X
+#10731   0 active   0 reset      ({Wlight{x) a Hooded lantern
+#10732   2 active   0 reset      ({YElectric{x) {YPIKACHU{x
+#10733   1 active   0 reset      jukebox
+#10734   1 active   0 reset      a hot silver spring
+#10735   1 active   0 reset      ({RFlaming{x) {RCHARIZARD{x
+#10736   1 active   0 reset      the Eternal Fountain
+#10749   1 active   0 reset      ({RDragonscale{x) {cA pair of sleek boots{x
+#10750   0 active   0 reset      a bag of stuff
+#10751   0 active   0 reset      ankle braclet 
+#10760   1 active   0 reset      {rGilean's{x desk.
+#10776   0 active   0 reset      a bloody battle-axe
+#10777   0 active   0 reset      me Mallet
+#10778   0 active   0 reset      a large bastard sword
+#10789   1 active   0 reset      jester card
+#10790   1 active   0 reset      gem card
+#10791   1 active   0 reset      fool card
+#10792   1 active   0 reset      key card
+#10793   1 active   0 reset      knight card
+#10794   1 active   0 reset      moon card
+#10795   1 active   0 reset      throne card
+#10796   1 active   0 reset      talons card
+#10797   1 active   0 reset      star card
+#10798   1 active   0 reset      void card
+#10799   1 active   0 reset      sun card
+#10800   5 active   0 reset      a {GMartini{x Glass from {RSirrion{x
+#10801   0 active   0 reset      a marble bench
+#10802   0 active   0 reset      the Fiery Bed of Sirrion
+#10803   1 active   0 reset      a Silver key
+#10804   1 active   0 reset      ({DVibrating{x) The Eye of the Night
+#10805   1 active   0 reset      a Marble Fountain
+#10806   3 active   0 reset      a merchant's vest.
+#10807   1 active   0 reset      ({YGolden{x) The Breastplate of House Royal
+#10808   1 active   0 reset      a footman's Dragonlance
+#10809   1 active   0 reset      an elven longsword
+#10811   1 active   0 reset      an elven flute
+#10818   3 active   0 reset      a senator's pendant
+#10819   3 active   0 reset      ({MPurple{x) A senator's robe
+#10820   1 active   0 reset      a large marble table
+#10823   2 active   0 reset      an elven sword
+#10824   1 active   0 reset      the Crown of {YS{x{ct{x{Ya{x{cr{x{Ys{x
+#10825   1 active   0 reset      the Staff of Stars
+#10826   1 active   0 reset      the Speaker's Throne
+#10828   1 active   0 reset      a {cSilver{x Brooch
+#10832   1 active   0 reset      a shell of Turtle Soup
+#10834   2 active   0 reset      the Breastplate of House Protector
+#10839   0 active   0 reset      a ball made of living {Rf{x{Yl{x{Ra{x{Ym{x{Re{x
+#10840   0 active   0 reset      ({RFlaming{x) {ySirrion's Hair{x
+#10841   0 active   0 reset      ({RRed Hot{x) A Pair of Roach Clips
+#10842   1 active   0 reset      a comfortable bed
+#10843   1 active   0 reset      an ancient shelf
+#10848   2 active   0 reset      an elven breastplate
+#10859   1 active   0 reset      ({WShining{x) A {WStarjewel{x
+#10860   1 active   0 reset      lorac's burial mound
+#10868   1 active   0 reset      the wand of Dreams
+#10869   1 active   0 reset      a potion of Heaven's Eye
+#10870   1 active   0 reset      a pair of {Gmint leaves{x
+#10871   1 active   0 reset      a small root
+#10872   1 active   0 reset      a glass of Elven Wine
+#10873   1 active   0 reset      a slice of venison
+#10874   1 active   0 reset      a notched {csteel{x sword
+#10876   1 active   0 reset      ({RBloody{x) A Griffon's Claw
+#10878   1 active   0 reset      a scroll of Fireball
+#10879   1 active   0 reset      a {RRosebud{x
+#11160   1 active   0 reset      a Altar to Takhisis
+#11161   0 active   0 reset      a ({CSteel{x) ring of a Knight of Takhisis
+#11162   0 active   0 reset      a Crown of a Tested knight
+#11163   1 active   0 reset      a key to the cage
+#11164   1 active   0 reset      a iron collar
+#11200  10 active   0 reset      a long jagged dagger
+#11201   8 active   0 reset      a long {Dblack{X whip
+#11202  12 active   0 reset      a shining steel broadsword
+#11203  12 active   0 reset      polished plate mail armor
+#11204   4 active   0 reset      a bronze hilted short sword
+#11205   4 active   0 reset      a polished pair of steel greaves
+#11206   4 active   0 reset      a set of chain mail sleeves
+#11207   5 active   0 reset      a sturdy {yleather{X bracer
+#11208   1 active   0 reset      a glittering {ygold{X ring
+#11209   1 active   0 reset      an ornately decorated shining sword
+#11210   1 active   0 reset      a conical steel helm
+#11211   1 active   0 reset      a marble fountain
+#11212   1 active   0 reset      an altar to Paladine
+#11213   1 active   0 reset      a pair of steel gauntlets
+#11214   1 active   0 reset      a large double sided war axe
+#11215   1 active   0 reset      ({WShining{X) a {cpolished{X steel breastplate
+#11216   1 active   0 reset      a mug of ale
+#11217   1 active   0 reset      a large T-bone steak
+#11218   1 active   0 reset      a braided {yleather{X belt
+#11219   1 active   0 reset      a sturdy {yleather{X cap
+#11220   2 active   0 reset      a {Cwinged{x helm
+#11221   1 active   0 reset      a squires cloak
+#11222   1 active   0 reset      a squires breastplate
+#11223   1 active   0 reset      a steel mesh belt
+#11224   1 active   0 reset      a pair of steel boots
+#11225   1 active   0 reset      a pair of spike shoulder pads
+#11226   1 active   0 reset      a pair of chainmail pants
+#11227   1 active   0 reset      a pair of chainmail gloves
+#11228   1 active   0 reset      a squires mace
+#11309   1 active   0 reset      a small spring
+#11330   1 active   0 reset      a bejeweled ring
+#11355   4 active   0 reset      a {Ddark{x knights sword
+#11360   1 active   0 reset      a chainmail shirt
+#11361   1 active   0 reset      a bandit cutlass
+#11362   1 active   0 reset      a simple dirk
+#11371   1 active   0 reset      a rag doll
+#11375   1 active   0 reset      a bejeweled sceptre
+#11379   1 active   0 reset      a steel glaive
+#11400   1 active   0 reset      a dragon-shaped fountain
+#11401   1 active   0 reset      the altar of Takhisis
+#11403   1 active   0 reset      a {csteel{x short sword
+#11404   1 active   0 reset      a book of Necromancy
+#11405   1 active   0 reset      an oaken desk
+#11406   1 active   0 reset      a small {csteel{x mace
+#11407   1 active   0 reset      a light polearm
+#11408   1 active   0 reset      an {Donyx{x hilted dagger
+#11409   1 active   0 reset      a slender glass of elven wine
+#11417   1 active   0 reset      a flask of Dwarven Spirits
+#11422   1 active   0 reset      a staff made of nightshade
+#11423   1 active   0 reset      a wand of protection
+#11424   1 active   0 reset      the Wand of Darkness
+#11425   1 active   0 reset      a Runed Wand
+#11430   1 active   0 reset      a silver coin inlaid with rubies
+#11431   1 active   0 reset      ({RFlaming{x) A roaring fireplace
+#11432   1 active   0 reset      a mug of ale
+#11437   1 active   0 reset      an iron visor
+#11438   2 active   0 reset      a large iron shield
+#11439   1 active   0 reset      a pair of iron legplates
+#11440   1 active   0 reset      an iron breastplate
+#11445   1 active   0 reset      a piece of Devil's food cake
+#11446   1 active   0 reset      a small danish
+#11447   1 active   0 reset      a warm slice of apple pie
+#11448   1 active   0 reset      a chunk of fresh bread
+#11449   1 active   0 reset      a Handfull of Nightshade Berries
+#11450   7 active   0 reset      a Small Sprig of Ivy
+#11451   2 active   0 reset      a Diamond
+#11452   1 active   0 reset      a Bloodstone
+#11453   1 active   0 reset      a Black Opal
+#11454   1 active   0 reset      a blue diamond
+#11455   6 active   0 reset      a Dragontooth Sprout
+#11461   1 active   0 reset      the Skeleton of a Conclave Assassin 
+#11469   4 active   0 reset      an Apprentice's Sash
+#11500   1 active   0 reset      a Marble Fountain
+#11501   0 active   0 reset      zeboim's Trident
+#11502   1 active   0 reset      the {cGrey{x Robes of Gilean
+#11503   4 active   0 reset      a white Robe
+#11504   7 active   0 reset      an Altar
+#11505  10 active   0 reset      a Pink Potion
+#11506   8 active   0 reset      blue Potion
+#11507   1 active   0 reset      a yellow potion
+#11508   8 active   0 reset      a green potion
+#11509   1 active   0 reset      a red potion
+#11510   1 active   0 reset      a short dagger
+#11511   2 active   0 reset      a Short Sword
+#11512   1 active   0 reset      a Longsword
+#11513   1 active   0 reset      an Axe
+#11514   1 active   0 reset      a Steak
+#11515   1 active   0 reset      a Mace
+#11516   1 active   0 reset      a Bowl of Stew
+#11517   8 active   0 reset      a Loaf of Bread
+#11518   7 active   0 reset      a Glass of Milk
+#11519   1 active   0 reset      chainmail Breastplate
+#11520   1 active   0 reset      chainmail Leggings
+#11521   1 active   0 reset      iron Gauntlets
+#11522   1 active   0 reset      leather Boots
+#11523   1 active   0 reset      a Leather Belt
+#11524   1 active   0 reset      a Ring of Protection
+#11525   1 active   0 reset      a Scroll
+#11526   1 active   0 reset      a Wand
+#11527   1 active   0 reset      a Wooden Staff
+#11528   1 active   0 reset      the Silver Key
+#11529   1 active   0 reset      the Purple Key
+#11530   1 active   0 reset      the Blue Key
+#11531   1 active   0 reset      the Yellow Key
+#11532   1 active   0 reset      a Comfortable Couch
+#11533   2 active   0 reset      {cA Comfortable Bed{x
+#11534   1 active   0 reset      {yA Comfortable Bed{x
+#11535   1 active   0 reset      {bA Comfortable Bed{x
+#11536   1 active   0 reset      {CA Comfortable Bed{x
+#11537   1 active   0 reset      a Pit
+#11538   2 active   0 reset      a Spatula
+#11539   2 active   0 reset      a Longsword
+#11540   1 active   0 reset      a Uniform of the Royal Guard.
+#11541   1 active   0 reset      a {BSapphire{x Necklace
+#11542   1 active   0 reset      a Key
+#11543   0 active   0 reset      a Staff
+#11544  10 active   0 reset      a Pouch
+#11545   1 active   0 reset      red Robes
+#11547   1 active   0 reset      black Robe
+#11548   8 active   0 reset      a Dagger
+#11549   8 active   0 reset      a Broadsword
+#11550   6 active   0 reset      an aesthetic's ring
+#11551   3 active   0 reset      a Helmet
+#11552   3 active   0 reset      a Longsword
+#11553   3 active   0 reset      a Silver Shield
+#11554   3 active   0 reset      boots of the Cityguard
+#11555   3 active   0 reset      a {gGreen{x Uniform
+#11556   5 active   0 reset      silver Wrist Guards
+#11557   2 active   0 reset      a Cityguards ring
+#11558   1 active   0 reset      pit
+#11559   0 active   0 reset      ({cAdamantite{x) Sword of {BN{bi{Bg{bh{Bt{bm{Ba{br{Be{bs{x
+#11700   1 active   0 reset      ({cMagical{x) {WWhite{x Robes of a Conclave mage
+#11701   1 active   0 reset      ({cMagical{x) {RRed{x Robes of a Conclave mage
+#11702   2 active   0 reset      ({cMagical{x) {DBlack{x Robes of a Conclave mage
+#11703   1 active   0 reset      a pair of brown boots
+#11704   1 active   0 reset      a {BBlue{x ball
+#11705   2 active   0 reset      a ({cMagical{x) Spell Pouch
+#11706   1 active   0 reset      the pit
+#11707   1 active   0 reset      a ({cMystic{x) Milk fountain
+#11715   1 active   0 reset      ({YSTOLEN!{x) A {RR{ru{Rb{ry{x
+#11745   0 active   0 reset      (no short description)
+#11896   0 active   0 reset      a {WWhite Moon Rock{x Gumball
+#11897   0 active   0 reset      {CSolinari's Candy Jar{x
+#11898   0 active   0 reset      {WSolinari's Desk{x
+#11900   1 active   0 reset      {xFlint Rock
+#11901   2 active   0 reset      a diamond
+#11902   1 active   0 reset      a garnet
+#11903   1 active   0 reset      an opal
+#11904   1 active   0 reset      an emerald
+#11905   1 active   0 reset      a ruby
+#11906   1 active   0 reset      a small pearl
+#11907   1 active   0 reset      solace fountain
+#11908   1 active   0 reset      a {csteel{x sword
+#11909   1 active   0 reset      a small dagger
+#11910   1 active   0 reset      a small {ywooden{x mace
+#11911   1 active   0 reset      {xQuith-Pah
+#11912   1 active   0 reset      a Candle
+#11913   1 active   0 reset      a Fishing Boat
+#11914   1 active   0 reset      a bag
+#11915   1 active   0 reset      {cSteel{x Breastplate
+#11916   1 active   0 reset      {yLeather{x boots
+#11945   5 active   0 reset      a small stuffed teddy bear
+#12100  15 active   0 reset      a pair of worn leather boots
+#12101  15 active   0 reset      a linked chain metal belt
+#12102   1 active   0 reset      a coiled piece of {gvine{X
+#12103   1 active   0 reset      a pair of silver plated gauntlets
+#12104   1 active   0 reset      a dwarven crafted helmet
+#12105   1 active   0 reset      ({cSolamnic{x) A Longsword
+#12106   1 active   0 reset      a gleaming breastplate
+#12107   1 active   0 reset      ({MVelvet{x) A Thick Cloak
+#12116   1 active   0 reset      a pumpkin pie
+#12117   1 active   0 reset      a chocolate cake
+#12118   1 active   0 reset      a leafy red herb
+#12119   1 active   0 reset      a yellow herb
+#12120   1 active   0 reset      a {bblue{X silk shirt
+#12121   1 active   0 reset      a pair of {rred{X pants
+#12122   1 active   0 reset      a tight pair of {yleather{X gloves
+#12123   1 active   0 reset      a pair of spiked gauntlents
+#12124   1 active   0 reset      a war axe
+#12125   1 active   0 reset      a gleaming mithril shield
+#12126   1 active   0 reset      a feathered earring
+#12250   1 active   0 reset      an iron cooking pot
+#12251   1 active   0 reset      an iron cooking pan
+#12252   1 active   0 reset      a round table
+#12253   1 active   0 reset      a bed
+#12254  10 active   0 reset      a Solamnic broadsword
+#12255   9 active   0 reset      a Solamnic short sword
+#12256   1 active   0 reset      solamnic plate mail
+#12257  15 active   0 reset      a wooden spear
+#12258   1 active   0 reset      a mug of beer
+#12259   1 active   0 reset      a pitcher of beer
+#12260   1 active   0 reset      a mug of ale
+#12261   1 active   0 reset      a glass of milk
+#12262   1 active   0 reset      a wooden table
+#12264   1 active   0 reset      a doily
+#12265   1 active   0 reset      a solamnic crested shield
+#12266   1 active   0 reset      a great war mace
+#12267   1 active   0 reset      a pair of battle gauntlents
+#12400   1 active   0 reset      a Spectral Longsword
+#12403   0 active   0 reset      (Tattooed on Stomache) the word "Slut"
+#12404   0 active   0 reset      ({DBlack{x) A Pair of JNCO Budahs
+#12406   0 active   0 reset      ({DBlack{x) ({DLeather{x) Sirrion's Duster
+#12407   0 active   0 reset      ({rF{x{Yi{x{rr{x{Ye{x{rr{x{Yy{x) Nailpolish
+#12411   0 active   0 reset      ({DBlack{x) (Leather) Sirrion's Bondage Collar
+#12412   1 active   0 reset      a Gem-covered Pillar
+#12450   1 active   0 reset      {DBurned Platemail{x
+#12481   1 active   0 reset      {DThe Dark Sword of {RDargaard{x
+#12487   1 active   0 reset      a blacksmith's hammer
+#12492  10 active   0 reset      a simple iron sword
+#12499   1 active   0 reset      a black rose crested helm
+#12500   1 active   0 reset      a black steel ankle guard
+#12501   2 active   0 reset      a black rose crested breastplate
+#12502   1 active   0 reset      a black rose
+#12506   1 active   0 reset      a {rmajor's{x signet ring
+#12517   1 active   0 reset      a neck shackle
+#12521   0 active   0 reset      a dead mages robe
+#12558   1 active   0 reset      {DSoth's sword{x
+#12600   4 active   0 reset      a Steel Longsword
+#12601   4 active   0 reset      a Cityguards Shield
+#12602   4 active   0 reset      the Uniform of the Lemish Cityguard
+#12603   4 active   0 reset      cityguard Boots
+#12604   1 active   0 reset      a Piece of Chocolate Cake
+#12605   1 active   0 reset      a Blueberry Muffin
+#12606   1 active   0 reset      a Strawberry Pie
+#12607   1 active   0 reset      a Loaf of Bread
+#12608   1 active   0 reset      a Mug of Beer
+#12609   1 active   0 reset      aFirebreather
+#12610   1 active   0 reset      a Mug of Ale
+#12611   1 active   0 reset      a Glass of Wine
+#12612   1 active   0 reset      a Glass of Water
+#12613   1 active   0 reset      a Glass of Milk
+#12614   0 active   0 reset      bottle of jack daniels
+#12800   2 active   0 reset      a short dagger
+#12801   0 active   0 reset      a tight pair of leather pants.
+#12802   0 active   0 reset      a leather biker's cap
+#12803   0 active   0 reset      the dominatrix whip
+#12804   0 active   0 reset      a pair of black leather boots
+#12805   0 active   0 reset      a Black Sexy Tunic
+#12806   2 active   0 reset      a longsword
+#12807   1 active   0 reset      a Pile Of Coins
+#12808   1 active   0 reset      an altar
+#12809   3 active   0 reset      a marble bench
+#12810   4 active   0 reset      {mA comfortable guest bed{x
+#12811   2 active   0 reset      a pair of gloves
+#12812   0 active   0 reset      a hoe
+#12813   2 active   0 reset      a Heavy Mace
+#12814   1 active   0 reset      a long white robe
+#12815   2 active   0 reset      the Speaker's robes
+#12816   2 active   0 reset      the Crown of the Sun
+#12817   1 active   0 reset      a Crest
+#12818   2 active   0 reset      a elven sword
+#12819   1 active   0 reset      the Blue key
+#12820   1 active   0 reset      a yellow key
+#12821   1 active   0 reset      a green key
+#12822   1 active   0 reset      a lavendar key
+#12823   1 active   0 reset      a blue potion
+#12824   1 active   0 reset      a Green Potion
+#12825   1 active   0 reset      a yellow potion.
+#12826   1 active   0 reset      a Pink Potion
+#12827   1 active   0 reset      a Brownie
+#12828   1 active   0 reset      a Cake
+#12829   1 active   0 reset      a Loaf of Bread
+#12830   1 active   0 reset      a {rFlaming{x torch
+#12831   1 active   0 reset      a Lantern
+#12832   1 active   0 reset      a Bag
+#12833   1 active   0 reset      a Box
+#12898   1 active   0 reset      a comfortable couch
+#12899   0 active   0 reset      a mahoghany desk
+#12900   2 active   0 reset      a suit of shining chainmail
+#12901   0 active   0 reset      ({cSpiked{x) A bondage bracelet
+#12902   0 active   0 reset      ({DCataclysmic{x) A Fiery Mountain
+#12903   0 active   0 reset      a Kender's Finger Bone
+#12904   2 active   0 reset      a hoopak
+#12905   0 active   0 reset      a Pile of Gold Coins
+#12910   0 active   0 reset      an Advil
+#12912   1 active   0 reset      a Shard of a Broken Mirror
+#12913   2 active   0 reset      a Kender's Belt of Pouches
+#12916   1 active   0 reset      a slice of cinnamon bread
+#12917   1 active   0 reset      a ball of Chocolate
+#12918   1 active   0 reset      the Kender Spoon of Turning
+#12919   1 active   0 reset      a pair of bright {Mpurple{x leggings
+#12920   1 active   0 reset      the Ring of {WMo{x{ro{x{Dns{x
+#12921   1 active   0 reset      the Spellbook of Guerrand DiThon
+#12922   1 active   0 reset      a Caramel Apple
+#12936   0 active   0 reset      a celebration cigar
+#12940   0 active   0 reset      ({cSteel Toed{x) A Pair of Combat Boots
+#12941   0 active   0 reset      ({DWarlock Series{x) Sirrion's Guitar
+#12945   1 active   0 reset      a Chapak
+#12954   1 active   0 reset      the mayoral robes
+#13000   5 active   0 reset      a wooden coffin
+#13001   1 active   0 reset      a coffin leans against the wall
+#13002   1 active   0 reset      a coffin leans against the wall
+#13003   2 active   0 reset      the vampire's staff
+#13004   2 active   0 reset      a shinny red ruby
+#13005   2 active   0 reset      a topaz
+#13022   1 active   0 reset      a portal leading into darkness
+#13026   1 active   0 reset      a dark portal stands open
+#13028   1 active   0 reset      a {Dblack {Ds{dh{Di{dm{Dm{de{Dr{di{Dn{dg{x robe
+#13040   2 active   0 reset      a pile of gold coints
+#13049   0 active   0 reset      knights broadsword
+#13050   1 active   0 reset      the {YCrown{x of the {WKingpriest{x
+#13051   1 active   0 reset      the Kingpriest's throne
+#13052   2 active   0 reset      ({DCharred{x) An Istarian Breastplate
+#13053   3 active   0 reset      ({bTattered{x) An Istarian Gladiator's Cape
+#13054   2 active   0 reset      ({DWailing{x) {cThe Sword of Tears{x
+#13055   2 active   0 reset      ({DDemon-Headed{x) {DThe Arm of the Abyss{x
+#13056   3 active   0 reset      ({rCrawling{x) {DThe Queen's Talon{x
+#13057   2 active   0 reset      ({RBloody{x) {mVengance{x
+#13200   1 active   0 reset      the Lily Commander's Sword
+#13201   1 active   0 reset      the Holy Mace of Takhisis
+#13202   1 active   0 reset      the Dagger of Sorrows
+#13203   1 active   0 reset      the pit for sacrifices.
+#13204   0 active   0 reset      ({WSparkling{x) one of {BShinare{x's {Wdiamond{x rings.
+#13205   0 active   0 reset      ({CBrilliant{x) {YBlessing{x of {BShinare{x
+#13206   2 active   0 reset      a {Wplain{x {yiron{x {Cband{x
+#13207   2 active   0 reset      a plain {Wsilver{x {cchain{x
+#13208   1 active   0 reset      a {yleather{x vest
+#13209   1 active   0 reset      a {ydented{x old {bhelmet{x
+#13210   1 active   0 reset      a pair of {yleather{x leggings.
+#13211   1 active   0 reset      a pair of {ydusty{x old {bboots{x 
+#13212   1 active   0 reset      hard {yleather{w gauntlets{x
+#13213   0 active   0 reset      a {ytatoo{x of {BShinare{x bathing within a {bpool{x of {csteel{x
+#13214   1 active   0 reset      {rFlaming{x {mLazerious{x's shield.
+#13215   1 active   0 reset      a {mflowing{x {Dblack {ycloak{x
+#13216   0 active   0 reset      a {Dblack{x, leather {ybelt{x
+#13217   2 active   0 reset      a {Yleather{x {cbracer{x
+#13218   1 active   0 reset      a {Wwelfare{x {Bcheck{x
+#13219   1 active   0 reset      a {rred{x {weyeball{x
+#13220   0 active   0 reset      a {rtattoo{x of a {bdragon{x
+#13221   1 active   0 reset      a {Wdiamond{x studd
+#13222   0 active   0 reset      ({rRusty{x) A very {Wold{x {csword{x
+#13223   7 active   0 reset      ({BShiny{x) a {yplaque{x that says {W"We kicked the Immortal's asses in Trivia"{x
+#13300   1 active   0 reset      a large trident
+#13301   1 active   0 reset      a heavily tipped sword
+#13302   1 active   0 reset      two-handed battle axe
+#13303   1 active   0 reset      a horned helm
+#13304   1 active   0 reset      a tarnished body plate
+#13305   1 active   0 reset      a chainmail coif
+#13306   2 active   0 reset      a battle axe
+#13307   2 active   0 reset      a shadowed dagger
+#13308   1 active   0 reset      a shot of greag
+#13309   1 active   0 reset      a pickled egg
+#13310   1 active   0 reset      a shot of vodka
+#13311   1 active   0 reset      a shot of rum
+#13312   1 active   0 reset      a bottle of bubbling liquid
+#13313   1 active   0 reset      a bottle of a local brew
+#13314   1 active   0 reset      a potion of armor
+#13315   1 active   0 reset      a potion of sanctuary
+#13316   1 active   0 reset      a potion of speed
+#13317   1 active   0 reset      a potion of healing
+#13318   1 active   0 reset      a potion of ogre's blood
+#13319   1 active   0 reset      a floating potion
+#13320   1 active   0 reset      the mantle of the great eagle
+#13321   1 active   0 reset      a darkened battle axe
+#13322   1 active   0 reset      a wand of invisibility
+#13323   1 active   0 reset      a {mpink{x potion
+#13324   1 active   0 reset      a potion of recall
+#13325   2 active   0 reset      a long chain
+#13326   3 active   0 reset      a bronze round shield
+#13327   2 active   0 reset      a {Dleather{x jacket
+#13328   3 active   0 reset      a tarnished breastplate
+#13329   1 active   0 reset      a pair of steel gauntlents
+#13330   1 active   0 reset      a heavy fur cloak
+#13331   1 active   0 reset      a pair of leather boots
+#13332   1 active   0 reset      a steel band
+#13333   1 active   0 reset      a wide leather belt
+#13334   1 active   0 reset      a pair of steel vambraces
+#13335   1 active   0 reset      a pair of steel armguards
+#13336   1 active   0 reset      a mass of black flys
+#13337   2 active   0 reset      a white bone ring
+#13338   1 active   0 reset      a bottle of rum
+#13388   1 active   0 reset      a fur pack
+#13400   1 active   0 reset      {x
+#13401   1 active   0 reset      a portal to the tower
+#13402   1 active   0 reset      a bright {Yyellow{x robe
+#13403   0 active   0 reset      a cloudy grey potion
+#13404   1 active   0 reset      {DSoul Stealer{x
+#13405   3 active   0 reset      a longsword
+#13406   2 active   0 reset      a kagonesti long dagger
+#13450   4 active   0 reset      a platnium hilted longsword
+#13451   1 active   0 reset      leather body armor
+#13452   1 active   0 reset      the sword of {Dsouls{x
+#13453   1 active   0 reset      a steel coin
+#13454   2 active   0 reset      the skull of a pegasus
+#13455   1 active   0 reset      a wooden wand
+#13473   1 active   0 reset      a tattoo of a pegasus
+#13499   4 active   0 reset      an eagle talon bracelet
+#13500   1 active   0 reset      a loaf of elven bread
+#13501   1 active   0 reset      a bottle of elven wine
+#13502   1 active   0 reset      an elven travelpack
+#13503   1 active   0 reset      a golden earring
+#13504   1 active   0 reset      a pile of {Gglowing{x moss
+#13505   3 active   0 reset      a shinning silver breastplate
+#13506   3 active   0 reset      a mithril axe
+#13518   0 active   0 reset      a diamond
+#13547   4 active   0 reset      a bright {Rred{x sash
+#13549   1 active   0 reset      a giant broadsword
+#13550   2 active   0 reset      a {Ygolden{x anklet
+#13551   2 active   0 reset      a pair of soft leather boots
+#13552   2 active   0 reset      a diamond stud
+#13553   1 active   0 reset      (no short description)
+#13600   1 active   0 reset      the bell
+#13606   0 active   0 reset      (no short description)
+#13630   1 active   0 reset      a {Ybeautifully{W carved {ydesc.{x,
+#13631   1 active   0 reset      the black robes dagger
+#13632   1 active   0 reset      a tiny {yGold{x key
+#13641   1 active   0 reset      a translucent skull of an ogre
+#13680   1 active   0 reset      pool of dark fluid
+#13700   1 active   0 reset      a Loaf of Bread
+#13701   1 active   0 reset      a Piece of Chocolate CAke
+#13702   2 active   0 reset      an {cedged{x blade
+#13850   1 active   0 reset      a cracked fountain
+#13851   1 active   0 reset      a vial filled with faerie {Rblood{x
+#13852   1 active   0 reset      a flask of {Bblue{x and {Ggreen{x fluid
+#13853   1 active   0 reset      the potion of {Dshadows{x
+#13854   1 active   0 reset      a {cgranite{x potion
+#13855   1 active   0 reset      an assassin's scimitar
+#13856   1 active   0 reset      a grapling hook
+#13857   1 active   0 reset      a sharpened lockpick
+#13858   1 active   0 reset      the Cloak of {DShadows{x
+#13859   1 active   0 reset      the Boots of Silence
+#13860   1 active   0 reset      the Pit of Thieves
+#13861   1 active   0 reset      a potion of recall
+#13862   0 active   0 reset      the desk of Sirrion
+#14000   1 active   0 reset      a wooden sign
+#14001   1 active   0 reset      the chieftain's broadsword
+#14002   2 active   0 reset      a plainsman's loincloth
+#14003   1 active   0 reset      a haunch of venison
+#14004   1 active   0 reset      a dwarven warhammer
+#14071   1 active   0 reset      ({CSolamnic{x) A Pair of Greaves etched with {RRoses{x
+#14072   1 active   0 reset      ({CSolamnic{x) A Pair of Vambraces etched with {YCrowns{x
+#14073   1 active   0 reset      ({BPowerful{x) A {YDragon{WLance{x
+#14074   1 active   0 reset      ({CSolamnic{x) A Pair of {YRiding Boots{x
+#14075   1 active   0 reset      ({CSolamnic{x) A Cloak of the {WSword{x
+#14076   1 active   0 reset      ({CSolamnic{x) A Pair of Gauntlets etched with {RRoses{x
+#14077   1 active   0 reset      ({CSolamnic{x) A Breastplate etched with {YCrowns{x
+#14078   0 active   0 reset      ({CSolamnic{x) A {WKnights {YShield{x
+#14079   1 active   0 reset      ({CSolamnic{x) A {WKnights {BSword{x
+#14080   1 active   0 reset      ({CSolamnic{x) A {RTravel {YPack{x
+#14081   1 active   0 reset      ({CSolamnic{x) A {WKnights {RMace{x
+#14088   1 active   0 reset      a diamond
+#14089   1 active   0 reset      a Beautiful Fountain
+#14090   1 active   0 reset      a donation pit
+#14091   1 active   0 reset      a Flambe!
+#14092   1 active   0 reset      a dragon steak
+#14220   0 active   0 reset      (no short description)
+#14295   0 active   0 reset      ({YLeather{x) {DBlack{x Thighboots
+#14296   0 active   0 reset      ({YLeather{x) Fingerless gloves
+#14297   0 active   0 reset      ({DSilken{x) {DBlack{x pants with a {bblue stripe{x
+#14298   0 active   0 reset      {DS{wo{Du{wl {DC{wa{Dt{wc{Dh{we{Dr{x
+#14299   0 active   0 reset      a {Ddark helm{x etched with {rlilies{x
+#14300   1 active   0 reset      a {bBlue{x Helm
+#14301   1 active   0 reset      a {bBlue{x Uniform
+#14302   1 active   0 reset      a Hoopak
+#14303   2 active   0 reset      a Kender Travelling Pack
+#14304   0 active   0 reset      a Long Dagger
+#14500   1 active   0 reset      a Cookie
+#14501   1 active   0 reset      a Donut
+#14502   1 active   0 reset      a Piece of Cake
+#14503   1 active   0 reset      a Loaf of Bread
+#14504   1 active   0 reset      the Rose Key
+#14505   1 active   0 reset      the Lilac Key
+#14506   1 active   0 reset      the Poppy Key
+#14507   1 active   0 reset      the Daisy Key
+#14508   1 active   0 reset      a Guest bed
+#14509   2 active   0 reset      a {mGuest Bed{x
+#14510   0 active   0 reset      a {cComfortable Bed{x
+#14511   1 active   0 reset      a {yGuest Bed{x
+#14512   1 active   0 reset      a Comfortable Couch
+#14513   6 active   0 reset      a short sword of the Haven guard
+#14514   6 active   0 reset      the breastplate of the cityguard
+#14515   6 active   0 reset      a {bdark blue{x cloak
+#14516   6 active   0 reset      a pair of iron gauntlets
+#14517   6 active   0 reset      a pair of marching boots
+#14518   1 active   0 reset      a throwing dagger
+#14519   2 active   0 reset      a steel-headed mace
+#14550   3 active   0 reset      a Faerie Coin
+#14551   2 active   0 reset      pan flutes
+#14700   1 active   0 reset      a thick steak
+#14701   1 active   0 reset      a few strips of bacon
+#14702   1 active   0 reset      a roasted chicken breast
+#14703   1 active   0 reset      some dried venison
+#14704   1 active   0 reset      a green apple
+#14705   1 active   0 reset      a raw potato
+#14706   1 active   0 reset      some carrots
+#14707   2 active   0 reset      a large tomato
+#14708   1 active   0 reset      a potion of homecoming
+#14709   1 active   0 reset      a vial of an antidote
+#14710   1 active   0 reset      a gleaming red wand
+#14711   1 active   0 reset      a simple wooden staff
+#14712   1 active   0 reset      a scroll of flight
+#14713   1 active   0 reset      a glowing wand
+#14714   1 active   0 reset      a small stone fountain
+#14715   3 active   0 reset      a loaf of wheat bread
+#14716   1 active   0 reset      a loaf of rye bread
+#14717   1 active   0 reset      a cherry pie
+#14718   1 active   0 reset      some sugar cookies
+#14719   1 active   0 reset      a bread roll
+#14720   1 active   0 reset      a small wooden raft
+#14721   1 active   0 reset      a boat ticket to Palanthas
+#14722   1 active   0 reset      an iron sword
+#14723   1 active   0 reset      a marble fountain
+#14724   1 active   0 reset      a donation pit
+#14725   1 active   0 reset      a canteen
+#14726   1 active   0 reset      a leather backpack
+#14727   1 active   0 reset      a cloth bag
+#14728   1 active   0 reset      a bronze lantern
+#14729   1 active   0 reset      a torch
+#14730   1 active   0 reset      some green herbs
+#14731   1 active   0 reset      some red herbs
+#14732   2 active   0 reset      some yellow herbs
+#14733   1 active   0 reset      a ball of magic
+#14734   1 active   0 reset      some orange herbs
+#14735   1 active   0 reset      some wild herbs
+#14736   1 active   0 reset      a map of Caergoth
+#14737   1 active   0 reset      an iron shield
+#14738   1 active   0 reset      an iron spear
+#14739   1 active   0 reset      an iron knife
+#14740   1 active   0 reset      an iron morningstar
+#14741   1 active   0 reset      an iron ball-and-chain
+#14742   1 active   0 reset      a shirt of iron chainmail
+#14743   1 active   0 reset      an iron chain
+#14744   1 active   0 reset      an iron handaxe
+#14745   1 active   0 reset      a suit of iron platemail
+#14746   1 active   0 reset      an anvil
+#14747   1 active   0 reset      a cast-iron helmet
+#14748   1 active   0 reset      a wooden desk
+#14749   2 active   0 reset      a mug of ale
+#14750   1 active   0 reset      a glass of red wine
+#14751   1 active   0 reset      a wooden keg
+#14752   1 active   0 reset      a hot meal
+#14753   1 active   0 reset      a table and chairs
+#14754   1 active   0 reset      a feather bed
+#14755   3 active   0 reset      a stack of crates
+#14756   1 active   0 reset      a wooden hiking stick
+#14757  10 active   0 reset      a steel shortsword
+#14758   7 active   0 reset      a steel shield
+#14759   2 active   0 reset      a pair of leather boots
+#14760   1 active   0 reset      a fishing pole
+#14761   1 active   0 reset      a bucket
+#14762   1 active   0 reset      a fish
+#14763   4 active   0 reset      a hard leather belt
+#14764   3 active   0 reset      a set of steel sleeves
+#14765   1 active   0 reset      a suit of fine steel platemail
+#14766   1 active   0 reset      a glittering steel longsword
+#14767   1 active   0 reset      the Caergoth signet ring
+#14768   1 active   0 reset      a fine steel shield
+#14769   1 active   0 reset      a key
+#14770   1 active   0 reset      a diamond engagement ring
+#14771   1 active   0 reset      a tuxedo
+#14772   1 active   0 reset      a white wedding dress
+#14773   1 active   0 reset      a white wedding veil
+#14774   1 active   0 reset      a bridal bouquet
+#14775   1 active   0 reset      a display rack of armour and weapons
+#14776   1 active   0 reset      a stack of iron ingots
+#14777   2 active   0 reset      a wooden counter
+#14778   1 active   0 reset      a cast iron oven
+#14779   1 active   0 reset      a clothing rack
+#14780   1 active   0 reset      a glass display case
+#14781   1 active   0 reset      the mayor's desk
+#14782   3 active   0 reset      a war banner of Caergoth
+#14783   2 active   0 reset      a street cleaner's broom
+#14784   1 active   0 reset      a wooden desk
+#14785   1 active   0 reset      an open spit
+#14786   1 active   0 reset      a bloody wooden counter
+#14787   1 active   0 reset      bins of fruit and vegetables
+#14788   1 active   0 reset      the blast furnace
+#14789   1 active   0 reset      a dried mushroom
+#14790   1 active   0 reset      a rack of drying herbs
+#14791   1 active   0 reset      a sheet of parchment
+#14792   1 active   0 reset      a wooden counter
+#14793   1 active   0 reset      a good luck charm
+#14794   1 active   0 reset      a small silver ring
+#14795   1 active   0 reset      a set of bunk beds
+#14796   1 active   0 reset      a set of bunk beds
+#14797   2 active   0 reset      a bronze axe
+#14798   3 active   0 reset      a bronze bracelet
+#14799   1 active   0 reset      a small stone fountain
+#14800   1 active   0 reset      a traveler's pack
+#14801   7 active   0 reset      a trail ration
+#14802   1 active   0 reset      a forest cloak
+#14804   2 active   0 reset      a stone hammer
+#14824   2 active   0 reset      a {Dblack{x fur bear cloak
+#14850   0 active   0 reset      boots of Silent Walking
+#14851   1 active   0 reset      a Sprite's Flask
+#14852   0 active   0 reset      a Crushed Velvet Cloak
+#14853   1 active   0 reset      a Yellow Potion
+#14854   1 active   0 reset      a Green Potion
+#14855   1 active   0 reset      a brown potion
+#14856   1 active   0 reset      chainmail Armor
+#14857   1 active   0 reset      leather Pants
+#14858   1 active   0 reset      a Fur Cloak
+#14859   1 active   0 reset      a Long Dagger
+#14860   1 active   0 reset      a Longsword
+#14861   1 active   0 reset      a Glowing Mace
+#14927   0 active   0 reset      a golden key
+#14948   0 active   0 reset      the mark of the {GW{gildrunner{x
+#14949   1 active   0 reset      the {GW{gildrunner{x donation pit.
+#14950   1 active   0 reset      a tassled hoopak
+#14991   2 active   0 reset      a pair of {cyetti{x claws
+#16000   2 active   0 reset      a {yLeather{x Helmet
+#16001  10 active   0 reset      a {rTorch{x
+#16002   1 active   0 reset      a large iron chest
+#16003   1 active   0 reset      a small cup
+#16004   1 active   0 reset      a {yVallenwood{x sign
+#16005   1 active   0 reset      a small sign.
+#16006   4 active   0 reset      a sub issue ring
+#16014   1 active   0 reset      an old worn {ybench{x
+#16015   1 active   0 reset      an {cAncient{x book
+#16017   1 active   0 reset      deer steak
+#16018   1 active   0 reset      a sub issue mace
+#16019   0 active   0 reset      a sub issue dagger
+#16020   0 active   0 reset      a sub issue sword
+#16021   1 active   0 reset      a sub issue vest
+#16022   3 active   0 reset      a sub issue shield
+#16023   3 active   0 reset      a sub issue cloak
+#16024   0 active   0 reset      a sub issue helmet
+#16025   4 active   0 reset      a pair of sub issue leggings
+#16026   3 active   0 reset      a pair of sub issue boots
+#16027   3 active   0 reset      a pair of sub issue gloves
+#16028   3 active   0 reset      a pair of sub issue sleeves
+#16029   3 active   0 reset      a sub issue cape
+#16030   3 active   0 reset      a sub issue belt
+#16031   5 active   0 reset      a sub issue bracer
+#16032   3 active   0 reset      a war banner
+#16033   0 active   0 reset      a sub issue spear
+#16034   0 active   0 reset      a sub issue staff
+#16035   0 active   0 reset      a sub issue axe
+#16036   0 active   0 reset      a sub issue flail
+#16037   0 active   0 reset      a sub issue whip
+#16038   0 active   0 reset      a sub issue glaive
+#16039   1 active   0 reset      a sub issue lance
+#16045   0 active   0 reset      ({YWooden{x) ({DCracked{x) {BMorgion's{x {wA{x{rs{x{ws{x {rP{x{wa{x{rd{x{wd{x{rl{x{we{x{rr{x.
+#16046   0 active   0 reset      ({RBlood-Splattered{x) Braincrusher
+#16050   1 active   0 reset      a Short Dagger
+#16051   1 active   0 reset      a Long Dagger
+#16052   1 active   0 reset      a Short Sword
+#16053   1 active   0 reset      a Long Sword
+#16054   1 active   0 reset      a Steel Mace
+#16055   1 active   0 reset      a Glowing Mace
+#16056   1 active   0 reset      a Wooden Table
+#16057   1 active   0 reset      a Yellow Potion
+#16058   1 active   0 reset      a Red Potion
+#16059   1 active   0 reset      a Blue Potion
+#16060   1 active   0 reset      a {BBlue{x Steel Helm
+#16061   1 active   0 reset      {BBlue{x Chainmail
+#16062   1 active   0 reset      black Leather Boots
+#16063   1 active   0 reset      a black portal
+#16064   1 active   0 reset      fur Leggings
+#16065   1 active   0 reset      a pitcher of milk
+#16066   1 active   0 reset      a Fur Cloak 
+#16067   1 active   0 reset      a Grey Backpack
+#16068   1 active   0 reset      a Donation Pit
+#16071   0 active   0 reset      a vault dug into the ground
+#16072   1 active   0 reset      a warpstone
+#16073   1 active   0 reset      a diamond
+#17000   1 active   0 reset      {MOtik's Ever-Famous Spiced Potatoes{x
+#17001   1 active   0 reset      {BTika's Pan-Fried Flatbread{x
+#17002   1 active   0 reset      {Ya table near the fire{X
+#17003   1 active   0 reset      the bar
+#17004   1 active   0 reset      a bowl of grog.
+#17005   1 active   0 reset      a shot of vodka
+#17006   1 active   0 reset      a bottle of Red Wine.
+#17007   1 active   0 reset      a Bottle of Elven Wine
+#17008   1 active   0 reset      the bar
+#17009   0 active   0 reset      {BA Blue Key{x
+#17010   1 active   0 reset      a key ticket
+#17100   0 active   0 reset      ({BDark{x) The light of {DM{Bi{Dd{Bn{Di{Bg{Dh{Bt{x
+#17101   0 active   0 reset      ({wBone{x) {bGriffon's Talon{x
+#17102   1 active   0 reset      ({wBone{x) {rDragon's Talon{x
+#17103   1 active   0 reset      ({DSilken{x) {RDark Red scarf{x
+#17104   1 active   0 reset      ({DSilken{x)  {BDark Blue scarf{x
+#17105   1 active   0 reset      ({DSilken{x) a {DBlack{x hood with a {rred{x bandana
+#17106   1 active   0 reset      ({DSilken{x) {DA black sleeveless shirt{x
+#17107   1 active   0 reset      ({DSilken{x) {DBlack{x pants with a {bblue stripe{x
+#17108   1 active   0 reset      ({yLeather{x) {DBlack{x Thighboots
+#17109   1 active   0 reset      ({yLeather{x) Fingerless gloves
+#17110   0 active   0 reset      ({CSteel{x) Throwing stars on a leather strip
+#17111   0 active   0 reset      (BLURRING!) A parrying dagger
+#17112   1 active   0 reset      ({DSilken{x) A {cWeighted{x training sash
+#17113   1 active   0 reset      ({yLeather{x) Bracer depicting {Ddeath{x
+#17114   1 active   0 reset      ({yLeather{x) Bracer depicting {wLife{x
+#17117   0 active   0 reset      ({DHidden{x) {DA small Dagger{X
+#17118   0 active   0 reset      ({cAdamantite{X) Dager of {CD{cr{Ce{ca{Cm{cs{x
+#17119   0 active   0 reset      ({WFluttering{x) A {DBlack{X Owl
+#17120   1 active   0 reset      ({YSoft Leather{x) A full Cloak
+#17121   0 active   0 reset      ({CSteel{x) ({DEvil{x) Rowen's Dagger
+#17122   1 active   0 reset      {W({rMajestic{W) {wThe helmet of {DTakhisis' Vision{x
+#17123   0 active   0 reset      {cDeaths Vengence{x
+#17124   0 active   0 reset      {bMercenary {cSpikes{x
+#17125   0 active   0 reset      earring of {cProfit{x
+#17126   0 active   0 reset      {rSirrion's {cDeath {rfrom {cAbove{x
+#17993   0 active   0 reset      {w({DDimensional{w) A {Rrift {win {DSpace{w and {WTime{x
+#17994   0 active   0 reset      {wa ring with the insignia of {cSolamnia{x
+#17995   0 active   0 reset      {wthe {YElf maiden's{w ring{x
+#17996   0 active   0 reset      ({DDark{x) {wa {DSpectral {wAura{x
+#17997   0 active   0 reset      ({DCharred{x) {wa battered{c Solamnic{w shield{x
+#17998   0 active   0 reset      {DW{wr{Da{wt{Dh {wo{Df {wS{Do{wt{Dh{x
+#17999   0 active   0 reset      {DS{wo{Du{wl {DC{wa{Dt{wc{Dh{we{Dr{x
+#18250  11 active   0 reset      a hooked dagger
+#18251   7 active   0 reset      a scimitar
+#18252   7 active   0 reset      a medallion of Sargonnas
+#18253   5 active   0 reset      a {Rred{x dragonhelm
+#18254   5 active   0 reset      {RRed{x dragonscale armor
+#18255   1 active   0 reset      watery soup
+#18256   1 active   0 reset      a soggy loaf of bread
+#18257   1 active   0 reset      a fishcake
+#18258   6 active   0 reset      a Smelly Leather Shirt
+#18259   5 active   0 reset      worn Leather Boots
+#18260   2 active   0 reset      firebreather
+#18261   2 active   0 reset      a Mug of Ale
+#18262  13 active   0 reset      a wooden spoon
+#18263  13 active   0 reset      a tattered pair of pants
+#18264   6 active   0 reset      a Black Headband
+#18265   5 active   0 reset      a grey sash
+#18266   6 active   0 reset      gauntlets of Secrecy
+#18267   6 active   0 reset      an assasins mace
+#18268   4 active   0 reset      the Snake's Head Staff
+#18269   5 active   0 reset      a wicked cutlass
+#18270   4 active   0 reset      a pair of tight leather pants
+#18271   5 active   0 reset      black Jeweled Bracers
+#18272   1 active   0 reset      the white key
+#18273   1 active   0 reset      the green key
+#18274   1 active   0 reset      the black key
+#18275   1 active   0 reset      the blue key
+#18276   2 active   0 reset      the red key
+#18277   1 active   0 reset      a glass of wine
+#18278   1 active   0 reset      a bottle of beer
+#18279   1 active   0 reset      a comfortable bed.
+#18280   1 active   0 reset      a comfortable bed
+#18281   1 active   0 reset      a comfortable bed
+#18282   1 active   0 reset      a comfortable bed
+#18283   1 active   0 reset      a comfortable bed
+#18284   6 active   0 reset      a goblin short sword
+#18285   5 active   0 reset      leggings of Might
+#18286   5 active   0 reset      a pendant of warding.
+#18287   6 active   0 reset      the mace of Kyrinth lies here.
+#18327   6 active   0 reset      a Goblin rimmed helmet
+#18350   0 active   0 reset      (no short description)

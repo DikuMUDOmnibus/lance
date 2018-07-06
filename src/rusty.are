@@ -1,0 +1,948 @@
+#AREADATA
+Name the rusty dragon~
+Builders Olov~
+Range 0 101
+VNUMs 950 986
+Credits olov~
+Security 1
+End
+
+
+
+#MOBILES
+#950
+Bernard~
+Bernard~
+Bernard the Barkeep is here, pouring drinks.
+~
+A middle-aged man stands here, pouring drinks.  He looks badly scarred,
+but manages to keep a smile on his face.  He must be quite happy doing what
+he is.  
+~
+human~
+ABGQ D DFe 0 0 0
+300 300 10d900+24900 300d10+100 19d20+179 none
+-57 -57 -57 -56
+0 ACD 0 0
+stand stand male 2147483647
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+M SPEECH 951 olov is a god!~
+#951
+Drunks Group~
+A large group of drunks~
+A large group of drunks, talking loudly is here.
+~
+Before you stands a quite large group of drunks.  It consists or men and
+women, young and old, human and whatnot.  They seem oblivious to everything
+else in the bar.  
+~
+human~
+ABH CD d 0 0 0
+101 101 10d303+3333 101d10+100 11d12+60 none
+-16 -16 -16 -15
+0 CD 0 0
+stand stand none 0
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#952
+Old Man Pedophile~
+An Old Pedophile~
+An Old Pedophile is here.
+~
+An Old Pedophile stands here, offering {RPopsicles{x to small children.  
+~
+human~
+ABG CD De 0 0 0
+1 1 0d2+10 1d10+100 2d4+0 none
+4 4 4 5
+0 ACD 0 0
+stand stand male 0
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#953
+Giant Rat~
+{DA Giant Rat{x~
+{DA Giant Rat{x is here, snarling at you.
+~
+An absolutely giant rat is here, staring at you with beady red eyes.  It
+follows your every movement carefully, and appears very angry at your
+presence.  
+~
+human~
+ACT 0 B 0 0 0
+130 90 10d300+4000 130d10+100 12d14+77 none
+-22 -22 -22 -21
+CDFIKNU 0 0 0
+stand stand male 20000
+0 ABCDEFGHIJK large unknown
+F for AHMV
+#954
+Guardian Rat~
+A {mGuardian{x Rat~
+A {mGuardian{x Rat is here, watching your every move.
+~
+A smaller, but even more imposing kind of Rat stands here.  It follows
+your every move carefully, and it seems to be protecting something.  
+~
+human~
+AT 0 0 0 0 0
+140 90 10d420+6020 140d10+100 13d14+83 none
+-24 -24 -24 -23
+0 0 0 0
+stand stand male 300
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#955
+King Rat~
+{DThe Rat King{x~
+{DThe Rat King{x is here, sitting on his throne.
+~
+~
+human~
+ABR 0 0 0 -1000 0
+200 100 5d200+4000 150d10+100 13d14+89 none
+-26 -26 -26 -25
+A 0 0 0
+sit sit none 500
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#956
+Inferno~
+{RInferno{x~
+{RInferno the Red Dragon{x is here, attacking YOU!
+~
+Run Away! It's Deadly!
+~
+dragon~
+ABFT 0 JTe 0 0 0
+200 150 10d600+9000 200d10+100 14d18+119 none
+-36 -36 -36 -35
+ADFI H BEH FI
+stand stand male 500
+AHZ ABCDEFGHIJKPQUVX large unknown
+M GREET 950 100~
+#0
+
+
+
+#OBJECTS
+#950
+Grog~
+A mug of Grog~
+Grog, usually used for melting iron, is drinkable in a watered down form.~
+wood~
+drink Y A
+0
+2 2 'beer' 0 0
+1 1 50 P
+#951
+glass icewine~
+A Glass of {BIcewine{x~
+An elven favorite, Icewine, fills a simple glass.  It emits a cool vapor from the top of the glass.  It must be quite a favorite in the summer months.~
+steel~
+drink Y A
+0
+4 4 'icewine' 0 0
+1 2 250 P
+#952
+Popsicle~
+A {RPopsicle!{x~
+A {RPopsicle!{x is laying here.~
+Flavored Ice~
+food IUY AO
+0
+C C 0 0 0
+1 0 25 P
+#953
+scotch~
+A Glass of {yScotch{x~
+A Glass of {yScotch{x is laying here.~
+Glass~
+drink Y A
+0
+2 2 'local specialty' 0 0
+1 0 115 P
+#954
+Tea Cup~
+{WA Cup of Tea{x~
+{WA Cup of Tea is laying here{x.~
+Ceramnic~
+drink Y A
+0
+2 2 'tea' 0 0
+1 0 50 P
+#955
+Coffee~
+{WA Cup of {DDark Coffee{x~
+{WA Cup of {DDark Coffee{x is laying here.~
+Java~
+drink Y A
+0
+2 2 'coffee' 0 0
+1 0 50 P
+#956
+Elven Wine Fine~
+A Glass of {M"Fine"{G Elvish{x Wine~
+A Glass of {M"Fine"{G Elvish{x Wine~
+Glass~
+drink I AE
+0
+4 4 'salt water' 1 0
+1 0 300 P
+#957
+Bowl Fruit~
+A Bowl of {YF{RR{bU{CI{MT{x~
+A Bowl of {YF{RR{bU{CI{MT{x is laying here.~
+Wood~
+food 0 A
+0
+AB AC 0 0 0
+1 0 200 P
+#958
+Bar Pretzel~
+{yA Bar Pretzel{x~
+{yA Bar Pretzel{x is laying here.~
+unknown~
+food P A
+0
+A 0 0 0 0
+1 1 25 P
+#959
+Bunch Chair Comfortable~
+A Bunch of {BComfortable {yOak Chairs{x~
+A Bunch of {BComfortable {yOak Chairs{x is here.~
+Wood~
+furniture 0 P
+0
+CE 0 E BDEFGH BDEFGH
+0 50 10000 P
+#960
+Tables~
+{yA Table{x~
+A lot of {ylarge tables{x are here, waiting to be used.~
+Wood~
+furniture 0 P
+0
+B 0 E 0 0
+2 24464 1 P
+#961
+Bottomless Mug~
+({RBOTTOMLESS{x) {YA {CHUGE{Y MUG!{x~
+({rBOTTOMLESS{x) {YA {CHUGE{Y MUG!{x is here.~
+Silly~
+drink AY A
+0
+600 600 'orange juice' 0 0
+5 10 5000000 P
+#962
+Barrel~
+A {bwater{x-filled barrel~
+A {bwater{x-filled barrel is here.~
+Wood~
+container 0 P
+0
+0 0 0 1 900000
+0 0 0 P
+#963
+Bottle Broken Beer~
+A {yBroken Beer Bottle{x~
+A {yBroken Beer Bottle{x is laying here.~
+Broken Glass~
+weapon IY AN
+CDEFG
+exotic 4 5 slash EI
+5 0 400 P
+#964
+Fridge Mini~
+{WA Mini-Fridge{x~
+{WA Mini-Fridge{x is sitting here.~
+Metal~
+container 0 P
+0
+0 0 0 100 100
+0 0 0 P
+#965
+Poster~
+A HUGE Poster~
+A HUGE Poster is here, lining the wall.~
+unknown~
+trash 0 P
+0
+0 0 0 0 0
+0 0 0 P
+E
+poster~
+AHHH!!!  This is a wall-length nude poster of OLOV!  You cannot seem to
+draw your gaze from it, and Olov in all of his glory.  You comptemplate
+taking the poster, but decide against it.  
+~
+#966
+Fireplace Warm~
+A {RW{Ya{Rr{Ym{x Fireplace~
+A {RW{Ya{Rr{Ym{x Fireplace is here.~
+Stone~
+furniture 0 P
+0
+A 0 F CEFGHI CEFGHI
+0 0 0 P
+E
+fireplace~
+This is a fine stone Fireplace, full of warmth and wood.  It looks like
+quite a comfortable place to lay down in front of.  
+~
+#967
+Bed~
+{BOlov's{x Bed~
+{BOlov's{x Bed is here.~
+Silk~
+furniture 0 P
+0
+AC 0 EHK CDFI CDFI
+1 0 0 P
+E
+bed~
+This is Olov's Bed, covered in a red silk bedcover.  It looks very
+inviting.  
+~
+#968
+Metal Table~
+A Metal Table~
+A Metal Table is sitting here.~
+Metal~
+furniture Y P
+0
+B 0 EHK BDEFGH 0
+0 0 0 P
+#969
+Whip Kinky~
+A {MKINKY{x {DWhip{x~
+A {MKINKY{x {DWhip{x is laying here.~
+unknown~
+weapon GY AN
+0
+whip 5 3 none 0
+1 0 200 P
+F
+A 0 0 H
+#970
+EvilSign~
+A Sign~
+A Sign is here, hanging behind the bar.~
+Wood~
+trash E P
+0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+This sign reads:
+"Free Beer Tomorrow!"
+~
+#971
+guest bed~
+A {cGuest Bed{x~
+A {cGuest Bed{x is laying here.~
+unknown~
+furniture 0 P
+0
+B HJLOQSTUWYa EH ACDEFG ACDEFG
+0 0 0 P
+#972
+Empty Beer Bottles~
+{ySome Empty Beer Bottles{x~
+{ySome Empty Beer Bottles{x are laying here.~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#973
+Viagra~
+A Bottle of Viagra!~
+{WA Bottle of Viagra{x is sitting here.~
+Posion~
+pill 0 AP
+0
+500 'haste' 'stone skin' 'frenzy' 'reserved'
+1 0 0 P
+E
+bottle~
+The label on this bottle reads: DEADLY!  May cause hair loss, shriveling,
+posion, faerie fire, incontinence, a need to poop, impotency, and death. 
+Most likely death.  
+~
+#974
+Table Long~
+{yA Long Table{x~
+{yA Long Table{x is sitting here.~
+Something~
+container 0 P
+0
+500 E 0 5 500
+0 0 0 P
+#975
+Chair~
+A {CDining{x Chair~
+A {CDining{x Chair is sitting here.~
+Fluff!~
+furniture 0 P
+0
+BD GKMOQTX E BCDFG BCDFG
+0 0 0 P
+#976
+Throne~
+A {RThrone{x~
+A {RThrone{x is sitting here.~
+Gold~
+furniture 0 P
+0
+B FHIJLMNPQST EH CFG CFG
+101 0 0 P
+#977
+Huge Feast~
+A {MHUGE{G FEAST{x~
+A {MHUGE{G FEAST{x is sitting here.~
+1500~
+pill 0 A
+0
+200 'sanctuary' 'haste' 'feast' 'reserved'
+0 0 300 P
+#978
+Key Room~
+The Key To Olov's Room~
+The Key To Olov's Room is here... give it back to him!~
+unknown~
+key 0 AP
+0
+0 0 0 0 0
+0 0 0 P
+#979
+Bag Holding~
+A {BBag of Holding{x~
+A {BBag of Holding{x is laying here.~
+Cloth~
+container ASY ALP
+0
+5 AC 0 9000000 -1000
+90 0 500000 P
+#980
+Royal Key~
+The Royal {DRat{x Key~
+The Royal {DRat{x Key is here.~
+Metal~
+key SY A
+0
+0 0 0 0 0
+1 0 10000 P
+#981
+Platinum Bar~
+A Platinum Bar~
+A Platinum Bar is laying here.~
+Pretty!~
+gem 0 AP
+0
+0 0 0 0 0
+1 0 10000 P
+#0
+
+
+
+#ROOMS
+#950
+The Rusty Dragon~
+This is {yThe Rusty Dragon{x, the famed tavern of Palanthas.  It mostly
+serves adventures, but houses the occasional drunk.  There is a fireplace in
+the corner, surrounded by a group of these drunks.  There is also a man near
+the back of the tavern, serving drinks.  
+~
+~
+0 4195336 0
+D0
+~
+~
+1 0 951
+D1
+~
+~
+0 0 953
+D4
+~
+~
+0 0 954
+M 125 H 125
+S
+#951
+The Kitchen~
+This is the Kitchen of The Rusty Dragon, where the food and drinks are
+made.  It is quite draf, and very cold in here.  There is also a barrel full
+of water in the corner, full of dirty dishes and glasses.  
+~
+~
+0 4195328 0
+D2
+~
+~
+1 0 950
+D5
+~
+~
+1 0 952
+S
+#952
+The Cellar~
+This room is quite drafty, and very cold.  In fact, the chill seems to be
+radiating from the large white box by the wall.  There is also a strange
+poster on the wall here.  
+~
+~
+0 1024 0
+D4
+~
+~
+1 0 951
+S
+#953
+The Meeting Room~
+Before you is The Meeting Room.  There is a large table, and many chairs
+strewn about the room.  There is also a warm heat coming from the fireplace
+against the wall.  
+~
+~
+0 0 0
+D3
+~
+~
+0 0 950
+S
+#954
+The Hallway~
+Along this corridor are many doors, presumably bedrooms for guests. 
+There is a solid oak floor, and there are many candlesticks lighting the
+hall.  
+~
+~
+0 1024 0
+D0
+~
+~
+0 0 958
+D1
+~
+~
+1 0 955
+D3
+~
+~
+1 0 956
+D5
+~
+~
+0 0 950
+S
+#955
+{BOlov's{x room~
+This is {BOlov Bloodblade's{x room, as he is the Co-Owner of The Rusty
+Dragon.  Apparently from the furnishings of the room, the bar makes quite a
+bit of money.  As with a good many other places in the inn, this room is
+drafty.  There is also a very large bed in the middle of the room, useful
+for...  Sleeping.  
+~
+~
+0 1024 0
+D0
+~
+~
+1 0 957
+D3
+~
+~
+1 978 954
+S
+#956
+Bernard's Room~
+This is the room of Bernard, the other Co-Owner of The Rusty Dragon.  His
+room is fairly unfurnished.  He must spend most of his time elseware.  
+~
+~
+0 1024 0
+D1
+~
+~
+1 0 954
+S
+#957
+The "Torture" Chamber~
+After looking closely around Olov's room, you've managed to stumble upon
+this place.  It looks like a reproduction of the Torture chambers in Storm
+Keep, only different somehow.  
+~
+~
+0 0 0
+D2
+~
+~
+1 0 955
+S
+#958
+End of Hall~
+Along this corridor are many doors, presumably bedrooms for guests. 
+There is a solid oak floor, and there are many candlesticks lighting the
+hall.  
+~
+~
+0 1024 0
+D1
+~
+~
+0 0 959
+D2
+~
+~
+0 0 954
+D3
+~
+~
+0 0 960
+D4
+~
+~
+1 0 961
+S
+#959
+A Guest Room~
+This is a Guest Room of The Rusty Dragon, often used by weary travelers,
+and the occasional drunk.  It is comfortably lit, but rather empty as
+furnishings go.  This room must have jusy been designed to sleep in.  
+~
+~
+0 1024 0
+D3
+~
+~
+0 0 958
+S
+#960
+A Guest Room~
+This is a Guest Room of The Rusty Dragon, often used by weary travelers,
+and the occasional drunk.  It is comfortably lit, but rather empty as
+furnishings go.  This room must have jusy been designed to sleep in.  
+~
+~
+0 0 0
+D1
+~
+~
+0 0 958
+S
+#961
+The Roof~
+This is the roof of The Rusty Dragon.  There is a worn spot on the side
+of the roof.  There are also a few empty bottles here.  Someone must spend a
+lot of time up here.  
+~
+~
+0 1024 0
+D0
+~
+~
+0 0 962
+D5
+~
+~
+1 0 958
+S
+#962
+The Roof~
+The Roof stretches onward, towards another building.  Near the end of the
+roof, you can look down and see a large pile of trash.  Jumping is possible,
+if you don't mind landing in filth.  
+~
+~
+0 1028 0
+D2
+~
+~
+0 0 961
+D5
+~
+~
+0 0 964
+S
+#963
+~
+~
+~
+0 4194304 0
+D4
+~
+~
+0 0 961
+S
+#964
+The Sewers~
+After a longer fall than expected, you arrive in a sewer.  You must have
+fallen through the trash.  This place reeks of a strong scent, and is about
+a foot with a green, murky liquid.  Tread carefully.  
+~
+~
+0 0 11
+D2
+~
+~
+0 0 965
+D4
+~
+~
+0 0 962
+S
+#965
+The Sewers~
+Farther along the tunnel, the smell just seems to get worse.  The signs
+of life seem to also increase.  Maybe there is something else other than
+giant rats in this god-forsaken place.  
+~
+~
+0 0 0
+D0
+~
+~
+0 0 964
+D2
+~
+~
+0 0 966
+S
+#966
+The Sewers~
+Farther along the tunnel, the smell just seems to get worse.  The signs
+of life seem to also increase.  Maybe there is something else other than
+giant rats in this god-forsaken place.  
+~
+~
+0 0 0
+D0
+~
+~
+0 0 965
+S
+#967
+The Sewers~
+The passage suddenly grows darker, and the stench seems to increase
+tenfold.  It is a wonder anything can live in this horrible place.  
+~
+~
+0 8 0
+D2
+~
+~
+0 0 968
+S
+#968
+The Inner Sewer~
+Red beady eyes surround you.  You hear the scuttling of small feet behind
+you.  The darkness completely envelops all.  This place is a place of
+nightmares.  
+~
+~
+0 5 0
+D0
+~
+~
+0 0 967
+D2
+~
+~
+0 0 969
+S
+#969
+The Inner Sewer~
+Red beady eyes surround you.  You hear the scuttling of small feet behind
+you.  This must be the place of nightmares.  
+~
+~
+0 1 0
+D0
+~
+~
+0 0 968
+D2
+~
+~
+0 0 970
+S
+#970
+The Inner Sanctum~
+Seemingly out of nowhere, the sewer turns into a plush carpeted room. 
+Candles light the room, and a smell of a feast can be heard from the next
+room.  This is a place fit for a king.  
+~
+~
+0 0 0
+D0
+~
+~
+0 0 969
+D2
+~
+~
+0 0 971
+S
+#971
+The Feasthall~
+~
+~
+0 4 0
+D0
+~
+~
+0 0 970
+D2
+~
+~
+1 0 972
+S
+#972
+The Throne Room~
+This is the Throne Room of the (Royal?)  Rat King.  It apparently is the
+head of state of this group of giant rats.  It's better not to know these
+things.  
+~
+~
+0 0 0
+D0
+~
+~
+1 0 971
+D5
+~
+~
+1 980 973
+S
+#973
+~
+This place is compromised of many hidden doors, and you have just gone
+through another one of them.  An immense heat radiates from the next room. 
+Caution is advised.  
+~
+~
+0 1 0
+D4
+~
+~
+1 0 972
+D5
+~
+~
+0 0 974
+S
+#974
+The Royal Treasury~
+This room is filled with huge piles of steel and jewels...  And a {RGIANT
+RED DRAGON!  {x 
+~
+~
+0 4194305 0
+D4
+~
+~
+0 0 973
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 950 0 1
+D 0 951 2 1
+D 0 951 5 3
+D 0 952 4 3
+D 0 954 1 2
+D 0 954 3 2
+D 0 955 0 3
+D 0 955 3 2
+D 0 956 1 2
+D 0 957 2 3
+D 0 958 4 3
+D 0 961 5 3
+D 0 971 2 2
+D 0 972 0 2
+D 0 972 5 3
+D 0 973 4 3
+M 0 950 1 950 1
+G 0 950 0
+G 0 951 0
+G 0 953 0
+G 0 954 0
+G 0 955 0
+G 0 956 0
+G 0 957 0
+G 0 958 0
+G 0 961 0
+O 0 959 0 950
+O 0 960 0 950
+M 0 951 1 950 1
+O 0 970 0 950
+G 0 978 0
+O 0 962 0 951
+P 0 963 1 962 1
+M 0 952 1 952 1
+O 0 964 0 952
+P 0 952 20 964 1
+O 0 966 0 953
+O 0 959 0 953
+O 0 960 0 953
+O 0 967 0 955
+O 0 971 0 956
+O 0 968 0 957
+O 0 969 0 957
+O 0 973 0 957
+O 0 971 0 959
+O 0 971 0 960
+O 0 972 0 961
+O 0 978 0 963
+M 0 953 10 965 10
+M 0 954 10 969 10
+O 0 974 0 971
+O 0 975 0 971
+P 0 977 1 974 1
+O 0 976 0 972
+M 0 954 2 972 1
+M 0 955 1 972 1
+G 0 980 0
+S
+
+
+
+#SHOPS
+950 0 0 0 0 17 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#950
+if ISPC $n
+MOB say THIEF! You shall die!
+MOB emote raises into the air, flapping his wings angrily.
+mob k $n
+else
+mob growl
+endif
+~
+#951
+if ISPC $n
+say Hi Olov!
+goto 963
+get key
+give key $n
+endif
+~
+#0
+
+#$

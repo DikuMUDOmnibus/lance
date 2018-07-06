@@ -1,0 +1,267 @@
+#PLAYER
+Name Reorx~
+Id   995390502
+LogO 1000777485
+Vers 5
+FName Jon~
+FEmail jn905@sympatico.ca~
+FIcq 11521172~
+FAim suoirauq~
+LastLogon 1000777202
+Desc He has hair.
+~
+Whotext {wThe Forge{x~
+Grant (null)~
+Prom [%z: %R, %r] [%o] ~
+Race human~
+Recall 3001
+QuestPnts 4000
+Petition 0
+God  9
+Sex  1
+Cla  1
+Levl 110
+Sec  10
+Plyd 2426348
+Not  1000776632 1000777165 0 999573535 1000038127
+LStory 1000728598
+Scro 0
+Room 10714
+HMV  13028 13028 13006 13006 13018 13018
+Steel 2145
+Gold 45
+BSteel 86278634
+BGold 311
+SafeBox 1
+Exp  148500
+Act  CDEFGHNQT
+AfBy H
+Af2By D
+Comm NO
+Wizn ACDEFIJLNOPQRSTU
+Invi 110
+Pos  8
+Prac 114
+Trai 109
+Alig  -1000
+ACs 100 100 100 100
+Attr 14 14 14 17 14
+AMod 0 0 0 0 0
+Pass QuxlGFUJdLB0U~
+Bin  {wA giant rock suddenly appears and {Rexplodes{w.{/From the dust emerges {FReorx{w, the {Bmyth{w, the {xlegend{w, the {Ygod{w!{x~
+Bout Stepping into his pose, Reorx glides away on billows of steam.~
+TransIn A poof of steam brings %s into view.~
+TransOut Steam billows into the room and %s disappears.~
+Titl .~
+Pnts 47
+TSex 1
+LLev 179
+HMVP 13028 13006 13018
+Cnd  0 0 50 50
+Sk 100 'reserved'
+Sk 100 'acid blast'
+Sk 100 'armor'
+Sk 100 'advanced mind'
+Sk 100 'aquastrike'
+Sk 100 'bless'
+Sk 100 'blindness'
+Sk 100 'burning hands'
+Sk 100 'call lightning'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 100 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'chain lightning'
+Sk 100 'change sex'
+Sk 100 'charm person'
+Sk 100 'chill touch'
+Sk 100 'colour spray'
+Sk 100 'continual light'
+Sk 100 'control weather'
+Sk 100 'create food'
+Sk 100 'create rose'
+Sk 100 'create spring'
+Sk 100 'create water'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 100 'cure serious'
+Sk 100 'curse'
+Sk 100 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect hidden'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'dispel magic'
+Sk 100 'earthquake'
+Sk 100 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 100 'energy drain'
+Sk 100 'enhanced mind'
+Sk 100 'faerie fire'
+Sk 100 'faerie fog'
+Sk 100 'farsight'
+Sk 100 'feast'
+Sk 100 'fireball'
+Sk 100 'fireproof'
+Sk 100 'flameshield'
+Sk 100 'flamestrike'
+Sk 100 'flamepillar'
+Sk 100 'fly'
+Sk 100 'floating disc'
+Sk 100 'frenzy'
+Sk 100 'gate'
+Sk 100 'giant strength'
+Sk 100 'golem'
+Sk 100 'harm'
+Sk 100 'haste'
+Sk 100 'heal'
+Sk 100 'heat metal'
+Sk 100 'holy word'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'iron shards'
+Sk 100 'know alignment'
+Sk 100 'lightning bolt'
+Sk 100 'locate object'
+Sk 100 'magic missile'
+Sk 100 'mass healing'
+Sk 100 'mass invis'
+Sk 100 'nexus'
+Sk 100 'pass door'
+Sk 100 'plague'
+Sk 100 'poison'
+Sk 100 'portal'
+Sk 100 'protection evil'
+Sk 100 'protection good'
+Sk 100 'ray of truth'
+Sk 100 'recharge'
+Sk 100 'refresh'
+Sk 100 'remove curse'
+Sk 100 'sanctuary'
+Sk 100 'shield'
+Sk 100 'shocking grasp'
+Sk 100 'silver shards'
+Sk 100 'sleep'
+Sk 100 'slow'
+Sk 100 'stone skin'
+Sk 100 'summon'
+Sk 100 'teleport'
+Sk 100 'true sight'
+Sk 100 'ventriloquate'
+Sk 100 'weaken'
+Sk 100 'word of recall'
+Sk 100 'acid breath'
+Sk 100 'fire breath'
+Sk 100 'frost breath'
+Sk 100 'gas breath'
+Sk 100 'lightning breath'
+Sk 100 'general purpose'
+Sk 100 'high explosive'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 100 'lance'
+Sk 100 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 100 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'lore'
+Sk 100 'meditation'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 100 'recall'
+Sk 100 'human'
+Sk 100 'aghar'
+Sk 100 'hylar'
+Sk 100 'neidar'
+Sk 100 'minotaur'
+Sk 100 'kagonesti'
+Sk 100 'dimernesti'
+Sk 100 'gnome'
+Sk 100 'kender'
+Sk 100 'dracon'
+Sk 100 'silvanesti'
+Sk 100 'qualinesti'
+Gr 'rom basics'
+Gr 'thief basics'
+Affc 'reserved'   6 105   6   0   0          8
+End
+
+#O
+Vnum 1200
+Enchanted
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Safe 1
+Affc 'reserved'   1   0  -1  13   3          0
+Affc 'reserved'   1   0  -1  13   4          0
+Affc 'reserved'   1   0  -1  13   5          0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Safe 0
+End
+
+#O
+Vnum 49
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Safe 0
+End
+
+#O
+Vnum 13054
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+Safe 0
+End
+
+#END

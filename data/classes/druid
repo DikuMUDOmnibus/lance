@@ -1,0 +1,51 @@
+1 4 axe
+1 4 dagger
+1 4 polearm
+1 4 sword
+1 1 recall
+1 2 human
+1 2 aghar
+1 2 hylar
+1 2 neidar
+1 2 minotaur
+1 2 kagonesti
+1 2 dimernesti
+1 2 gnome
+1 2 kender
+1 2 dracon
+1 2 silvanesti
+1 2 qualinesti
+1 5 right hand
+1 5 left hand
+2 4 hide
+4 4 sneak
+5 2 create food
+5 2 create water
+5 2 ventriloquate
+5 5 backstab
+10 2 refresh
+10 3 dirt kicking
+12 4 dodge
+12 4 parry
+15 4 bash
+17 5 enhanced mind
+19 3 kick
+20 2 invisibility
+20 4 trip
+20 5 second attack
+20 4 fast healing
+25 2 detect hidden
+25 2 detect invis
+27 2 detect evil
+27 2 detect good
+29 5 find familiar
+29 3 counter
+30 2 charm person
+30 3 giant strength
+30 3 haste
+35 4 hand to hand
+35 4 third attack
+39 4 critical strike
+43 4 disarm
+45 3 calm
+-1

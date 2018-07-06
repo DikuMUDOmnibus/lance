@@ -1,0 +1,1413 @@
+#AREADATA
+Name !Mud School~
+Builders Majere  Michael Harlequin~
+Range 1 10
+VNUMs 15950 16049
+Credits {WMajere {cZeboim{x~
+Security 9
+End
+
+
+
+#MOBILES
+#16000
+Welcomer Frogy Bowler~
+Frogy~
+A Frog/Man stands here Welcoming you, and he is wearing a Bowler.
+~
+~
+fox~
+A 0 Z 0 0 0
+5 5 5d10+25 5d10+100 3d4+2 none
+10 10 10 10
+FH 0 0 0
+stand stand none 0
+AGV ABCDEFGHIJKQV medium unknown
+#16001
+Someone~
+{x~
+{x
+~
+~
+human~
+AB 0 BQc 0 0 0
+150 150 10d450+6750 150d10+100 13d14+89 none
+-26 -26 -26 -25
+0 0 0 0
+stand stand none 0
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+M GREET 15950 100~
+#16017
+tabit dwarf~
+A Dwarf~
+Tabit the dwarf stands here, selling pets
+~
+A small scruffy dwarf stands before you, selling you his pets.  They are
+cheap and last longer then you do!  Is one of his favortire lines.  
+~
+neidar~
+AB CD J 0 0 0
+200 200 10d600+11600 200d10+100 14d18+119 none
+-36 -36 -36 -35
+0 ABCDL LQ IR
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+M GREET 16017 50~
+#16018
+wolf~
+{BA Howling Wolf{x~
+This howling wolf prowls about, sniffing for the scent of any game ripe for its feasting.
+~
+~
+wolf~
+AIU 0 Z 0 0 0
+10 10 10d20+100 10d10+100 3d6+5 bite
+2 2 2 2
+FH AB 0 0
+stand stand male 0
+AGV ABCDEFGHIJKQV medium unknown
+#0
+
+
+
+#OBJECTS
+#16000
+Sub Merc Training Helm~
+{CTraining Helm{x~
+A helm is battered and beating, must have been worn by selveral Traniees.~
+unknown~
+armor 0 AE
+0
+BD ABCD BD BD 0
+1 1 100 P
+A
+5 1
+#16001
+light sub merc steam roller~
+a small {CS{ct{Ce{ca{Cm{D R{Wo{Dl{Wl{De{Wr{x~
+A small steam roller lies here unused.~
+Energy~
+light AI A
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 100 P
+A
+13 10
+A
+18 2
+A
+2 2
+#16002
+chest iron large~
+Large Iron Chest~
+A rather large iron chest is here.~
+unknown~
+container I A
+0
+9999 0 0 9999 0
+0 0 0 P
+#16003
+cup milk~
+a cup of milk~
+A small cup of milk is here.~
+unknown~
+drink 0 AO
+0
+50 50 'milk' 0 0
+1 1 50 P
+#16004
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#16006
+ring red merc sub~
+{cIron{x Ring with a {RRed {rRuby{x~
+An Iron ring wit a red ruby lies here.~
+iron~
+armor 0 AB
+0
+B B B B 0
+0 1 100 P
+E
+smite~
+Well you have found Ole Chemosh's Secret.
+The Smite, Well congrats... that is all
+ 
+{DChemosh{x
+~
+#16018
+sub merc mace wood small~
+A Wooden Mace~
+A wooden mace lies here.~
+unknown~
+weapon IU AN
+0
+mace 2 6 pound 0
+0 15 360 P
+A
+1 1
+A
+5 1
+A
+19 2
+A
+18 2
+#16019
+dagger 16019 merc sub~
+a {CSteel{x Dagger with a {yBraided leather handle{x~
+A steel dagger with a braided leather handle lies here.~
+Steel~
+weapon IU AN
+ACDFH
+dagger 2 6 stab 0
+0 5 120 P
+A
+1 1
+A
+5 1
+A
+18 2
+A
+19 2
+#16020
+short sword merc~
+{g({CSteel{g)  a Short sword{x~
+A short sword lies here rusting away.~
+unknown~
+weapon IU AN
+0
+sword 2 6 slash 0
+0 15 360 P
+A
+1 1
+A
+5 1
+A
+19 2
+A
+18 2
+#16021
+sub merc white tunic~
+a {WWhite{x Tunic~
+A white tunic lies here.~
+unknown~
+armor IU AD
+0
+AC AC AC B 0
+0 1 400 P
+A
+13 10
+A
+5 2
+A
+2 2
+#16022
+sub merc shield wooden~
+{yWooden Shield{x~
+A wooden shield is here, used mainly for training by the looks of it.~
+wood~
+trash A AJ
+ABCDEFGH
+0 0 0 0 0
+0 0 0 P
+#16032
+sub merc light torch flame everlasting~
+{WTorch of Everlasting Flame{x~
+A torch is here it looks as though this flame will never disolve.~
+magic~
+light 0 A
+ABCDEFGH
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#16033
+sub merc blunted spear~
+A {BShort{x Spear~
+A short spear is stuck in the ground here.~
+wood~
+weapon I AN
+0
+exotic 2 6 thrust 0
+0 20 444 P
+A
+1 1
+A
+5 1
+A
+19 2
+A
+18 2
+#16034
+merc sub crystal staff~
+a wooden staff with a {Gg{gr{Ge{ge{Gn {Gcr{gys{Gta{gl{x~
+A green crystal staff made of fine wood lies here.~
+wood~
+weapon IU AN
+0
+exotic 2 6 pound 0
+0 9 340 P
+A
+1 1
+A
+5 1
+A
+19 2
+A
+18 2
+#16035
+sub merc fine polished axe~
+A fine {cPolished{x Axe~
+A fine polished axe is stuck in a piece of wood here.~
+silver~
+weapon IU AN
+0
+axe 2 6 chop 0
+0 8 460 P
+A
+1 1
+A
+5 1
+A
+18 2
+A
+19 2
+#16036
+sub merc pureness flail~
+a flail of {Wpureness{x~
+A flail of pure newness shines with a inner light lying on the gound.~
+steel~
+weapon IU AN
+0
+flail 2 6 crush 0
+0 6 340 P
+A
+2 1
+A
+4 1
+A
+1 1
+A
+5 1
+A
+19 2
+A
+18 2
+#16037
+merc sub old whip~
+a {wOld {yleather{x whip~
+A old leather whip lies here coiled.~
+leather~
+weapon IU AN
+0
+whip 3 4 sting 0
+0 4 354 P
+A
+5 1
+A
+1 1
+A
+19 2
+A
+18 2
+#16038
+sub merc polearm glaive~
+a {Cnew{x Glaive~
+A brand new glaive lies here unused.~
+unknown~
+weapon IU AN
+0
+exotic 2 7 slash F
+0 20 450 P
+A
+1 1
+A
+5 1
+A
+18 2
+A
+19 2
+#16039
+merc sub barbed lance ~
+a {GBarbed {CSteel{x Lance.~
+A barbed steel lance lies here rusting away.~
+steel~
+weapon IU AN
+0
+exotic 4 4 stab 0
+0 25 600 P
+A
+3 1
+A
+5 1
+A
+19 2
+A
+18 2
+#0
+
+
+
+#ROOMS
+#16000
+{CMudschool Entrance {X~
+Welcome to Legends.  We're glad you're here.  Inside this school, you'll
+learn the basics of mudding.  Pay attention carefully to everything inside
+this school.  What you learn here you'll take with you for the rest of your
+time here.  Start out first by going north and reading the descriptions of
+each room carefully.  Now have fun and don't feed the animals.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16001
+S
+#16001
+{CLong Hallway{X~
+Okay, now you're wondering how I knew to tell you to go north when you
+couldn't see any exits.  What you need to do is type auto.  A screen
+should come up showing you a list of autocommands like autoloot, autosplit
+and such.  The most important of those commands is autoexit.  Type
+'autoexit" and all visable exits should appear within the room.  
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16002
+D2
+~
+~
+0 0 16000
+S
+#16002
+{CChannels{X~
+Now the next thing you need to learn is the channel commands.  By typing
+help channel, you are given a list of channels and how to use them.  As
+you can see, there are many types of channels ranging from global ooc
+and ic channels to local yells and says.  OOC stands for 'out of
+character'.  It is on this channel that everyone uses to talk with other
+people on the mud for various things without having to act like your
+character.  IC stands for 'in character'.  This channel is used by people
+who wish to have everyone on the mud see them role-play.  When using this
+channel always speak as if you were your character and never use the channel
+if someone else is without their permission.
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16003
+D3
+~
+~
+0 0 16001
+S
+#16003
+{CClans{X~
+An eager adventurer?  Looking for a home?  How about the definition of
+your character?  Look no further then the clans offered here on Lance!  We
+have many clans to choose from, ranging from the good to the evil and then
+also the neutral aligned ones.  In order to join a clan you must be level
+{R15{X and meet the requirements of the clan you wish to join.
+ 
+Type {gHelp Clan{X for the list, or continue {cDown{X for some detailed info.
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16012
+D3
+~
+~
+0 0 16002
+D5
+~
+~
+0 0 16004
+S
+#16004
+{YLoner{X and {mRenegade{X~
+Sometimes, there are those who just don't fit anywhere.  They strive for
+that open road, hoping to forge their own destiny.  While they may welcome
+the company of others, they do not prefer it.  These are {Y{YLoner{X{Xs.  This
+is not a clan like other clans, but it is an option to all who don't wish to
+join any set clan.  All classes but mages and bmages who don't join any clan
+are considered Loners.  All mages and bmages though, are considered
+{mRenegade{Xs and will be in constant danger of being hunted by
+{rConclave.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16006
+D1
+~
+~
+0 0 16007
+D2
+~
+~
+0 0 16008
+D3
+~
+~
+0 0 16005
+D4
+~
+~
+0 0 16003
+D5
+~
+~
+0 0 16009
+S
+#16005
+{GWildrunner{X~
+After the Kinslayer wars ended, there arose a need to protect
+Silvanesti from all who would harm it.  Out of this need came the
+Wildrunners.  These elves are the elite of the Elven force.  They also
+serve as bodyguards to the king and are also the first into battle.  They
+are protectors of the land and will fight anyone who comes agains them.  
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16004
+S
+#16006
+{CKnights of Solamnia{X~
+The perverbial "Knights in Shining Armor", these men hold honor above all
+else and strive for order.  Each of the three orders focuses on a different
+aspect of honor, Knights of the Crown are Loyal and True, Knights of the
+Sword are strong in their Faith and Skill, and Knights of the Rose
+focus on Justice and Wisdom.  Only Humans and Half-Elves may join their
+ranks at the moment, and mages need not apply.
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16004
+S
+#16007
+{GHoly Order{X~
+With the return of clerical magic to Krynn, it was decided that there
+should be a place where all clerics, may meet to safely discuss anything. 
+Therefore, the Holy Order of the Stars was created so that all priests
+may have a place to safely study and be able to continue furthering their
+god's goals.  Within the walls of the Holy Order temple, all clerics are
+safe from harm from one another.  Outside of the walls of their temple
+though, they follow their god's desire.
+~
+~
+0 0 0
+D3
+~
+~
+0 0 16004
+S
+#16008
+{rConclave{X~
+With the entrance of mortal magic into the world, the gods realized the
+need to keep that magic in check.  In time, the three moons created The
+Conclave.  The conclave offers a mage the chance to truly reach one's
+potential, and also it allows the moons to keep magic in check.  The
+Conclave is divided into three orders.  The White Robes are mages
+dedicated to using their magic for the good of others and krynn.  The
+Black Robes are mages whose intrest in magic is solely for their own
+personal power and gain.  The Red Robes are mages who strive to keep the
+balace between good and evil and will ally with either White or Black
+depending on the situation. 
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16004
+S
+#16009
+{DKnights of Takhisis{X~
+Upon the ashes of The Dragonarmies of Takhisis were the Knights of
+Takhisis built.  They are evil's answer to the Solamnic Knights.  Like
+their good counterparts, the KoT is built upon three traits: order,
+discipline, and vision.  The KoT are divided into four orders.  The
+first is The Order of the Lily.  These are the military might of the
+knighthood and consists of warriors who worship The Dark Queen.  The
+second is The Order of the Thorn.  Also known as The Grey Order,
+these wizards refuse to swear allegiance to the Conclave and are
+considered renegades.  The third is The Order of the Skull.  This order
+consists of clerics who worship The Dark Queen and her allies.  
+The fourth order are the Storm Knights, a group of high-ranking elite
+knights that are assigned special tasks.
+Above all, the Knights must follow the code of honor set forth by the Lord
+of the Night. He leads the whole clan and is the highest ranking mortal.
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16011
+D3
+~
+~
+0 0 16010
+D4
+~
+~
+0 0 16004
+S
+#16010
+{bMercinary{X~
+There are those who live by their wits selling their expertise to
+survive.  They serve no real master but cold hard steel.  These are
+Mercanaries and they would do anything for a gold piece, even sell their
+own mother.  While they are not necessarily cold-blooded killers, they
+certainly are not nice guys. 
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16009
+S
+#16011
+{yThe Horde{X~
+The horde is a motley group of outcasts, individuals who have either left
+civilized places or been kicked out.  Although they are very diverse in race
+and profession, they all share one common trait - Low morals.  Within the
+Horde the acts of murdering, raping, maiming, torturing, plundering, etc. 
+Are not only tolerated...  They are the social norm.  The only races not
+admitted to the horde would be kender and gnomes, as their demeanor is not
+cruel enough to act in such a sadistic manner.  
+The clan is ruled by a Warlord, who chooses his right and left hand men at the time
+of his ascension.
+~
+~
+0 0 0
+D3
+~
+~
+0 0 16009
+S
+#16012
+{CMudschool Crossroads{X~
+Now from here you can see many different exits.  To the north is a
+trainer.  In that room you'll learn the purpose of the trainer and you can
+use the trains you have there.  To the south is a practicer.  In there you
+are able to practice any skills or spells you know.  In each of the rooms,
+you'll find descriptions on how to take advantage of the services that are
+offered.  If you are begining to feel either hungry or thirsty head east.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16013
+D1
+~
+~
+0 0 16015
+D2
+~
+~
+0 0 16014
+D3
+~
+~
+0 0 16003
+S
+#16013
+{CTrainer{X~
+The first thing you need to do in this room is type 'train'.  This
+will pop up a list of what you are able to train.  As you can see, you are
+able to practice all of your stats and also your hit points and magic
+points.  After you have decided what you want to practice type 'train
+xx'.  Each time you practice a stat, it raises up one.  If you practice hp
+or mp, it'll raise them by 10.  To see how many trains you have type
+'sc' and look for the word trains. 
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16012
+S
+#16014
+{CPracticer{X~
+Now the first thing you need to do here is type '{yprac{X'.  A list
+should come up of all the skills and spells your character currently knows. 
+Also at the bottom of the list the amount of practices you have left is
+shown.  Once you decide what skill or spell you want to practice type
+'prac xxxx' Each time you practice a skill, it'll go up a %.  You
+can practice any skill or spell up to 75%.  After that you must practice
+the spells and skills yourself to raise them further.  
+{YHINT:{X Make sure you have your intelligence as high as possible when practicing anything.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16012
+S
+#16015
+{CHallway of Mudschool{X~
+After all of this learning you must be getting thirsty and hungry.  Go
+{cNorth{x to the General Store to purchase some food and other
+supplies you may need for the rest of the time you spend in Mudschool.  
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16016
+D1
+~
+~
+0 0 16017
+D2
+~
+~
+0 0 16019
+D3
+~
+~
+0 0 16012
+S
+#16016
+{YGeneral Store{X~
+To find out what the shopkeeper has to sell, type 'list'.  This will
+bring up a list of items for sale and their price in gold pieces.  Once
+you've decided on what you want to buy type 'buy xxxx'.  This will
+purchase one item.  If you want to buy more than one of the item, type
+'buy 2*xxxx'.  Just make sure you have the gold for the items.
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16015
+S
+#16017
+{CPet Shop{x~
+Entering this small room in this mudschool the scent of manure fills your
+nostrils.  You see a small little dwarf, who appears to be selling some
+pets.  One could assume this delightful scent you smell must have been
+emitted from one of those pets.
+~
+~
+0 4096 0
+D3
+~
+~
+0 0 16015
+S
+#16018
+{RPET SHOP LOADING ROOM{X~
+~
+~
+0 4 0
+S
+#16019
+{CEquipment Training{X~
+Now one of the most important things you'll need to learn is the use of
+equipment in Legends.  This enables you to use better weapons and armor
+so that you can last longer in a fight and hit harder as you raise in
+levels.  The first action you need to learn is how to equip and unequip your
+items.  To wear an item, type 'wear xxxx'.  This will automatically put
+the item in the correct slot on your body.  To remove an item, type 'rem
+xxxx'.  This will remove that item and place it in your inventory.  If you
+happen to have a container you can place items in it, type 'put <item>
+<container>'.  To take the item out of the container type 'take <item>
+<container>'.  With the new 'Dual-Wield' system, weapons are worn by
+doing the following.  'left <item>' or 'right <item>'.  This goes
+for 'held' objects. 
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16015
+D1
+~
+~
+0 0 16020
+D3
+~
+~
+0 0 16027
+S
+#16020
+{CBattle Trining{X~
+One of the main aspects of mudding is leveling up.  To gain a level, you
+need to gain experience.  About the only way to gain experience is to kill
+the mobs that roam the mud.  When you first find a mob to fight, type 'con
+<mob>'.  This will tell you the level difficulty you will have fighting
+the mob.  In time, you will be able to determine the diffitculty you will
+have killing a mob before you battle it.  Once you decide to attack a mob,
+type 'k <mob>'.  This will cause you to attack the mob.  Now at your low
+level, you'll not do much damage, and you may actually often miss.  But
+don't worry, as you rise in levels, you will get better.  Eventually the mob
+will weaken and eventually die.  At the mob's death, you will gain
+experiece.  Also before you leave, remember to type 'take all corpse'
+and 'sac corpse'.  
+~
+~
+0 0 0
+D3
+~
+~
+0 0 16019
+D5
+~
+~
+0 0 16021
+S
+#16021
+{CATTACK! AHHH! RUN!{X~
+Ahhh...  Something to kill.  If you had read the instructions in the room
+above, you will know what to do here.  But you may find out that some mobs
+are a little more than you can handle.  When you're nearly dead, you will
+realize you have to flee from battle.  To do this type '{gflee{X' and you
+will attempt to flee from battle through a random available exit. 
+Unfortunately, you are not always able to successfully flee the first time
+you type the command.  Therefore you may have to type the command over and
+over until you are able to flee.  You will also notice that once you flee,
+you will lose a little experience.  Trust me though, the loss of experience
+is worth staying alive.  
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16023
+D1
+~
+~
+0 0 16024
+D2
+~
+~
+0 0 16025
+D3
+~
+~
+0 0 16022
+D4
+~
+~
+0 0 16020
+D5
+~
+~
+0 0 16026
+S
+#16022
+{CTraining Room{X~
+This large matted floor room has blood stains on the mat and surprisingly
+on some of the walls.  A man in the center of the mat calls you forward so
+that you may practice your new found battle skills on him The room grows
+quiet as the fight begins.
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16021
+S
+#16023
+{CTraining Room{X~
+This large matted floor room has blood stains on the mat and surprisingly
+on some of the walls.  A man in the center of the mat calls you forward so
+that you may practice your new found battle skills on him The room grows
+quiet as the fight begins.
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16021
+S
+#16024
+{CTraining Room{X~
+This large matted floor room has blood stains on the mat and surprisingly
+on some of the walls.  A man in the center of the mat calls you forward so
+that you may practice your new found battle skills on him The room grows
+quiet as the fight begins.
+~
+~
+0 0 0
+D3
+~
+~
+0 0 16021
+S
+#16025
+{CTraining Room{X~
+This large matted floor room has blood stains on the mat and surprisingly
+on some of the walls.  A man in the center of the mat calls you forward so
+that you may practice your new found battle skills on him The room grows
+quiet as the fight begins.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16021
+S
+#16026
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16028
+D2
+~
+~
+0 0 16042
+D4
+~
+~
+0 0 16021
+S
+#16027
+{CBuilding on Legends of the Lance{X~
+{D All the rooms around you were created by people called builders.  Once
+you have mudded for a month or two and get a feel for it you can be a
+builder too if you want.  If you're a good writer, and would like to help
+expand the mud world around you, please feel free to E-mail us.  {X 
+{C
+Send E-mail to Lance_Implamentors@dragonlance.zzn.com{X
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16019
+S
+#16028
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16029
+D2
+~
+~
+0 0 16045
+D3
+~
+~
+0 0 16026
+S
+#16029
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16030
+D3
+~
+~
+0 0 16028
+S
+#16030
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16029
+D1
+~
+~
+0 0 16031
+D2
+~
+~
+0 0 16046
+D3
+~
+~
+0 0 16045
+S
+#16031
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16032
+D3
+~
+~
+0 0 16030
+S
+#16032
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16031
+D2
+~
+~
+0 0 16033
+D3
+~
+~
+0 0 16046
+S
+#16033
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16032
+D3
+~
+~
+0 0 16034
+S
+#16034
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16046
+D1
+~
+~
+0 0 16033
+D2
+~
+~
+0 0 16035
+D3
+~
+~
+0 0 16047
+S
+#16035
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16034
+D3
+~
+~
+0 0 16036
+S
+#16036
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16047
+D1
+~
+~
+0 0 16035
+D3
+~
+~
+0 0 16037
+S
+#16037
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16038
+D1
+~
+~
+0 0 16036
+S
+#16038
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16043
+D1
+~
+~
+0 0 16047
+D2
+~
+~
+0 0 16037
+D3
+~
+~
+0 0 16039
+S
+#16039
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16040
+D1
+~
+~
+0 0 16038
+S
+#16040
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16041
+D1
+~
+~
+0 0 16043
+D2
+~
+~
+0 0 16039
+S
+#16041
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16042
+D2
+~
+~
+0 0 16040
+S
+#16042
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16026
+D1
+~
+~
+0 0 16045
+D2
+~
+~
+0 0 16043
+D3
+~
+~
+0 0 16041
+S
+#16043
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16042
+D1
+~
+~
+0 0 16044
+D2
+~
+~
+0 0 16038
+D3
+~
+~
+0 0 16040
+S
+#16044
+Center of Arena~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16045
+D1
+~
+~
+0 0 16046
+D2
+~
+~
+0 0 16047
+D3
+~
+~
+0 0 16043
+S
+#16045
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16028
+D1
+~
+~
+0 0 16030
+D2
+~
+~
+0 0 16044
+D3
+~
+~
+0 0 16042
+S
+#16046
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16030
+D1
+~
+~
+0 0 16032
+D2
+~
+~
+0 0 16034
+D3
+~
+~
+0 0 16044
+S
+#16047
+~
+This gladiator like style arena has been made from a large oval shaped
+wall hat rises nearly 20 feet in the air.  A crowd sits up in the stands
+watching with anticipation of what will happen next.  All around other
+gladiators battle for life against some beast.  And than there was only you.
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16044
+D1
+~
+~
+0 0 16034
+D2
+~
+~
+0 0 16036
+D3
+~
+~
+0 0 16038
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 16001 1 16001 1
+M 0 16017 1 16017 1
+M 0 16018 1 16018 1
+S
+
+
+
+#SHOPS
+16017 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#15950
+mob echo {GWelcome to Legends of the Lance{x
+mob echo {xWe are very glad you came here, just a couple of quick things to tell you about
+mob echo {xif you have never played a mud. Here are a couple of commands you might want to know.
+mob echo autoassist   - Assisst Your Group Members when attacking
+mob echo autodamage   - Shows the Numerical Ammount of Damage you deal
+mob echo autoexit     - Shows the possible exits in the room
+mob echo autogold     - Takes all the coins off of a corpse you kill
+mob echo autoloot     - Takes all the items off of a corpse you kill
+mob echo autosac      - Automaticaly sacs the corpse after you kill the mob.
+mob echo autosplit    - Automaticaly split the money you get.
+~
+#16017
+Say Greetings, My pets last longer then most their owners.  Type list to see them.  Type buy petname to buy one. 
+~
+#0
+
+#$

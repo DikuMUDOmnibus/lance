@@ -1,0 +1,19 @@
+#HELPS
+0 SAFE~
+Usage: SAFE <get|put|look> [object]
+
+This command allows you to store objects that you may find cumbersome
+or that are special or rare. This command is available at any bank.
+~
+
+0 BANK~
+Usage: BANK <deposit|withdraw> <amount> <gold|steel>
+       BANK balance
+       BANK transfer <target> <amount> <gold|steel>
+
+The bank allows you to drop off some of the cash that you're carrying
+to reduce the load on your character.
+~
+
+0 $~
+#$

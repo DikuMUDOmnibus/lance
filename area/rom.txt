@@ -1,0 +1,721 @@
+#HELPS
+0 LAG~
+~
+
+0 WIZLIST~
+{WImmortal {DStaff{x Of {YLegends{x of the {CLance{x
+
+  {WGood{x           {RNeutral{x     {DEvil{x
+{C*************************************{x
+               {GBeing Played
+  {WPaladine{x       {R{x            {DTakhisis{x
+  {WBranchala{x      {RChislev     {DNuitari{x
+  {WHabbakuk{x       {RReorx{x       {DChemosh{X
+  {WSolinari{x       {RZivilyn{x     {DSargonnas{x
+  {WMishakal{x       {RSirrion{x     {DZeboim{x
+  {WMajere{x         {RShinare{x     {DHiddukel{x
+  {WKiri_Jolith{x    {RLunitari{x    {DMorgion{x
+                     
+{C*************************************{x
+             {RNot Being Played{x 
+                
+                    Gilean         
+{C**************************************{x
+               Legends
+
+
+
+  Tanis    Flint    {WTasselhoff{x  {DRaistlin{x
+  {RCaramon{x            Goldmoon    Riverwind
+  Laurana  Kitiara  Gilthanas   {DAriakan{x
+  {DSteel{x    Sturm    Palin       Tanin
+  {DSoth{x     Crysania Elistan     Silvara
+{C**************************************{x
+
+
+{B           .-')         _                     {x
+{B         ('_^ (   .----'/                     {x
+{B          ' (  \_/'  __/       __.            {x
+{B          __{{   |'  _/        /_/            {x
+{B         / _{{    \_/ ;---.   //              {x 
+{B         \_> \_\  >__/    \ ((                {x
+{B              _/ /' _\_    |))                {x 
+{B             /__(  /______/   {x ({YGryphon{x){x
+{Y  ___________________________________________     {x
+{Y/^\                                          \    {x
+{Y| |         {yLegends of the Lance{Y              ){x          
+{Y\_/__________________________________________/    {x
+===Written By: {GZivilyn{x {yThe Tree Hugger{x
+
+~
+
+0 IMMORTAL IMMORT GOD WIZARD WIZ~
+'Immortal' (often, simply, 'imm') refers to players who have reached
+the highest attainable levels in the game.  Here, anyone of level 102
+or higher is an 'immortal.'  Immortals are capable of exceeding the
+usual game rules, in more drastic and pervasive ways as levels increase examples range from teleportation and invisibility to mortal sight to
+creation of objects, removal of a player's privileges (channels,
+ability to move, or even ability to log in), and ability to promote
+players to immortality.
+
+Since immortals can wreak havoc with game balance, they are (ideally)
+a carefully-chosen and policed group.  An absolute rule of immortal
+behavior is that no immortal can aid or assist any player without
+explicit permission from the higher ranks; in other words, please
+don't ask an immortal to help you kill a mob, gather EQ, etc, or
+you'll likely be either politely or rudely refused, or referred to
+this file.
+
+The duties of immortals, is simply to make the game fun and enjoyable, No 
+they are not always very nice sweet people they do work hard to build a 
+mud that players can try and find a escape from real life. The very idea 
+of immortals is a topic of heavy and heated debates, and are fraught with 
+misconceptions, poor examples, and outrageous hypocrisies. :)
+~
+
+0 Tanis~
+Tanthalas "Tanis" Half-Elven
+ 
+This is me! I was born in 258A.C. I am the son of Elansa Kanan, who was sister to the Speaker of the Sun, Solostaran. It has never been easy for me to admit this but she was raped by a human during a raid. I met him once in a village called Ankatavaka, 
+but thats another story... listen to me, I sound like Tasslehoff, ALWAYS rattling off at the mouth.
+ 
+Solostarian raised me as his own, but everyone knew that I was different. While I was growing up I met Flint Fireforge, and I decided that it was time to carve my own path though life. 
+I had no idea that I would be caught up in a war, much less the War of the Lance.
+ 
+My efforts in the War earned me an Honorary title in the Knights of Solamnia, and shortly after the War, Laurana and I were married.
+ 
+I was slain defending the High Clerist Tower from the Knights of Takhisis in 383A.C. 
+~
+
+0 Caramon~
+~
+
+0 Flint~
+Flint Fireforge
+ 
+ Flint was one of my closest friends. He and I have had a lot of good memories. He was born in Hillhome, in 212A.C. I met him in Qualinesti, his magnificent wood carvings had earned him the honor of being allowed to stay inside the city. 
+
+When we left Qualinesti, he went to Solace and met the Majere Twins. His time there was spent looking after the two as a father figure.
+
+Flint died on the way to Neraka, during the War of the Lance. He now sits under a tree waiting for his "little buddy".
+~
+
+0 Laurana~
+~
+
+0 Kitiara~
+~
+
+0 Riverwind~
+~
+
+0 Silvara~
+~
+
+0 Elistan~
+~
+
+0 Gilthanas~
+~
+
+0 Tasselhoff~
+~
+
+0 KOT~
+The Knights of Takhisis is a clan born out of the ruin of the Dragonarmies. Avoiding the pitfalls that plagued the Dragonarmies and brought about their own self-destruction,
+the Knights of Takhisis were formed to be the elite fighting force to further the cause of the Dark Queen Takhisis herself. 
+Through careful study of the enemy forces of the Solamnic Knights, it was found that they in fact posses some admiral though the Solamnic Knights are overall flawed. The Knights of Takhisis adopted some of these principles and improved where things
+were lacking. qualities,
+Thus was born a group worthy of serving Takhisis. Its members are devoutly loyal to her and each other. In fact, their very lives are expendable for the good of the clan. Those who fail to live up to this devotion faces but one thing: death. 
+
+The Knights of Takhisis are a prime example of pride and honor, much more than the arrogant Solamnic Knights. New members of the Knights of Takhisis are usually those who have been trained to serve since childhood,
+though many of the older members are remnants of the fallen Dragonarmies who have accepted the weakness of the former methods of serving Takhisis.
+ 
+ 
+The Knights of Takhisis are made up of three orders of knights, each focusing on their own goals but coming together to compliment one another. 
+ 
+SEE HELP "KOT RULES" AND "HELP KOT REQUIREMENTS"
+~
+
+0 Kot Regs~
+Rules and Regulations
+ 
+1. Follow all rules and regulations listed. Ignorance is no excuse. Any violations are subject to verbal warnings, passing up of promotions, demotions, or discharge.
+ 
+2. Insubordination will not be tolerated and is grounds for expulsion. Listen to your superiors.
+ 
+3. Aid fellow clan members and potential recruits in any way possible.
+ 
+4. Participate in role-play as often as possible.
+ 
+5. Respect the immortals, if problems arise, do NOT argue with them. Write Lord of Night Ariakan a note explaining the situation and I will help you out.
+ 
+6. Do NOT curse, make fun of, or harass any character in the MUD except within the necessity of role-playing.
+ 
+~
+
+0 KOT REQUIREMENTS~
+Requirements for Joining
+ 
+1. The character must have a description and a somewhat established background and personality, though modifications will be allowed if necessary.
+ 
+2. The character must establish contact with a recruiter or leader who will oversee their progress through the rest of the steps.
+ 
+3. The character will demonstrate their wisdom by guiding the recruiter from Sanction to the High Clerist Tower.
+ 
+4. The character will demonstrate their cunning by tracking a recruiter.
+ 
+5. The chracter will demonstrate their might by killing a suitable mob chosen by the recruiter.
+ 
+6. The character will demonstrate their faith by writing a vision of Takhisis. The character should worship her, if not, the character should seek a god change.
+ 
+7. The character will participate in the Blood Oath Ceremony to be conducted by the Lord of the Skull.
+ 
+8. The character will be given a time period in which they are considered to be a squire and not a full fledged Knight. Once the character proves themself worthy, they will be promoted to clan level 3.
+~
+
+0 SOLAMNIC~
+Solamnic Knights The knights of solamnia (solamnics) are those who uphold
+the good and justice of krynn.  They are honorable knights who go by the
+code and measure.  To them my honor is my life or Est Sularus Oth Mithas. 
+They are all a brotherhood.  They fight for all that is good.  To join you
+must be a cleric,warrior, or paladin and must be good aligned.  There are 3
+subclans: Crown <L> is the High Warrior and immortal is Habbakuk, Sword <L>
+is the High Clerist and the immortal is Kiri, and Rose <L> is the High
+Justice and the immortal is Paladine.  Then there is a leader of the whole
+clan who is the Grand Master.  When you join you will be a squire and in
+crown.  
+~
+
+0 Thieves~
+Known throughout Krynn as one the most prestigious criminal
+organizations, this group of Thieves are not like the typical street
+vagrants, instead they are an organized team, each one loyal to the rest of
+their brotherhood.  Also known as the Brotherhood of Shadows, the men and
+women within this great "family" would be considered honorable, if not for
+their choice of profession.  Each member gives a part of their spoils to the
+group as a whole, to help the less fortunate members of the group as a
+whole.  Any race is allowed, except for warriors, and race/deity matters
+not, only skills.  If you are not of thief class, you MUST Rp as a thief, if
+you do wish to join, and if you seek to leave, the price is very high,
+either your life, or the removal of your tongue and your eyes.  Heed this
+warning, join at your own risk, for once you have joined, you cannot easily
+leave.  
+~
+
+0 Conclave~
+Conclave.
+ 
+These are the mages of krynn who seek improvement in the art (art of magic).  Those who wish to enter the conclave have to take a test; this test is either pass or die.  They are a group that desolates themselves from the rest of krynn.  
+There are 3 subclans or robes. White, Red, and Black.  White's are good aligned mages and the immortal for white is Solinari. Red's are Neutral mages and there immortal is Lunitari
+Black's are evil aligned mages and there immortal is Nuitari.  Each of the robes has a High Archmage, which is the leader of that robe. 
+Also there is one leader for the whole conclave. To join you must be a mage and whichever race as long as you are a mage.
+~
+
+0 Wildrunner~
+The elite members of the army of Silvanost, Wildrunners serve the nation
+skillfully, protecting the throne and the Speaker himself.  All classes are
+excepted, except for any thief, for their corrupt nature does not fit in
+elven society.  The elves of Silvanesti and Kagonesti descent are the only
+ones welcomed into this elite force, and then only the ones loyal to the
+gods of good.  The mages within the Wildrunner's ranks must be servants of
+Solinari, and all others should worship the rest of the good gods.  
+~
+
+0 Mercenary~
+This is a clan made up of mercenaries. They are available for hire. They have respect toward one each other, and are a secretive clan. Alll races can join but you have to be neutral aligned.
+~
+
+0 Loner~
+Loners
+
+Those who are not in a clan, they feel that they do not need to be in a clan. 
+~
+
+0 Renegade~
+Renegades
+ 
+Mages who do not join the conclave, they feel as if they can do better without the conclave. They tend to be hunted down and killed as the Conclave of mages see them as threats to magic.
+~
+
+0 Holy Order~
+Holy Order
+ 
+This is a organization of clerics, templars, and paladin's.  They are a religious clan who are the priest of krynn. There are 3 subclans Dark(Morgion), Balance (Gilean) and Light (Mishakal). To join you have to be a cleric templar or paladin.
+~
+
+-1 Human~
+Human jack of all trades and master of none.
+~
+
+-1 Silvanesti~
+High elves.
+~
+
+-1 Qualinesti~
+bitches.
+~
+
+-1 Kagonesti~
+wilder elves.
+~
+
+-1 Dimernesti~
+sea elves.
+~
+
+-1 Dargonesti~
+sea elves.
+~
+
+-1 Half-elf~
+Half-elves.
+~
+
+-1 Hylar~
+dwarf.
+~
+
+-1 Neidar~
+dwarf.
+~
+
+-1 Aghar~
+shit dumb dwarves.
+~
+
+-1 Gnome~
+tinkers.
+~
+
+-1 Kender~
+bitches.
+ld 1
+Kender are small enough to resemble human children, though they are more heavily muscled. Males are typically 3'7" tall and weigh 75 lbs.
+ females are slightly smaller. Adult kender are rarely more then four feet tall and seldom weigh more then 100 lbs.
+    Kender typically have sandy blond, light or dark brown, copper-red or even red-orange
+hair colors.
+~
+
+-1 Minotaur~
+fuckwads.
+~
+
+-1 Draconian~
+bitches.
+~
+
+-1 Ranger~
+blah.
+~
+
+0 SOCIALS~
+This is a complete list of socials for this MUD:
+Compiled originally by: Sara
+accuse       adjust      air          apologize     applaud     babble
+bark         bcatch      beckon       beer          bearhug     beg
+bird         bkiss       bleed        blink         blush       boast
+boggle       bonk        bounce       bow           brb         burp
+cackle       caress      charge       cheer         chuckle     clap
+claw         collapse    comfort      comb          cough       cover
+cower        cringe      criticize    cry           cuddle      curse
+curtsey      dance       daydream     drool         duck        embrace
+explode      eyebrow     faint        fart          flare       flash
+flex         flinch      flip         flirt         flutter     fondle
+french       frown       fume         gasp          giggle      glare
+goose        grimace     grin         groan         grope       grovel
+growl        grumble     hand         head          hiccup      highfive
+hop          howl        hug          hush          ignore      innocent
+insane       judge       kiss         knee          laugh       lick
+love         lust        massage      meditate      moan        moon
+mosh         mutter      nibble       nod           nudge       nuzzle
+pant         passout     pat          peck          pie         pinch
+pissed       plead       point        poke          ponder      pout
+pray         propose     puke         punch         purr        ramble
+raspberry    rofl        roll         rub           ruffle      run
+scratch      scream      serenade     shake         shiver      shrug
+sigh         sing        slap         slobber       smile       smirk
+snap         snarl       sneeze       snicker       sniff       snore
+snort        snowball    snuggle      sob           spam        spank
+spit         squeal      squeeze      squirm        stare       stretch
+strip        stroke      strut        sulk          swoon       tackle
+tease        thank       threaten     tickle        tip         tongue
+twiddle      type        undress      view          wave        whine
+whistle      wiggle      wince        wink          wonder      worry
+worship      yawn        yeehaw       yodel         rose	    laces
+tank	       starve	 aargh	  homework	    puff	    differ
+yae	       lightbulb   voodoo       ogg	          confused    beam
+bite	       discodance  scuff        whap	    lag	    chortle
+zerbert      twitch	 lol
+~
+
+0 GREETING~
+{x                                  (`-.
+{x     /)         ,   '--.           \    `
+{x    //     , '          \/          \   `   `   
+{x   //    ,'              ./         /\    \>- `   ,----------.
+{x  ( \  ,'    .-.-,_        /      ,' /\    \   . `            `.
+{x   \ \'     />--< .)       ./   ,'  /  \     .      `           `.
+{x    \ `   -(/    \ .)        / /   / ,' \       `     `-----.     \
+{x    <\      )     ).:)       ./   /,' ,' \        `.  /\)    `.    \
+{x     >^,  //     /..:)       /   //--'    \         `(         )    )
+{x      | ,'/     /. .:)      /   (/         \          \       /    /
+{x      ( |(_    (...::)     (                \       .-.\     /   ,'
+{x      (O| /     \:.::)                      /\    ,'   \)   /  ,'
+{x       \|/      /`.:::)                   ,/  \  /         (  /
+{x               /  /`,.:)                ,'/    )/           \ \
+{x             ,' ,'.'  `:>-._._________,<;'    (/            (,'
+{x           ,'  /  |     `^-^--^--^-^-^-'
+{x .--------'   /   |
+{x(       .----'    |
+{x \ <`.  \         |
+{x  \ \ `. \        |      
+{x   \ \  `.`.      |
+{x    \ \   `.`.    |
+{x     \ \    `.`.  |
+{x      \ \     `.`.|
+{x       \ \      `.`.
+{x        \ \     ,^-' 
+{x         \ \    | 
+{x          `.`.  |
+{x            `.`.|
+{x              `._)
+
+ 
+ 
+         Run by: {DTakhisis, {wNuitari, {RReorx, {yand Zivilyn{x
+                         ROM Version 2.4 beta
+               Original DikuMUD by Hans Staerfeldt, Katja Nyboe,
+               Tom Madsen, Michael Seifert, and Sebastian Hammer
+               Based on MERC 2.1 code by Hatchet, Furey, and Kahn
+               ROM 2.4 copyright (c) 1993-1998 Russ Taylor
+               ROM 2.4 copyright (c) 1993-1998 Russ Taylor
+ 
+{WWhat is thy name adventurer?{x
+~
+
+0 MOTD~
+* Please abide by the rules set by the Immortals of this realm. If found
+  violating any rules appropriate action will be taken.
+
+* The Immortal staff should be respected by all mortals they do not take 
+  actions against mortals unless they feel it is a must.
+
+* Please delete any characters not wanted. If a character has not been used
+  for a months time they will be deleted (unless prior notification).
+
+* Thanks and enjoy your stay!!
+
+- Staff of {YLegends of the Lance{x
+  
+[Hit Return to continue]
+~
+
+102 IMOTD~
+Welcome Immortal!
+
+{MPLEASE, {GITS {YWORK {RTIME{x
+{Cnote to {RSirrion{C or {BHabbakuk{C when ready for a new area{x
+{DTakhisis{C is the top of the pile don't bug her for a new area thats  
+  why There are TWO Headbuilders 1 on most of the day and the other most 
+  of the night.{x
+
+ [Hit Return to continue]
+~
+
+-1 Paladine~
+{WPaladine{x {/{/ Paladine is the chief of the gods of good and patron of the
+Knights of Solamnia, specifically those of the Order of the Rose.  He
+influences order, hope, light, rulership and guardianship.  His colors are
+silver and white.  Spheres of influence include law, wards, thought and war.
+Paladine's avatars are the muddled old wizard Fizban the Fabulous and a
+platinum dragon.  
+~
+
+-1 Branchala~
+{WBranchala{x{/{/ Before the world was created, Branchala was a companion
+to Habbakuk.  Branchala followed his friend so that he too could help forge
+worlds.  His music is that of the souls of all who life.  It is said that
+his music resides in us all and that all hearts beat to its unknown melody. 
+~
+
+-1 Habbakuk~
+{WHabbakuk{x{/{/ Habbakuk is the god of animal life and the sea.  His
+skills of the wild and belief in te harmony with nature constitute a
+peacefull teaching.  He is seen as a symbol of eternal life beyond the world
+and a strong enforcer of natural justice.  Habbakuk is the twin brother of
+Kiri-Jolith.  With his brother and father, Paladine, he helped form the
+Knights of Solamnia.  
+~
+
+-1 Solinari~
+{WSolinari{x{/{/ The son of Paladine, Solinari is the master of good
+magic.  He spins through the sky over the world and keeps his watchful eye
+on all magic.  Along with Lunitari and Nuitari, he did not join their fellow
+gods in the heavens, but chose to stay close to the world.  He founded the
+Good Order of Sorcery, the White Robes.  
+~
+
+-1 Mishakal~
+{WMishakal{x{/{/ Mishakal is Paladine's consort and mother of Habbakuk,
+Kiri-Jolith and Solinari.  Mishakal influences healing, knowledge,
+fertility, life, beauty and blessing.  Her color is any shade of blue; in
+her avatar form, she enhances the natural blues of objects around her. 
+Mishakal influences the spheres of numbers, thought; travelers and wards.  
+~
+
+-1 Majere~
+{WMajere{x{/{/ Majere is the patron of organization and industry.  He
+influences meditation, control, thought, faith, mercy and inspiration.  His
+colors are copper and red, while his spheres of influence are law, thought,
+time and wards.  
+~
+
+-1 Kiri Jolith~
+{WKiri-Jolith{x{/{/ Kiri-Jolith is the patron of Solamnic Knights of the
+Sword.  His constellation threatens the Queen of Darkness in the night sky. 
+He influences war, battle, courage and heroism.  Colors are brown and white.
+Kiri-Jolith's spheres are law, war and wards.  
+~
+
+-1 Gilean~
+{w{RGilean{x{x{/{/ Gilean is the patron god of knowledge, guarding the Tobril
+from all other eyes.  Gilean seeks to keep the forces of good and evil in
+balance and allies himself with whichever side is most powerful at that
+time.  Gilean influences knowledge and his color is gray.  Spheres of
+influence include numbers, time, thought and wards.  
+~
+
+-1 Chislev~
+{RChislev{x{/{/ Chislev is nature.  She is the earth itself.  All animals
+and plants of Krynn worship her.  She dislikes industry, and as such,
+influences nature, wilds, beasts.  Her colors are brown, yellow and green. 
+Spheres of influence include time and chaos.  
+~
+
+-1 Reorx~
+{RReorx{x{/{/ Reorx is the patron god of dwarves and their industry, as
+well as the creator of the Graygem.  Reorx influences dwarves, weapons,
+mining, smithing and technology.  He prefers the colors of slate gray and
+red.  Spheres of influence include law, war, thought and wards.  
+~
+
+-1 Zivilyn~
+{RZivilyn{x{/{/ Several scholars have even proposed that the ageless
+Astinus of Palanthas is a branch of Zivilyn.  After all, Zivilyn may
+maintain several avatars at one time, and Astinus may be one of them.  In
+whatever form, Zivilyn wields a simple wooden cane that obey s any command
+it is given.  Zivilyn, god of all wisdom, is the celestial Tree of Life. 
+His branches and roots extend into all times and places.  Much as Gilean
+holds the knowledge of the universe, Zivilyn holds its wisdom.  He acts not
+according to the dictates of his mind, but according to those of his heart. 
+Because wisdom is incomplete without knowledge and knowledge is incomplete
+without wisdom, Zivilyn and Gilean work closely together.  Zivilyn is the
+companion of Chislev; most mortals view this relationship as a perfect
+marriage.  
+~
+
+-1 Sirrion~
+{RSirrion{x{/{/ Sirrion is the god of fire; he influences flames of any
+sizefrom a candle to the sun.  His companion in the celestial world is
+Shinare.  In addition to flame, Sirrion influences natural power, change and
+transformation.  His colors are bright reds & yellows and his spheres of
+influence include chaos and numbers.  
+~
+
+-1 Shinare~
+{RShinare{x{/{/ Shinare is the goddess of wealth, money, and industry. 
+She is the favorite god of the dwarves, and is the patron god of merchants
+and commerce.  Her companion is Sirrion, whose fondness for nature often
+runs against Shinare's desire for progress.  
+~
+
+-1 Lunitari~
+{RLunitari{x{/{/ The sole daughter of Gilean, Lunitari is the god of
+neutral magic.  She spins through the sky over the world and keeps a
+watchful eye on the balance of magical power throughout the world.  Along
+with Solinari and Nuitari, she chose to stay close to the world and foster
+the growth of magic within.  Lunitari founded the Neutral Order of Sorcery,
+the Red Robes.  
+~
+
+-1 Takhisis~
+{DTakhisis{x{/{/ Takhisis was Paladine's consort in the Age of Dreams,
+but she left him when things did not go to her liking.  Patron of the
+Knights of Takhisis and all that is evil or corrupt, Takhisis influences
+night, hatred, intrigue and chaos; her color is either a shiny or dark black
+and her spheres of influence include chaos, time, war and wards.  Takhisis
+led the shadows from Beyond and brought them to aid in the creation of this
+cosmos.  Her deeds have ever since been a constant struggle to assert her
+rule over all creation.  It is, in her view, only right and just that this
+be so.  Sargonnas has been her consort since before the beginning of all
+things.  Takhisis can appear in any form she wishes and often takes on a
+disguise.  She is most often seen as either a five-headed chromatic dragon,
+or as a beautiful temptress, equally deadly in either form.  
+~
+
+-1 Nuitari~
+{DNuitari{x{/{/ The twin brother of Zeboim, and son of Takhisis and
+Sargonnas.  Nuitari left the ranks of Evil to join with the other two gods
+of magic, Solinari and Lunitari, in the forging of the Orders of Sorcery. 
+Nuitari is the god of Black or Evil Magic.  
+~
+
+-1 Chemosh~
+{DChemosh{x{/{/ Chemosh is the patron of all undead.  Any such creatures
+are his minions, increasing his strength on Krynn.  Chemosh influences
+ravagers, undead and people's nemeses.  His colors are black and blood red. 
+Spheres of influence are time, numbers and thought.  
+~
+
+-1 Sargonnas~
+{DSargonnas{x{/{/ Takhisis's brooding consort is an explosive personality
+who plots against her about as often as he works with her.  Sargonnas
+influences vengeance, destruction, intrigue, volcanoes, fire and deserts. 
+His colors are red and black.  Spheres of influence include chaos, thought;
+numbers and war.  
+~
+
+-1 Hiddukel~
+{DHiddukel{x{/{/ Hiddukel is a deal maker who trades in souls.  It is
+said that he is the only being who can barter with the Queen of Darkness and
+come out ahead.  He controls all ill-gotten wealth in the world, which he
+uses to corrupt greedy men.  He is the patron of evil busniess-men, and
+thieves.  
+~
+
+-1 Morgion~
+{DMorgion{x{/{/ The god of disease, decay, plague, weakness and plotting
+is Morgion.  He despises all that is healthy, attempting to destroy or
+corrupt them.  His colors are deep brown and black.  
+~
+
+-1 Zeboim~
+~
+
+0 Timeline~
+anyone? anyone? anyone? no. the answer must be put in by zivilyn.
+~
+
+0 Builder~
+Builders are a crazy lot, they take pride in there work and have no problems talking about the area for long hours.
+To begin a Builder for this mud you have twice options you can try and use.
+the First being a Mortal Builder, all Mortals wishing to build should send a E-Maill to Takhisis at: Takhisis_legends_lance@dragonlance.zzn.com   She will need to have information such as where have you built before.
+how often you can build, how much can you build, how good you are with time tables.
+so that she can proccess this quickly please use subject: Mortal Builder Legends :so that she can be sure to read it.
+ 
+The last option is to become a Immortal, hmm just ask a Immortal how to do that.
+~
+
+102 JOBS~
+This is a partial list of what a god of any given level should be doing. It is
+not complete yet.
+
+Builders:(102-103)
+You main job as a builder is to come up with Ideas for new areas and to 
+let the Headbuilders know, they will take the idea to a imp for approvel. You
+May run Quests with the help of Higher up Immortals, Just don't expect to 
+be allowed to go crazy with your quests.
+
+Questers:(104-105)
+Questers have two main roles: Building and  quest running. You can draft 
+Builders to help you run a quest, and please note that quests should NOT have
+huge rewards -- the main point should be to have fun. Questers have no  
+business trying to enforce rules -- the most you should do to a player is
+NOCHANNEL or similar light punishment.
+
+Gods:(106-108)
+Gods can run quests just like Questers, and it's nice to do reimbursements 
+too. However, the main role of a God is keeping the peace.  Gods can 
+enforce (but not create rules), using the various NOTELL-class commands, 
+as well as deny, purge, freeze, and ban (but be careful with these 
+commands!)  Gods are expected to help make the mud run more smoothly, 
+power trips are strictly verbotten.
+
+Not fufilling the roles of your office can result in demotion or deletion.
+~
+
+0 PKILL PKILLING PKILLER 'PLAYER KILLING' PSTEAL PSTEALING 'PLAYER STEALING'~
+Player killing and player stealing are allowed to all clan members 
+(including loners), provided the victim is is within 8 levels of the
+character and is also in a clan.  This will flag you as a "killer" or
+"thief", allowing any character to attack, and also provoking action
+from the city guard.
+~
+
+102 COMMANDMENTS LAWS 'GOD RULES' GODS~
+.
+                         **********************
+                         ** The Rules of ROM **
+                         **********************
+ 
+1)  Do not kill mortals, do not kill mortals, do not kill mortals.
+    This includes transferring/summoning them to aggressive mobs.
+ 
+2)  Do not cheat for ANY mortal in ANY way, especially your own. 
+    Unless of course you LIKE deletion. Yes this includes tanking,
+    healing/restoring, casting protection spells <armor, sanct>,    
+    and softening up or altering mobs.
+ 
+3)  Do not transfer or summon mobs to mortals or mortals to mobs.
+    They have legs, if they want to kill a mob, they can easilly
+    go there themselves.
+ 
+4)  DO NOT kill the shopkeepers for any reason at ALL.
+ 
+5)  DO NOT use reboot.  <--- Note, simple English.
+ 
+6)  Do not give out free equipment.  You don't need to win brownie
+    points with the mortals.  Quest are fine but handing out items
+    isn't.
+ 
+7)  A note on quests: Quests are a good thing, more or less, BUT 
+    do not give out overly extravagant prizes.  Exercise some 
+    common sense here folks.  Do not load items more than 4 levels
+    below their normal level (i.e. no level 5 ogre gauntlets).
+ 
+8)  Do not undermine the authority of a higher level god.  If you 
+    see that someone has been frozen or nochannelled do not restore
+    their priveleges.  They are being punished for a reason.
+ 
+9)  Do not try to overrule each other.  
+ 
+10) Trusted mortals:  Do not use your god powers to help your mortal
+    character.  If you do, your trust will be taken away.
+
+~
+
+0 RULES~
+{CThese are the rules of ROM.  For other matters, use common sense{x.
+
+* {RLimited player stealing or player killing{x.
+
+*{C Your presence here is a privilege not a right. Obey any orders from 
+    gods, and you will be fine.  Deletion does not require a reason, 
+    appeals are to be sent to the implementors{x.
+ 
+* {DSitting around idle with a client is hazardous to your health. If we 
+    catch you doing it, you will lose half your playing time{x.
+
+* {MNo multiple logins, multiple playing, or helping your own characters 
+   with other characters you own -- by any arrangment{x.
+ 
+* {BNo kill stealing.  This means you cannot attack a mob someone else is 
+  fighting, unless they ask you to. Also avoid attacking fleeing mobs{x.
+
+* {RCheating {Gwill not be tolerated.  This includes accepting favors from 
+    gods and exploiting bugs. If you find a bug, report it, then do not 
+    use it{x.
+
+* {YChanges to these rules are at the discretion of the immortals, and may 
+   be done without warning, notice, or even evidence of sanity. Walk 
+   {wsoftly{x, and carry a {Dblack{x {ystick{x.
+ 
+ {G*{wThe imms of this mud try their best to be fair if you happen to anger 
+      them enough to take action you can get you have totally went way to
+      far and have given up the privilege to be here.
+~
+
+-1 $~
+
+#$

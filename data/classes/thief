@@ -1,0 +1,46 @@
+1 4 axe
+1 3 dagger
+1 4 flail
+1 4 spear
+1 4 sword
+1 4 whip
+1 3 haggle
+1 1 recall
+1 2 human
+1 2 aghar
+1 2 hylar
+1 2 neidar
+1 2 minotaur
+1 2 kagonesti
+1 2 dimernesti
+1 2 gnome
+1 2 kender
+1 2 dracon
+1 2 silvanesti
+1 2 qualinesti
+1 5 right hand
+1 5 left hand
+2 3 backstab
+2 3 peek
+2 3 sneak
+3 2 shield block
+4 4 trip
+5 3 dirt kicking
+5 3 dodge
+10 6 engage
+10 4 parry
+10 5 pick lock
+10 2 steal
+15 2 envenom
+15 4 hide
+16 5 second attack
+20 1 lore
+29 3 counter
+30 5 hand to hand
+30 3 kick
+40 6 disarm
+48 4 critical strike
+50 5 third attack
+60 5 enhanced mind
+70 5 ambidexterity
+-1

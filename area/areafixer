@@ -1,0 +1,149 @@
+#!/usr/bin/perl -w
+
+BEGIN:
+
+print "Enter an input file: "; chomp( $infile = <STDIN> );
+until( -r "newareas/$infile.are" ) {
+    print "    newareas/$infile.are does not exist.\n";
+    goto DONE;
+}    
+
+$outfile = "$infile.are";
+$infile = "newareas/$infile.are";
+
+
+open( INFILE, $infile ) || die "Can't open $infile: $!\n";
+open( OUTFILE, ">$outfile" ) || die "Can't create $outfile: $!\n"; 
+
+
+
+
+#Vnum replacement prefixes - change
+
+$oldvnum = 62;
+$newvnum = 147;
+
+
+#Initialization
+
+$doingmobs = 0;
+$doingobjs = 0;
+$doingrooms = 0;
+$inmob = 0;
+$inobj = 0;
+$inroom = 0;
+$linecount = 0;
+
+
+while( <INFILE> ) {
+
+    if( /^#MOBILES/ )			# Comment out the 'if' statement
+    {					# you won't be using
+	$doingmobs = 1;			# Note - only need to comment the
+	$linecount = 0;			# initialization ones
+    }
+
+    if( /^#OBJECTS/ )
+    {
+	$doingobjs = 1;
+	$doingmobs = 0;
+	$linecount = 0;
+    }
+
+    if( /^#ROOMS/ )
+    {
+	$doingrooms = 1;
+	$doingobjs = 0;
+	$linecount = 0;
+    }
+
+    if( /^#SPECIALS/ )
+    {
+	$doingrooms = 0;
+    }
+
+    
+    if( $doingrooms == 1 )
+    {
+	if( /^#/ )
+	{
+		$inroom = 1;
+	}
+
+	if( $inroom == 1 )
+	{
+		if( /~/ )
+		{
+			$linecount++;
+		}
+		
+
+		if( $linecount == 2 )
+		{
+			s/~/~\n~/;
+			$inroom = 0;
+			$linecount = 0;
+		}
+	}
+    }
+
+
+    if( $doingmobs == 1 )
+    {
+	if( /^#/ )
+	{
+		$inmob = 1;
+	}
+
+	if( $inmob == 1 )
+	{
+		if( $linecount == 5 )
+		{
+			s/(\S*) (\S*) (.*)/$1 0 $2 0 $3/;
+			$inmob = 0;
+			$linecount = 0;
+		}
+
+		if( /~/ )
+		{
+			$linecount++;
+		}
+	}
+    }
+
+
+    if( $doingobjs == 1 )
+    {
+	if( /^#/ )
+	{
+		$inobj = 1;
+	}
+
+	if( $inobj == 1 )
+	{
+		if( $linecount == 6 )
+		{
+			s/\n/\n0\n/;
+			$inobj = 0;
+			$linecount = 0;
+		}
+
+		if( /\n/ )
+		{
+			$linecount++;
+		}
+	}
+    }
+	
+	
+
+    s/$oldvnum/$newvnum/;			# Comment these out if you
+    s/$oldvnum/$newvnum/;			# aren't changing the vnums
+
+#    s/.??\n/\n/;				# Used to take off the last
+						# character on the line
+    print OUTFILE;
+}
+
+DONE:
+

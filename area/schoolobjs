@@ -1,0 +1,405 @@
+
+#OBJECTS
+#3700
+mace sub merc~
+a sub issue mace~
+You see a sub issue mace here.~
+bronze~
+weapon U AN
+0
+mace 1 6 pound 0
+1 60 250 P
+A
+5 1
+A
+1 2
+A
+18 1
+E
+mace~
+You see a mace of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3701
+dagger sub merc~
+a sub issue dagger~
+You see a sub issue dagger here.~
+bronze~
+weapon U AN
+0
+dagger 1 4 pierce 0
+0 10 210 P
+A
+5 1
+A
+1 2
+A
+18 1
+E
+dagger~
+You see a dagger of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3702
+sword sub merc~
+a sub issue sword~
+You see a sub issue sword here.~
+bronze~
+weapon U AN
+0
+sword 1 6 slash 0
+1 30 360 P
+A
+5 1
+A
+1 2
+A
+18 1
+E
+sword~
+You see a sword of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3703
+vest sub merc~
+a sub issue vest~
+You see a sub issue vest here.~
+leather~
+armor U AD
+0
+A A A 0 0
+0 50 144 P
+A
+5 1
+A
+2 1
+E
+vest~
+You see a vest of great but cheap craftsmanship.  Stamped on the side is:
+Merc Industries
+~
+#3704
+shield sub merc~
+a sub issue shield~
+You see a sub issue shield here.~
+wood~
+armor U AJ
+0
+A A A 0 0
+0 30 108 P
+A
+5 1
+A
+1 3
+E
+shield~
+You see a shield of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3705
+cloak sub merc~
+a sub issue cloak~
+You see a sub issue cloak here.~
+cloth~
+armor U AC
+0
+A A A 0 A
+0 40 72 P
+A
+2 1
+A
+4 2
+E
+cloak~
+You see a cloak of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3706
+helmet sub merc~
+a sub issue helmet~
+You see a sub issue helmet here.~
+leather~
+armor U AE
+0
+A A A 0 0
+0 30 72 P
+A
+4 1
+A
+3 2
+E
+helmet~
+You see a helmet of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3707
+leggings sub merc~
+a pair of sub issue leggings~
+You see a pair of sub issue leggings here.~
+leather~
+armor U AF
+0
+A A A 0 0
+0 30 72 P
+A
+5 1
+A
+2 1
+E
+leggings~
+You see leggings of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3708
+boots sub merc~
+a pair of sub issue boots~
+You see a pair of sub issue boots here.~
+leather~
+armor U AG
+0
+A A A 0 0
+0 30 72 P
+E
+boots~
+You see boots of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3709
+gloves sub merc~
+a pair of sub issue gloves~
+You see a pair of sub issue gloves here.~
+leather~
+armor U AH
+0
+A A A 0 0
+0 10 72 P
+A
+2 1
+A
+5 1
+E
+gloves~
+You see gloves of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3710
+sleeves sub merc~
+a pair of sub issue sleeves~
+You see a pair of sub issue sleeves here.~
+leather~
+armor U AI
+0
+A A A 0 0
+0 20 72 P
+A
+13 3
+A
+2 1
+A
+1 1
+E
+sleeves~
+You see sleeves of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3711
+cape sub merc~
+a sub issue cape~
+You see a sub issue cape here.~
+cloth~
+armor U AK
+0
+A A A 0 0
+0 20 72 P
+A
+5 1
+A
+2 1
+A
+13 3
+E
+cape~
+You see a cape of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3712
+belt sub merc~
+a sub issue belt~
+You see a sub issue belt here.~
+leather~
+armor U AL
+0
+A A A 0 0
+0 10 72 P
+A
+5 2
+E
+belt~
+You see a belt of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3713
+bracer sub merc~
+a sub issue bracer~
+You see a sub issue bracer here.~
+bronze~
+armor U AM
+0
+A A A A 0
+0 10 48 P
+A
+12 4
+A
+13 5
+A
+2 -1
+E
+bracer~
+You see a bracer of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3714
+key~
+a key~
+You see a very important key here!~
+brass~
+key P A
+0
+0 0 0 0 0
+0 10 0 P
+#3715
+diploma~
+a mud school diploma~
+You see a mud school diploma here.~
+vellum~
+treasure GU AO
+0
+0 0 0 0 0
+0 10 1140 P
+A
+4 1
+A
+5 1
+E
+diploma~
+This document shows that you have graduated from Mud School.
+It also has magical effects on your abilities if you hold it!
+
+Merc Industries
+~
+#3716
+banner war merc~
+a war banner~
+A war banner is on the floor here.~
+cloth~
+light AG A
+0
+0 0 DGH 0 0
+0 20 380 P
+A
+17 -1
+A
+20 -1
+E
+banner~
+This is the official Merc war banner to see you through the darkest realm!
+~
+#3717
+spear sub merc~
+a sub issue spear~
+You see a sub issue spear here.~
+wood~
+weapon U AN
+0
+staff 1 6 thrust 0
+1 50 111 P
+A
+18 1
+E
+spear~
+You see a spear of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3718
+staff sub merc~
+a sub issue staff~
+You see a sub issue staff here.~
+wood~
+weapon U AN
+0
+staff 1 5 pound F
+1 40 290 P
+A
+18 2
+A
+19 1
+E
+staff~
+You see a staff of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3719
+axe sub merc~
+a sub issue axe~
+You see a sub issue axe here.~
+bronze~
+weapon U AN
+0
+axe 1 6 chop 0
+1 50 350 P
+A
+18 1
+E
+axe~
+You see an axe of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3720
+flail sub merc~
+a sub issue flail~
+You see a sub issue flail here.~
+bronze~
+weapon U AN
+0
+flail 1 5 crush 0
+1 50 310 P
+A
+19 1
+E
+flail~
+You see a flail of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3721
+whip sub merc~
+a sub issue whip~
+You see a sub issue whip here.~
+leather~
+weapon U AN
+0
+whip 2 2 whip 0
+1 20 330 P
+A
+18 2
+E
+whip~
+You see a whip of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3722
+glaive sub merc~
+a sub issue glaive~
+You see a sub issue glaive here.~
+wood~
+weapon U AN
+0
+polearm 1 7 slash F
+1 80 183 P
+A
+19 1
+E
+glaive~
+You see a glaive of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#0

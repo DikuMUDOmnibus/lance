@@ -1,0 +1,1817 @@
+#HELPS
+0 LAG~
+"Lag" is a condition caused by one of several things, the most common
+being internet traffic between the client (you) and the server (the mud), it
+can also be caused by server lag (because of low system resources), and
+client lag (you downloading files or other connection intensive activities).
+~
+
+0 WIZLIST~
+{WImmortal {DStaff{x Of {YLegends{x of the {CLance{x
+{B**************************************{x
+{B*             {CIMPS{x                   {B*
+{B*                                    {B*
+{B* {WMajere      {WPaladine     {DZeboim{x    {B*
+{B**************************************{x
+{B*              {DCoders{x                {B*
+{B*                                    {B*
+{B*  {RChaos{x      {DChemosh{x   {W{x            {B*
+{B**************************************{x
+{B*           {RQuesters{x                 {B*
+{B*                                    {B*
+{B* {WPaladine{x    {rGilean{x       {DTakhisis{x  {B*
+{B* {WSolinari{x    {GChislev{x                {B*
+{B**************************************{x
+{B*            {RBuilders{x                {B*
+{B*                                    {B*
+{B* {WKiri       {RLunitari    {DNuitari{x  {B*
+{B* {WBranchala  {RGilean      {DMorgion{x  {B*
+{B**************************************{x
+             Not Being Played 
+                
+    Kiri       Reorx      Lunitari
+    Mishakal   Sirrion    Morgion
+    Habbakuk   Shinare             
+{B**************************************{x
+~
+
+102 Itemcreation~
+Item creation has undergone vast changes lately, and all builders are expected 
+to build by these new changes. They are outlined in respective help files, 
+which will be listed after the general rules, which are:
+
+{y1. If you don't think you should do it, don't. If you aren't sure - Ask!
+{m2. I will personally check over every single item in your area. I.E. - No, 
+you won't get away with it. Don't even try.
+{b3. No adding of addapply's to items. If you don't know what these are, don't 
+worry about it.
+{r4. Addaffects are permitted, but limited. You will recieve more details in 
+the specific item help files.
+{W5. Keep item levels equal to or less than 101.
+{g6. Never reset an item with a higher level than the mob holding it.
+{c7. While you can reset items inside of other items, this causes them to 
+repop about 2-3 times PER DAY. Only do this on items you want to be EXTREMELY 
+rare. Items reset on the ground repop normally.
+{D8. Don't try to reset an item from a different area into your area. Ever. 
+Just clone it, if necessary.
+{x9. No item values over 50 steel unless they are merchandise in a shop.
+{R10. Strictly follow all guidlines set forth in the below helps. They are 
+there for a reason, and violations will not be tolerated.{x
+
+{CArmor----------> {YHelp Armorcreation
+{RWeapons--------> {YHelp Weaponscreation
+{MMiscellaneous--> {YHelp Miscreation{x
+~
+
+102 Armorcreation~
+{CArmor Class Values (v0 through v3) by Character Class{x
+                {RWarrior         Thief           Mage            Cleric{x
+{YBody armor{x      up to 20        up to 5         0*              up to 20
+{YHelm{x            up to 3         up to 2         0*              up to 2 
+{YArms{x            up to 6         up to 3         0*              up to 4 
+{YLegs{x            up to 3         up to 2         0*              up to 2 
+{YFeet{x            up to 6         up to 3         0*              up to 4 
+{YHands{x           up to 6         up to 3         0*              up to 4 
+{YShield{x          up to 15        up to 5         0*              up to 10
+ 
+There are the maximum values for non-magical armor. Lower quality armor may 
+have lower armor values than the ones listed above. Magical armor will be 
+covered later.
+
+Armor must always have a weight of at least 2 times the amount of armor it 
+provides. Therefore, a warrior wearing a breastplate  would have at least 40 
+pounds of metal stapped to his body. Weight is in 1/10's of a pound, so every 
+10 points in weight equals one pount - said breastplate would have a weight 
+value of 400.
+ 
+*This is base armor values by class. Armor MAY NOT have any value over the 
+listed for a restricted class. This is to increase the value of armor and 
+armor-giving spells. Armor will be extremely class restrictive - mages may 
+only wear clothes (ie, armor that doesn't provide protection.) Any of the 
+other classes can don this type of armor as well, since they meet the 
+restrictions. A warrior can decide to wear thief leather armor if he so 
+chooses, but a thief cannot wear a warriors plate mail. Here is an example of 
+what is acceptable:
+ 
+Name:        [studded leather shirt]
+Area:        [    4] IMM LAND
+Vnum:        [  407]
+Type:        [armor]
+Level:       [    5]
+Wear flags:  [take body]
+Class flags: [cleric thief warrior] <------- {CAcceptable, because both clerics
+and warriors can wear anything a thief can wear.{x
+Extra flags: [none]
+Material:    [leather-]
+Condition:   [  100]
+Weight:      [   10]
+Cost:        [ 4500]
+Short desc:  A Studded Leather Shirt
+Long desc:
+     A leather shirt with iron studs is here.
+[v0] Ac pierce       [5]
+[v1] Ac bash         [5]
+[v2] Ac slash        [5]
+[v3] Ac exotic       [5]
+ 
+The following is NOT acceptable:
+Name:        [steel breastplate plate]
+Area:        [    4] IMM LAND
+Vnum:        [  406]
+Type:        [armor]
+Level:       [    5]
+Wear flags:  [take body]
+Class flags: [cleric warrior]  <------ {RUnacceptable. A cleric cannot wear 
+armor this heavy.{x
+Extra flags: [none]
+Material:    [steel-]
+Condition:   [  100]
+Weight:      [  400]
+Cost:        [90000]
+Short desc:  A Steel Breastplate
+Long desc:
+     A finely crafted steel breastplate is here. It sure looks heavy!
+[v0] Ac pierce       [20]
+[v1] Ac bash         [20]
+[v2] Ac slash        [20]
+[v3] Ac exotic       [20]
+
+{CMagical Armor{x
+Scattered throughout the lands are pieces are armor that have had the time and 
+money invested in them to make them more than mundane pieces of equipment. 
+Having several magical items in your area is fine (two per area, or up to 1 
+per 100 vnums used, max of 5), as long as they meet the following rules:
+
+-AC bonus - The armor may have an armor bonus applied to it. However, it is 
+not simply incorporated into the variables. You may add this bonus, ranging 
+from -10 to -30, as follows:
+{yaddaff ac -30{x
+Only body armor, shields, jewelry (covered later), and cloaks (covered later) 
+may have this bonus. The item must be of at least double the level of the 
+armor bonus given (i.e., -30 would be at least level 60).
+
+-HP Bonus - Rare items (no more than one per area or 150 vnums used, whichever 
+is greater) may give temporary hit points to the wearer. This feature is only 
+available on helmets and jewelry (covered later) and may range from 2-20 hit 
+points, based on level (Level divided by 5).
+ 
+-Mana Point Bonus - Rare items (No more than one per area or 150 vnums use, 
+whichever is greater) may give temporary mana points to the wearer. This 
+feature is only available on gloves, cloaks (covered later), and jewelry 
+(covered later), and may range from 5-50 mana points (level divided by 2).
+
+You may only have 1 of the above affects without {RDIRECT APPROVAL{x from the Head 
+Builder, and
+{RNO OTHER AFFECTS THAN THE ONES LISTED MAY BE ADDED TO ARMOR WITHOUT DIRECT 
+APPROVAL FROM THE HEAD BUILDER.{x
+~
+
+102 Miscreation~
+{RCloaks {x(I consider anything that goes into the 'about' slot a cloak), {RLights{x, 
+{RTattoos{x, {RMasks{x, {RFloaters{x, and {RBackpacks{x are all miscellaneous equipment. While 
+rarely magical, they can sometimes provides slight benefits to those wearing 
+them - the only exception to this is cloak, which can be magical. They will be 
+covered last.
+
+{BLights, Tattoos, Masks, Floaters, and Backpacks{x are all elegible to raise a 
+stat point by 1 OR to increase armor by -5. No other options are available for 
+these items without head quester approval. Minimum level 15.
+ 
+{MCloaks{x - While cloaks are rarely magical, those that possess dweomers are 
+eagerly hoarded by any who can lay their hands on them. No more than 1 magical 
+cloak per area of at least 200 vnums. They may possess up to the following 
+stats:
+{yaddaff -30 ac
+{yaddaff -3 saves
+{xItem level = 20 times the number of mods on it, by strength. -3 saves = 3 mods, etc.
+Max level 100, despite flags.
+ 
+{MJewelry{x
+Rings, Amulets/Necklaces, Bracelets/Bracers, and Anklets are all considered 
+jewely. While mundane jewelry does little but look nice, sometimes jewelry can 
+be enchanted to provide certain bonuses.
+
+{WRings and Amulets (Including Earrings){x can have the following mods, up to listed strength:
+{yaddaff -30 ac
+addaff -3 saves{x
+Item level = 20 times the number of mods on it, same as cloaks.
+ 
+{GBracelets and Anklets{x can have any of the following mods, up to the listed 
+strength:
+{yaddaff hitr 1 (1)
+addaff hp 5 (1)
+addaff ac -5 (1)
+{ROR
+{yaddaff (stat) (2)
+Item level = 20 times the number of mods on it, in parens by stat.
+ 
+{RDO NOT leave piles of coins in excess of 5 steel lying around, and no more 
+than 50 steel on the ground in any area.
+No item values over 50 steel unless they are in a shop.{x
+~
+
+102 Weaponscreation~
+
+{RWeapon Creation Guide{x
+{YWeight:{x   600   550   500   450   400   350   300   250   200   150   <
+{YStr Req:{x   25    24    23    22    21    20    19    18    17    16    <16
+{YMax Avg
+per lvl:{x   .80   .75   .70   .65   .60   .55   .50   .45   .40   .35   .30
+ 
+ 
+Weight must ALWAYS be set, as average damage is dependant upon it.
+ 
+Round up to whole numbers. Two-handed weapons can get a bonus of up to +.20 to 
+this score. Dice may be arranged in any way to get the average damage, but may 
+never go over. Always round down for that if neccessary. Items can always have 
+at least 2 damage average, despite the above formula. For example, a light 
+sword (weight 90) for a level one would be (1 * .30 = .30), which is not even 
+one. For low levels (<10), extremely low values may be subsituted with a 
+simple 1d3 for damage dice.
+ 
+{CMagical Weapons{x
+Certain weapons are of much higher quality than even the finest mundane items 
+due to magical properties bestowed upon them. While uncommon (no more than two 
+per area, or 1 per 100 vnums, max of 5), they can provide a huge advantage to 
+those of a combative nature. 
+ 
+Weapons may have a bonus to attack and damage rolls, ranging from 1-3, applied 
+as follows:
+{yaddaff hitr 3
+addaff damr 3{x
+There must be a level requirement of 20 per hitroll and damroll added (i.e., a 
++3/+3 would require level 60. A +2/+3 would require level 50, and so forth).
+ 
+Damage type - All weapons are to be respectively slashing, piercing, or 
+bashing damage types unless otherwise approved.
+
+v4 variable - Magical hit affects - Extremely rare weapons (Never more than 
+one per area) may have a special ability that triggers when they strike an 
+enemy. Abilities in this variable fall into that category. No more than one 
+flag from this variable without {RDIRECT CONSENT{x from the head builder. The
+two-handed flag and the sharp flag are the only exceptions to this rule, and 
+the sharp flag adds 10 to the item level.
+~
+
+102 Mobcreation~
+For all intents and purposes, mobs are going to be quite simple to build - 
+simply set the level you desire for your mob, and type auto. The newly 
+configured stats for characters makes them set at the right difficulty when 
+the auto option is used. Unless you are working in a certain, special area 
+(such as the abyss, or similar) most mob levels must be under level 125, and 
+all must be under 140. For exceptions, speak to the head builder prior to 
+making them. For especially tough mobs (those guarding treasure and the like),
+I would recommend the following affects:
+ 
+{M-Immune: {xup to 2 lessers (I will list these).
+{M-Resistant: {xto up to 2 greaters (I will list these).
+{M-Affected by: {xfrenzy, haste, OR sanc - not all three, maybe both in certain 
+cases.
+{M-Offensive: {xparry, dodge, fade, fast, kick,  or bash - again, I wouldn't use all
+of them, but a combo of several is okay.
+{W-And in rare cases... a special program (spec) can be added to further beef up 
+a mob.{x
+ 
+{RNote:{x Never set a mob with more than their level x10 in gold. IE: a level 140 
+could have 1400 set for wealth as max. Also, no healer mobs greater than level 
+50, and any mob that is immune to everything or no_attack must also be immune 
+to summon, so that it cannot be the target of quests.
+ 
+{BLesser Damage Types:{x
+bash               pierce             slash              fire               
+cold               lightning          acid               poison             
+negative           charm              energy             mental             
+disease            drowning           light              sound              
+wood               silver             iron               summon
+ 
+{YGreater Damage Types:{x
+weapon             magic              holy
+ 
+~
+
+102 Building~
+{y
+There have been lots of changes to the way mobs and items are being built
+now.  At the end of this help is a complete index of new help files for you
+to reference to for future building, but first, here are some general rules
+and guidelines for all builders: 
+  
+{W1. At the end of each area, I will manually check every single item, mob, 
+pet, and mprog in that area before it is ok'ed to be copied
+over. As long as you stick to the guidelines in the new help files, this 
+shouldn't be a problem - for either of us.
+ 
+2. Making secrets in your areas is great, and makes things fun. All I require 
+is some sort of trail or hint for perceptive people to
+follow, so the knowledge of the secret is discernable without the builder of 
+the area around.
+
+3. Never link one area to another on the bp - terrible things will happen.
+
+4. Never reset an item or mob from another area into your area. If needed, 
+just make a duplicate item.
+
+5. Never reference to an mprog from another area.
+
+6. Follow all building rules EXPLICITLY - if you have a question or believe I 
+left something out, note me.
+
+7. Safe rooms are going to be extremely limited - if you want one in your area, note me.
+
+8. Do not snoop around areas, and only edit/help when asked to.
+
+9. A building report will be posted every week before sunday to me.
+This will detail what you have done or what you require.
+
+10. All areas are to be built as though they were from the books.
+I greatly encourage research, and I personally have info on many places.
+
+{CHave a good time, and make some killer areas!{x
+
+{R-=New Help Files=-{x
+{CAll about items - {YHelp itemcreation
+{BAll about mobs - {YHelp Mobcreation{x
+{GAll about Spellups - {YHelp Scroll{x
+~
+
+-1 lunge~
+{x
+Lunge, a powerful attack for Warriors and Paladins, It allows a Honorable frontal backstab like attack be preformed by the user. Once a mob or character hits a certain level of damage it will not work.
+~
+
+1 Directions~
+The {CFirst{x name is your destinations, and the {RSecond{x name is where
+you dock to.  Note that these directions do not include opening doors, etc. 
+ 
+{CAbyss - {x({Rneraka, solace, or palanthas{x) Go and find it ;)
+{CAnt Hill - {x({Rvingaard{x) 1s, 5w, 5s, 4w, 1s, 2w, 2s, 2w, 1n, 3w, 1n, 5w, 5s, 1w.
+{CBloten - {x({Rsanction{x) 2e, 5s, 1u, 4s, 1u, 4s, 2d, 5s.
+{CBloodwatch Tower - {x({Rflotsam{x) 7n, 9w, 7s, 13e, 15s, 2e, 7s, 1e.
+{CCristyne - {x({Rsilvamori{x) 6s, 2w, 12n, 4w.
+{CDaargard Keep - {x({Rvingaard{x) 1s, 6w, 6s, 3w, 1s, 1e, 2n, 3e, 1n.
+{CDarken Wood - {x({Rsolace{x) 1s, 3e, 5s, 3w, 1s
+{CEstwilde - {x({Rneraka{x) 1w.
+{CGarnet - {x({Rkalaman{x) 5s, 9w, 16s, 11w, 10s, 10w.
+{CHall of Fame - {x({Rpalanthas{x) 7s, 1d.
+{CHaven - {x({Rsolace{x) 1s, 3e, 11s, 2w, 1n, 4w.
+{CHigh Clerist Tower - {x({Rvingaard{x) 1s, 5w, 5s, 4w, 1s, 2w, 2s, 2w, 1n, 3w, 1n, 5w, 5n.
+{CHuma's Tomb - {x({Rsilvamori{x) 6s, 2w, 12n, 3w, 1n.
+{CIcewall - {x({Rsolace{x) 1s, 3e, 11s, 1e, 1s, 3e, 11s, 3e, 8s.
+{CIstar Airpocket - {x({Rflotsam{x) 1n, 1e, 13n, 4d, 4w, 3n, 6w, 6n.
+{CKendermore - {x({Rflotsam{x) 7n, 9w, 7s, 13e, 15s, 2e, 8s, 1e, 4n.
+{CKendermore Forest - {x({Rflotsam{x) 7n, 9w, 7s, 13e, 9s.
+{CKothas - {x({Rflotsam{x) 1n, 1e, 15n, 1u.
+{CLantern - {x({Rsolace{x) 1s, 3e, 11s, 1e, 1s, 3e, 11s, 3e, 7s, 3e, 1n, 1e, 1s, 1e, 1s, 1w, 1s, 2e.
+{CLemish - {x({Rkalaman{x) 5s, 9w, 17s.
+{CMithas - {x({Rflotsam{x) 1n, 1e, 17n.
+{CPalanthas Tower of HS - {x ({Rpalanthas{x) 12s, 2w, 2n, 2w, 1s, 1e, 1n.
+{CPax Tharkas - {x({Rsolace{x) 1s, 3e, 11s, 3w, 1s, 3w, 3s, 2w.
+{CPeninsula - {x({Rpalanthas{x) 7s, 8w.
+{CPlains of Dust -{x ({Rsolace{x) 1s, 3e, 11s, 1e, 1s.
+{CQualinost Proper - {x({Rsolace{x) 1s, 3s, 11s, 3w, 1s, 4w.
+{CRuins of Xak Tsaroth - {x({Rsolace{x) 1s, 3e, 11s, 3e, 1n, 1e.
+{CRusty Dragon Inn - {x({Rpalanthas{x) 7s, 3e, 1n, 1e.
+{CShoikan Grove - {x({Rpalanthas{x) 12s, 2w, 1n.
+{CSilvanost - {x({Rflotsam{x) 7n, 9w, 7s, 13e, 15s, 2e, 12s, 1u.
+{CSolanthus - {x({Rvingaard{x) 1s, 5w, 5s, 4w, 1s, 2w, 2s, 2w, 1n, 3w, 1n, 5w, 11s, 9e, 2s.
+{CSouthern Ergoth - {x({Rsilvamori{x) *Yes, that's all*
+{CTarsis - {x({Rsolace{x) 1s, 3e, 11s, 1e, 1s, 3e, 1s.
+{CTears of Mishakal - {x({Rsolace{x) 1s, 3e, 11s, 1e, 1s, 5e, 1s.
+{CThe Delving - {x({Rneraka{x) 2e, 1s, 12e, 1s, 3e, 1n.
+{CThelgaard Village -{x ({Rvingaard{x) 1s, 5w, 5s, 4w, 1s, 2w, 2s, 2w, 1n, 3w, 1n, 5w, 11s, 1w, 6s.
+{CThelgaard and Caergoth - {x({Rvingaard{x) 1s, 5w, 5s, 4w, 1s, 2w, 2s, 2w, 1n, 3w, 1n, 5w, 11s, 1w, 6s, 2w, 9s.
+{CThorbardin - {x({Rsolace{x) 1s, 3e, 11s, 1e, 1s, 1w, 1n.
+{CUnderwater Istar - {x({Rflotsam{x) 1n, 1e, 13n, 1d.
+{CZhaman - {x({Rsolace{x) 1s, 3e, 11s, 3w, 1s, 3w, 3s, 2w, 1s.
+~
+
+102 rewards awards tokens~
+{WThese values are approximate, but try to be somewhere close to them. 
+Also, take a few hints on the roleplay at hand; if it sounds like it was
+quick roleplay that probably won't be continued on, give out the reward for
+whatever group it belongs.  If it sounds like a bigger rp that is just
+pausing for the night, wait to hand one out; they will probably continue the
+next night, etc, which could up their category.  Note that all time values
+listed are a minimum.  
+{x
+{D-={MTime{D=-                              -={YReward{D=-
+{rGreater than 1 hour, 1 day thing.       {cAn RP REWARD (vnum 549)
+{rGreater than 4 hours, 1-3 days.         {cAn RP TOKEN (vnum 578)
+{rGreater than 8 hours, 1-7 days.         {cAn RP AWARD (vnum 42){x
+ 
+{WNote that exceeding any of the day values for a token reduces it to a reward, 
+and that exceeding any day value for an award reduces it to a token. As always, 
+use discretion when dealing with fairness, etc.
+ 
+Trading in of rewards and tokens is permitted, as per the following:{x
+{b4 rewards {D= {g1 token{x
+{b2 tokens {D= {g1 Award{x
+~
+
+0 The Horde~
+The horde is a motley group of outcasts, individuals who have either left
+civilized places or been kicked out.  Although they are very diverse in race
+and profession, they all share one common trait - Low morals.  Within the
+Horde the acts of murdering, raping, maiming, torturing, plundering, etc. 
+Are not only tolerated...  They are the social norm.  The only races not
+admitted to the horde would be kender and gnomes, as their demeanor is not
+cruel enough to act in such a sadistic manner.  
+The clan is ruled by a Warlord, who chooses his right and left hand men at the time
+of his ascension.
+ 
+-= Regulations =-
+1. Members must be of an evil or neutral alignment.
+2. Gnome and Kender cannot join, but all other races are welcome.
+3. All classes are welcomed.
+4. The player must participate in PK.
+5. Before joining, the player must have AT LEAST a 5 line desc and a 3 paragraph story,
+and they must also pass a test.
+
+-= Pk Rules =-
+1. You may only loot up to two items, but no less than 1.
+2. You must RP a PK IMMEDIATELY after the pk has commenced.
+3. After you have finished RPing, you MUST post a story.
+4. (Optional) You may rape your victims.
+5. (Optional) You may torture your victims.
+6. Horde members CAN PK each other, since it is a loose-knit organization.
+~
+
+0 Pretitle~
+{WPretitles must be Bought.  Only Clan Leaders get a Free Pretitle.  Clan
+R's must buy one with a Quest note, only Clan L's and R's may have them.  {x
+~
+
+102 unlink~
+command Unlink (All) removes all link dead players. Unlink (player) 
+removes only that player. Unlink by itself should list players that are 
+link dead.
+~
+
+0 Alts~
+{WAlts are great. But {RWe do not allow more then 3 Characters
+per person. {DWE DO NOT ALLOW MULTIPLAYING.  THIS MEANS DON'T HAVE TWO
+CHARACTERS ON AT ONCE.  DO NOT GIVE ITEMS FROM ONE CHARACTER TO ANOTHER. 
+{CIf you cannot give time to all three Characters THEN DO NOT PLAY THREE. 
+If your alts force your main character's clan to suffer You should return to
+your main character.  {YThis is getting stupid folks most of you have a main
+character, a important IC character that never logs on because you too busy
+with alts.
+ 
+{GI DO NOT WANT TO HAVE TO RESORT TO THAT.{x
+{RIF I CATCH ANYONE REVEALING ALTS I WILL NUKE {WWITHOUT{R WARNING.{x
+~
+
+0 IMMORTAL IMMORT GOD WIZARD WIZ~
+'Immortal' (often, simply, 'imm') refers to players who have reached
+the highest attainable levels in the game.  Here, anyone of level 102
+or higher is an 'immortal.'
+
+Since immortals can wreak havoc with game balance, they are (ideally)
+a carefully-chosen and policed group.  An absolute rule of immortal
+behavior is that no immortal can aid or assist any player without
+explicit permission from the higher ranks; in other words, please
+don't ask an immortal to help you kill a mob, gather EQ, etc, or
+you'll likely be either politely or rudely refused, or referred to
+this file.
+
+The duties of immortals, is simply to make the game fun and enjoyable, No 
+they are not always very nice sweet people they do work hard to build a 
+mud that players can try and find a escape from real life. The very idea 
+of immortals is a topic of heavy and heated debates, and are fraught with 
+misconceptions, poor examples, and outrageous hypocrisies. :)
+~
+
+0 JAIL CAPTURE~
+All prisoners are released on saturdays (saturday being 12:00 system time 
+saturday morning), unless they are caught on a saturday, in which case 
+they are released the next saturday.  {RCapture{x: To capture someone, 
+first be sure your jail currently has no prisoners (check your clan 
+notes), then pk your future prisoner, after that you ask politely for an 
+imm to come dice against your prisoner.  If your victim loses the dice 
+roll then they are jailed in your clan jail.  Beatings while your victim 
+is in jail are acceptable, but if they are killed they are out of jail.
+{GA Clan can jail more then one person IF it is RPED and nopk takes 
+place.{x
+~
+
+0 Halloffame~
+The hall of fame is a special area where players with more than 250 hours
+played on the mud are recognized.  Special priveledges are given to hall of
+fame members, they are as follows: 
+{R*{x250 Hours- The player recieves a hall of fame medallion, and an entry
+in the hall of fame.
+{Y*{x500 Hours- The player is allowed to buy a colored whotext for a qnote.
+{G*{x1000 Hours- Get there and we'll talk -Zeboim
+~
+
+0 Looting~
+{RYou may only loot 3 pieces of eq, thats the max.  Bags/pouches are
+not counted as one piece BUT everything in them is counted.  {BIf you icly 
+killsomeone, you may loot whatever you want from their corpse, except for the
+following items: Clan eq, and Hall of Fame Medallions.  Clan eq can be
+identified by a clan (and sometimes subclan too) in the item's name, like
+this (KoT Thorn) 
+{RCOUPONS COUNT A 1 PIECE OF EQ FOR EACH COUPON{x
+~
+
+0 eqclan~
+Clan eq is special equipment reserved for members of a certain clan, and
+as such it may only be owned by people in a clan or dual clanned with a
+clan.  Clan eq will look something like one of the following, depending on
+the clan: 
+({yHandler{x) ({CSolamnic {rRose{x) ({DKoT {rThorn{x)
+({BMercenary{x) ({GHolyOrder {WLight{x) ({WConclave {DBlack{x)
+({gWildrunner{x)
+~
+
+102 ImmRules~
+{G*{x Obey The Imps
+{G*{x When using a mortal to pk, log off your immortal.
+{G*{x No collecting of eq for mortals. (your's or other people's)
+{G*{x You must do your job. (quester or builder)
+{G*{x Obey the head of your job's department. (Head quester or head builder)
+{G*{x Do not load objects, raise levels, or cheat in anyway. Doing so is grounds for immediate deletion.
+{G*{x Any Immortal may collect clan donations.
+{G{x All new immortals start at level 102.
+~
+
+0 Profanity Cursing swearing ~
+The only restriction placed on profanity on this mud is that it may not
+be used against other players.  
+Take the following for Instance:
+Player 1 OOCs '{MThe Hydra is a fuckin hard mob!{x'
+Player 2 OOCs '{MHell yeah{x'
+The above is an example of{G ok{x use of profanity
+ 
+Player 1 OOCs '{MPlayer 2, you are a WHORE, FUCK YOU!{x'
+Player 2 OOCs '{MYou stupid bitch! you hurt my feelings{x'
+The above example is NOT OK, player one is offending player two.
+Also, racial slurs and sexual profanity (fag, dyke) are not allowed.
+This applies to all channels that are considered ooc.
+(you may curse at someone if it has an ic purpose, during an ic)
+Additional, the following is not profanity:
+Pansy
+~
+
+0 History~
+Historical reference texts from Dragonlance.com, written by Matt & Uziel
+{RWarning! May contain spoilers!{x
+These ages may be accessed by typing "help" followed by their whole name.
+ 
+{WAge of Starbirth{x (the Begginging)
+{YAge of Dreams{x 9000-1000PC
+{RAge of Might{x 1000-0PC
+{rAge of Despair{x 1-383 AC
+~
+
+0 Age of Starbirth~
+{WThe Beggining{x
+
+In the beginning, there was nothing.  Then the Highgod came out of the
+Beyond, drew plans for a new world, and called into Chaos to summon lesser
+gods to create the world.  Paladine and Takhisis were summoned, and were
+followed by Gilean who was given a book of the plans for the world, called
+the Toril.  The three gods called again into Beyond for lesser gods to
+assist them in creating the world.  Reorx was one of these and he shaped the
+world from Chaos.  The gods then created life.  Paladine and Takhisis asked
+Reorx to form children in their image, and so dragons were born.  Takhisis
+coveted the dragons and corrupted them, and Paladine asked Reorx to create
+new children for him.  Thus, the All-Dragons War began.  At the end of the
+war, the gods withdrew to the planes and noticed the spirits living in the
+stars.  The All-Saints War was fought over how these spirits should be
+ruled.  The Highgod returned from Beyond and ended the war, and the spirits
+were given three gifts and left to rule Krynn.  Ogres, elves and humans were
+created and the three moons were born as a pledge never to wage war on Krynn
+again.  
+~
+
+1 Questor Quester~
+Questors are in charge of rp (roleplays) and events that affect the mud's
+storyline.  Low level questors are in charge running quests such as trivia,
+mob quests, etc.  They should ask the head questor or the implementors
+before doing these sort of quests.  But it is not always needed.  Provided
+the quest isn't large or needs extra planning to run.  The higher level
+questors work along side the Head Quester (currently Sirrion) and work with
+him on approving rps (whether complex or race based) and monitor and help
+those in need, when he/she is not available.  The imms who work directly
+below are given the trust to approve ideas.  But it is always a good idea to
+run it by the head quester just on principle and to write notes.  So that
+he/she is kept informed and up to date about the events taking place. 
+Questers are to work as best they can with morts to make their experience
+here enjoyable.  If you have questions about rp feel free to post a note or
+request a quester imm's time over the ooc channel.  But please be patient
+and understand that not all rp ideas can be approved immediately. 
+Furthermore, New characters should build up their character's background
+before asking for special rp plans.  We try to gauge the allowance of such
+things by how well we know the player's rp ability.  If you are new to rp
+and come in asking to be for example a planeswalker, you will more then
+likely not be allowed.  Not because it's a bad idea, but because you are a
+new player and we need to get to know how your creative process works, etc. 
+We do not like to allow races and/or rps that encourage god-rp (see {chelp
+rp{x) but we are open to suggestions and ideas all the time.  And we may use
+your ideas at a later date in a global rp or something else.  If this help
+file has left out something, please ask a questor to clarify.  Please and
+thanks.  
+~
+
+1 Barony~
+Baronies are given out for free when a player reaches 1000 hours, or they
+can be purchased at a cost of 300,000 steel for the basic setup.  A Baron
+may rent rooms to tenants, tenants may be changed once a week on saturdays. 
+The rent rate is controlled by the baron, and when a player rents a room the
+room (or set of rooms, depending on the baron's generosity) the player's
+name may be added to the room.  The healing rate on all tenant rooms is 200,
+and the baron's personal room has a healing rate of 300.  
+All Baronies come with this basic setup, arranged as the Baron sees fit:
+19 Rooms
+1  Locked Door, pickproof, nopass, with a key
+1  Spare Key
+1  Shop Mob
+3  Mundane Shop Items
+1  Fountain (liquid of choice)
+7  Furniture
+3  Custom Recall Coupons (for setting tenant and baron recalls to their rooms)
+~
+
+0 Rp~
+Rp stand for 'Roleplaying'.  Something that might seem like a challenge
+for alot, but with a little creativity you can sink very much into your
+character.  Just a few things should be thought of during the act of rp'ing.
+1.  Be specific: if you leave holes in statements you say to people or in
+how your character behaves.  If can confuse people, clarify things with
+people using tells (so not to interrupt the rp) 2.  Use common sense: If
+you're standing in front of a massive elder dragon, you're not going to
+stand there and laugh at it.  (save if you are a kender, because they are
+resistant to fear) If you're a young apprentice, there's little you could do
+against a dragon, understand that you're young and you can't whip out
+dragonslaying magic instantly.  3.  Build up your character over time:
+Rather then coming in and saying 'i'm superman you can't hurt me', That is
+what we call god-rp and we don't approve of it.  Secondly, it can make stuff
+pretty boring when everything you do is unstoppable and nothing hurts you...
+So don't do it, because it's not a good idea..  Trust me.  :) We have plenty
+of dedicated rp'ers, if you are new to it, ask around, someone is usually
+here and nice enough to help you out.  There are two ways to rp.  1: Room
+rp, which is what it says...  The most useful commands for roomrp are
+{gsay{x and {cemote{x for 'in character' stuff, for ooc (ooc of character)
+stuff use {Wosay{x.  2: The {GIC{x channel, this is the global channel for
+rp, anyone who has it on will see it, this is one of the main ways the imms
+watch rp, while we can check up on you in whatever room you are, sometimes
+it's nice to just sit back and watch the ic channel.  The command syntax is
+IC, the other command that goes with it is {gica{x which stands for 'in to
+be approved please and thanks.  Like 'emote' If you have any questions,
+please ask 'nicely' for an imm.  We will answer if we can.  
+ 
+{RSpecial RP{x
+{CE-mail {RSpecial RP{C requests to Lance_imps@hotmail.com Thank you.{x
+~
+
+0 Home Restring Makeover Faith Coupon~
+Coupons are items which can be given to the immortal staff in exchange
+for services.  They can be obtained from the questmaster.  The 5 different
+types of coupons available are...  
+ 
+{RR{Be{Gs{Yt{Mr{Ci{Rn{Bg{x - Allows you to change the name and description
+of one item in your inventory.
+ 
+{rHome{x - Allows you to get sent back to your recall point if you get lost,
+very hurt or otherwise can not get home by yourself.
+ 
+{cQuest Note{x - Allows you to have your corpse and anything still inside 
+of it returned to you.  Helpfull when you know that you either don't know
+where it is or you know full well you'll get killed again looking for it.
+ 
+{cTrue {bFaith{x - Allows you to re-set your allignment back to what it
+should be. Helpfull if you want to wear equipment set to your god's 
+allignment or if you're just fussy about particulars.
+ 
+{mM{ba{ck{re{yo{gv{be{rr{x - Allows you to have all of your equipment
+that is currently worn restrung.
+ 
+When asking for a coupon to be cashed in, please keep in mind that if the 
+immortal feels that the proposed resting is in questionable taste, he or 
+she reserves the right to refuse to do it.
+~
+
+0 Warning Parental Advisory ~
+{RWARNING{x By mudding here you acknowledge that some adult content may
+be present.  By continuing to play you waive all liability of the game's
+players, host (wolfpaw), and immortals.  
+ 
+~
+
+0 Multiplaying~
+{RWhen you are connected to my Mud, There is to be only one Character
+connected to the mud at a time.  {x {GMultiplaying is {RIllegal{G on
+{YLegends of the Lance{G and will always be.  {BAnother Form of
+{RMultiplaying{G would be transferring items from one character to another,
+which is to put simply {RIllegal{G here as well.  {WEither transferring them
+using another player or dropping on the ground to pick them up. 
+Multiplaying in any form is grounds for deletion.
+{RDO NOT DO IT PERIOD.  
+{x 
+ 
+{GZivilyn{x
+~
+
+0 Idling Idle~
+Idling is illegal on Legends of the Lance, and will result in punishment,
+ranging from a forced quit, to deletion.  Idling is defined as: Being
+connected to the mud and not entering commands for more than 20 minutes,
+while at the same time not responding when talked to.  If caught idling you
+will be asked if you are there or not, if you answer then you will not be
+considered idle.  Repeat offenses will result in harsher punishment.  
+~
+
+0 Respect~
+Respect is to be shown at all times to other players, and to the immortal
+staff.  As a general rule of thumb, if you respect us, we'll respect you.
+No Matter what the agurement was about, if you log off, mellow out, and 
+come back to talk to us in a hour or so, We will be able to fix it up.
+~
+
+0 KOT~
+The {DKnights of Takhisis {xis a clan born out of the ruin of the
+Dragonarmies.  Avoiding the pitfalls that plagued the Dragonarmies and
+brought about their own self-destruction, the Knights of Takhisis were
+formed to be the elite fighting force to further the cause of the Dark Queen
+{DTakhisis {xherself. 
+Through careful study of the enemy forces of the Solamnic Knights
+it was found that they in fact posses some admiral ideas though the
+Solamnic Knights are overall flawed. {DThe Knights of Takhisis{x adopted some
+of these principles and improved where things were lacking.
+Thus was born a group worthy of serving {DTakhisis.{x  Its members are devoutly loyal
+to her and each other.  In fact, their very lives are expendable for the
+good of the clan.  Those who fail to live up to this devotion face but one
+thing: Death.  The {DKnights of Takhisis {xare a prime example of pride and
+honor, much more than the arrogant Solamnic Knights.
+New members of the {DKnights of Takhisis{x are usually those who have been trained
+to serve since childhood, though many of the older members are remnants of the fallen
+Dragonarmies who have accepted the weakness of the former methods of serving
+{DTakhisis.{x
+ 
+The {DKnights of Takhisis{x are made up of four orders of Knights
+({rThorn{x, {BLily{x, {WSkull{x and {cStorm{x), each focusing on their own goals
+but coming together to complete one another.  The Leader of all Knights is
+the {DLord of the Night{x and the Immortals for the clan are {DTakhisis{x,
+{cZeboim{x and {RSargonnas{x.
+ 
+{ySee 'HELP KOT RULES' and 'HELP KOT REQUIREMENTS' for more information{x
+~
+
+0 KOT RULES~
+{RRules for {DKoT{R-Members{x
+ 
+{G1.{x Follow all rules and regulations listed. Ignorance is no excuse.
+   Any violations are subject to verbal warnings, passing up of promotions, demotions, or discharge.
+ 
+{G2.{x Insubordination will not be tolerated. Listen to your superiors.
+ 
+{G3.{x Aid fellow clan members and potential recruits in any way possible.
+ 
+{G4.{x Participate in {Rroleplay{x as often as possible.
+ 
+{G5.{x Respect the immortals! If problems arise, do NOT argue with them.
+   Write a note to one of the Head Imps instead, explaining the problem.
+ 
+{G6.{x Do NOT curse, make fun of or harass any character in the MUD
+   except within the necessity of roleplaying.
+~
+
+0 KOT REQUIREMENTS~
+{RRequirements for joining the {DKnights of Takhisis{x
+
+{G1.{x The character must have a description and a somewhat established
+   background and personality, which must be noted down in a story.
+ 
+{G2.{x The character must establish contact with a recruiter or leader
+   who will oversee their progress through the rest of the steps.
+ 
+{G3.{x The new recruit must worship {DTakhisis{x. Followers of {cZeboim{x
+   or {RSargonnas{x will also be excepted.
+ 
+{G4.{x The character will be given a time period in which they are considered
+   to be a squire and not a full fledged Knight. Once the character proves themself
+   worthy, they will be promoted. A Patron Knight will guide the squire up to
+   this point and instruct him on the clan rules.
+ 
+{G5.{x Only humans, ogres, goblins, hobgoblins and draconians will
+   be excepted as a race.
+ 
+{G6.{x This is a {Rroleplay{x clan, which means that roleplay is the 
+{Cmost{x important thing for us. Pure PKers are not welcome. We ask every member
+   to roleplay often and establish a story for his character.
+ 
+{G7.{x Every Knight has to know about the Knights of Takhisis and their
+   story, especially about knightly behaviour and respect for your leaders.
+ 
+{G8.{x {DTakhisis{x is the responsible Immortal for the clan, with 
+       {cZeboim{x and {RSargonnas{x as her support. Write us a note if you 
+        need anything.
+~
+
+0 Age of Might~
+{R1000-0 P.C.{x
+Istar becomes the world's most powerful nation and the center for trade. 
+The elves become increasingly isolationistic.  Trade wars erupt between the
+kender and Istar.  The Kendermeld exempts them from Istarian standards. 
+Silvanesti ships blockade Istarian ports after the elven merchants are
+threatened.  Peace is brokered by Solamnia.  Barbarians raid Istarian trade
+caravans and are defeated by the Knights.  A period of peace lasts for
+almost 200 years, as Istar becomes the cultural center of the continent. 
+
+Istar declares itself the moral center of the world and installs the
+Kingpriest.  After 100 years, the Kingpriest issues the Proclamation of
+Manifest Virtue, stating that any evil act is punishable by slavery or
+death.  The extermination of entire 'evil' races is ordered.  Mobs attack
+the Towers of High Sorcery, but are stopped by the Kingpriest when many are
+killed by the destruction of some of the Towers.  The Edict of Thought
+control sparks a reign of terror as evil thoughts are declared criminal by
+
+the Kingpriest.  In the final days, the Kingpriest finishes preparations for
+his ascent into godhood.  On the Night of Doom, true clerics are taken from
+Krynn by their patron deities.  The Cataclysm occurred on the twelfth day of
+Yule when the Kingpriest demanded that he be made a god.  A fiery mountain
+is launched upon Istar, driving it to the depths of the newly-created Blood
+Sea.  The Temple of Istar is transported to the Abyss.  Ergoth is split from
+the main continent and into two islands; central Ansalon is flooded creating
+the New Sea; the seaport of Tarsis in the south is stranded in the center of
+
+what will become known as the Plains of Dust.  Balifor is inundated with
+water, which recedes, creating a desert.  
+~
+
+0 Age of Dreams~
+{Y9000-1000 P.C.{x
+The ogres, elves and humans choose homes.  The elves take to the trees,
+the ogres to the mountains and the humans to the plains.  Humans are quickly
+enslaved by the ogres.  After two thousand years, during the Heresy of
+Igraine, the humans rebel against their ogre overlords and win their
+freedom.  The Irda are created from the followers of Igraine.  As the ogres
+decline into brutish savages, the elvish civilization develops in
+Silvanesti.  The elf leader Silvanos holds the first Sinthal-Elish and
+becomes ruler of many of the elves in the forests of Silvanesti.  The wilder
+elves, or Kagonesti, instead follow another leader, Kagonos.  Gnomes are
+created by Reorx.  The chromatic dragons attack the Silvanesti, beginning
+the First Dragon War.  The war ends when the gods of magic intercede to
+defeat the dragons by creating dragon stones to trap their essences.  Magic
+is exiled.  The Graystone is forged by Reorx and is hidden on Lunitari, but
+is discovered by gnomes.  The stone returns to Krynn where it is captured by
+a human mage named Gargath.  In a battle to recover the stone, the gnomes
+inadvertently release it, and the Graystone unleashes wild magic on Krynn,
+creating the lesser races.  The dwarves delve their first home, Thorin, and
+uncover the dragon stones.  The Second Dragon War begins when the stones are
+brought to the surface.  Three mages and a Scion defeat the dragons, but the
+wild magic kills many.  The mages are taken to the Lost Citadel by the gods
+of magic to learn the ways of magic.  They will return to found the Orders
+of High Sorcery.  The human barbarians organize under Ackal Ergot and the
+Ergothian empire is founded.  The empire expands rapidly, and eventually
+reaches the border of Silvanesti.  Sithel, the Speaker of the Stars, is
+killed by a human hunter and the Kinslayer War between the Ergothian empire
+and the Silvanesti begins.  After forty years of fruitless war, a peace is
+negotiated and the Swordsheath Scroll is signed.  Progressive elves secede
+from Silvanesti to form a new elven nation in the west.  Led by Kith-Kanan,
+these elves become the Qualinesti.  The dwarves dig a new home and call it
+Thorbardin, or 'best new hope'.  Their old home, Thoradin, is lost.  The
+fortress of Pax Tharkas is built as a symbol of peace among nations.  The
+Ergothian Emperor is replaced in a military coup, and the northern and
+eastern provinces revolt.  Vinas Solamnus is promoted to commander of the
+armies and is sent to crush the rebellion.  After a year of fighting,
+Solamnus joins the rebels and marches on Daltigoth.  The provinces are
+granted independence and the nations of Solamnia, Sancrist and Istar are
+formed.  The minotaur nation is created in northeast Ansalon.  Solamnus
+founds the Knights of Solamnia.  Dragon eggs are planted in Thorbardin,
+where they are unearthed by the dwarves.  Chromatic dragons are born and the
+Third Dragon War begins.  The Knights of Solamnia halt the advance of the
+dragon hordes outside Vingaard Keep.  A young knight, Huma, and his dragon,
+Heart, discover the dragonlances and defeat Takhisis in single combat.  She
+and her armies withdraw.  
+~
+
+0 Age of Despair~
+{r1-383 A.C.{x
+The Dark Ages of Krynn.  The Knights are persecuted for not stopping the
+Cataclysm.  The 'seeker' movement for new gods begins.  Starving humans and
+hill dwarves demand entry to Thorbardin.  The Dwarfgate War begins and ends
+when Fistandantilus casts four powerful spells, destroying both armies and
+the fortress of Zhaman.  Takhisis awakens her chromatic dragons and sets the
+Foundation Stone of her temple in Neraka.  The stone is discovered by Berem.
+The metallic dragon eggs are stolen by the chromatic dragons.  The metallic
+dragons discover their missing eggs, and swear to stay out of the coming war
+to protect their unborn children.  Evil creatures are drawn to Neraka; the
+Dragonarmies are formed and draconians are created.  The companions
+undertake journeys to assess the spread of evil in the world.  The
+Dragonarmies invade Nordmaar and Balifor, then attack Silvanesti.  The elves
+flee to Southern Ergoth.  Speaker of the Stars Lorac Caladon uses a dragon
+orb to stop the invasion but instead creates the Nightmare.  The invasion of
+Solamnia begins from the east.  The Whitestone Council takes place and an
+alliance is formed to stop the Dragonarmies.  The dragonlance is
+rediscovered and is used to stop the advance of the Blue Dragonarmy at the
+High Clerist Tower.  Metallic dragons join the war.  Highlord Ariakas is
+killed by Tanis Half-Elven.  The War of the Lance ends, and the Dragonarimes
+are scattered across Ansalon.  Whitestone forces eliminate the remainder of
+the armies.  Gunthar Uth Wistan becomes Grand Master of the Knights of
+Solamnia.  Raistlin Majere enters the Tower of High Sorcery in Palanthas. 
+The city is attacked by Kitiara Uth Matar and the remainder of Blue
+Dragonarmy.  She is defeated, but destroys the city.  Solamnic Knights
+release Lord Ariakan from captivity.  He founds the Knights of Takhisis. 
+Goldmoon and Riverwind rebuild Que-Shu and unite the plainsmen.  Porthios
+Kanan and Alhana Starbreeze marry and unite the elven nations.  Tanis
+Half-Elven and Caramon Majere journey to Storm's Keep and meet Steel
+Brightblade.  They return and report the existence of the Knights of
+Takhisis.  Porthios ends the Nightmare of Silvanesti, but he is deposed by
+the Qualinesti and flees with Alhana.  Gilthas Kanan is placed on the
+throne.  {G---{BThe Future{G---{x The Irda break the Graygem and release
+Chaos, who threatens the existence of the world.  The Knights of Takhisis
+invade Ansalon, and capture much of the continent.  Chaos's minions attack. 
+Thorbardin is attacked from within; elves and ogres stand together to
+protect Bldehelm and Silvanesti.  The Vingaard Mountains erupt.  A rift
+opens in the Turbidus Ocean; minions of Chaos attack Nordmaar, Estwilde, the
+Northern Wastes and Solamnia.  The ocean boils.  The High Clerist's Tower is
+attacked; Knights of Takhisis astride Blue Dragons and Knights of Solamnia
+on Silver Dragons attack Chaos himself.  Chaos is defeated.  Paladine
+announces that the gods and magic will depart Krynn with Chaos, thus saving
+the world.  Raistlin departs with them.  Islands named the Teeth of Chaos
+have formed at the site of the Rift.  
+~
+
+0 SOLAMNIC~
+The knights of solamnia are a good aligned order of knights who rule over
+the solamnic plains.  They were founded by Vinas Solamnus, who also created
+in the age of dreams the code and measure.  The motto of the solamnic
+brotherhood is "{cEst Solarus Oth Mithas{x", or "{CMy Honor is My Life{x". 
+There are four subclans: 
+{YCrown{x, who's leader is the High Warrior, and who's patron is Habbakuk
+{WSword{x, who's leader is the High Clerist, and who's patron is Kiri-Jolith
+{rRose{x, who's leader is the High Justice, and who's patron is Paladine
+{yReserve{x, those not eligible for knighthood, but still follow the 
+triumverate, and wish to fight for good
+The leader of the entire solamnic knighthood is the Grand Master.
+ 
+No Full blooded elves are allowed in solamnic.
+No evil races in solamnic.
+Humans only in Rose and Sword.
+~
+
+0 Conclave~
+The purpose of the conclave of mages is to protect the integrity of
+magic, mainly by ridding the world of dabblers and renegade mages.  Mages
+wishing to become full members of the conclave must complete the "test", a
+rigorous trial designed to weed out those too weak to handle greater magics.
+Conclave is divided into three subclans:
+{WWhite{x, which worships Solinari, and works toward good
+{rRed{x, which worships Lunitari, and works towards neutrality and for itself
+{DBlack{x, which worships Nuitari, and works for evil and against others
+To join  you must be a mage of any race except draconian.
+~
+
+0 Wildrunner~
+The Wildrunners serve the nation of Silvanesti skillfully, protecting the
+throne and the Speaker himself.  All classes are accepted, except for any
+thief, for their corrupt nature does not fit in elven society.  Those of
+Silvanesti descent are the only ones who can become leaders of the clan.  Elves
+and half-elves are allowed as long as they are loyal to the gods of good or
+neutral. The mages within the Wildrunner's ranks must be servants of Solinari, 
+unless they are users of wild magic.  Recruiters are to follow the rules of lance
+and of the clan when inducting members. Do not induct if you do not know these rules.
+~
+
+0 MERCENARY~
+This is a clan that consists purely of mercenaries.  All members are
+bound by the oath of the mercenary.  Mutual respect and freedom is the way
+of the mercenary.  Being a rather freelance group of individuals, mercenary
+admits people of all walks of life.  However, Kender and Gnomes are not
+admitted under any circumstance.  Full-blooded elves are rarely admitted,
+but because of their choice; being of an inherently good nature (for the
+most part), they often find that what is required of a mercenary goes
+against their principles.  Draconians are admitted, but can never achieve
+leadership positions.  In addition, Mercenary's may move their camp at a
+cost of 20,000 steel.  Any alignment may be allowed in mercenary.
+~
+
+0 Renegade~
+Renegade is a term used to describe any mage who is not currently a
+member of the conclave of mages.  Renegades are hunted by the conclave as a
+threat to established magic.  
+~
+
+0 Holy Order~
+Holy Order is an organization of clerics, templars, and paladins who are
+dedicated to servicing their chosen god.  
+The main gods worshipped for the purpose of healing are:
+{BMishakal{x for light clerics
+{rMajere{x for balance
+{DMorgion{x for dark clerics
+Holy Order contains three subclans:
+{WLight{x for worshippers of the gods of good
+{rBalance{x for worshippers of neutral gods
+{DDark{x for worshippers of evil gods
+~
+
+-1 Silvanesti~
+The Silvanesti elves are a prejudiced people, intolerant of other races
+and customs, which are seen by the Silvanesti as being highly inferior to
+their own.  Their views are obviously the only correct ones, Racial purity
+is also a large part of the Silvanesti mindset.  
+ 
+Silvanesti attitudes differ greatly from those of their Qualinesti brethren. Long years within a safe, settled empire have stratified the varours crafts and tasks into a rigid system of castes, or Houses.
+At the top of the system is House Royal, the descendants of Silvanos who rule the land, Next is House Cleric, once a religious order, but no mainly concerned with keeping records and lore.
+Beneath these two houses are those of the craftsmen and guilds: House Mystic, House Gardener, and House Mason to name a few. The House Protector (the Wildrunners) serves as the army of the Silvanesti.
+~
+
+-1 Qualinesti~
+The Qualinesti are more friendly than the Silvanesti. They have traded more openly with other races and built Pax Tharkas as a joint venture with the dwarves of Thorbardin.
+~
+
+-1 Kagonesti~
+The wilder elves live in the large forests all over Krynn. Kagonesti elves generally are stronger and bigger than their civilized cousins and dislike the hustle and bustle of the big cities, preferring the quiet atmosphere of their forests. The Kagonesti almost perished during the Cataclysm and now call the Ergothian isles their home. The most famous Kagonesti is Kagonos, the first Pathfinder (leader of the Kagonesti), who led the wilder elves away from the council of Sinthal-Elish, thus separating from their Silvanesti cousins.
+~
+
+-1 Dimernesti~
+Dimernesti
+
+
+The sea elves were created during the passage of the Greystone of
+Gargath.  Originally elven mariners with a great love for the sea, their
+race became dwellers of the oceans and it's main civilizing force.  Also
+known as the Shoal Elves, as they inhabit the shallows of many of Ansalon's
+coastline.  They have been few in number ever since the devastation of the
+Cataclysm in which many of their citadels and homes where destoryed.  They
+breathe both air and water and have light bluish skin and webbed fingers. 
+They wear their silver hair long, braided with shells.  They have the
+ability to shapechange into sea otters Long ago, the Dimernesti had a
+partnership with the Silvanesti, allowing elvish Mariners to explore distant
+lands.  Quarrels with the stiff-necked Silvanesti led to a break in all
+communication with the land elves; the House Mariner is a lost guild among
+the Silvanesti.  
+~
+
+-1 Dargonesti~
+Dargonesti
+
+
+The sea elves were created during the passage of the Greystone of
+Gargath.  Originally elven mariners with a great love for the sea, their
+race became dwellers of the oceans and it's main civilizing force.  Also
+known as the Deep Elves, they are the tallest elven race, a slender people
+with large eyes, extended fingers, and deep blue skin.  The Dargonesti have
+the ability to shapechange into the form of a dolphin.  They may also breath
+air.  
+~
+
+-1 Half Elf~
+Half-elves.  Half-elves strongly resemble the racial stock of their elven
+parent, but they generally have facial hair (missing on all other elves) and
+a hair color not consistent with their elven heritage.  They are generally
+more stocky than most elves and, while almost universally handsome or
+beautiful, lack the grace of their elven parentage.  
+~
+
+-1 Hylar~
+The Hylar are generally considered to be the most noble of the dwarves. 
+They also have had the most members of their clan hold the position of the
+High King, which requires the acquisition of the Hammer of Kharas, the most
+famous Hylar next to Derkin Lawgiver.  
+~
+
+-1 Neidar~
+All hill dwarves are grouped into this thanedom.  Defeated by the
+mountain dwarves in the Dwarfgate War, this clan of dwarves lives in the
+hills outside of Thorbardin.  They dislike the confines of the underground
+fortress, but still seek representation on the Council of Thanes.  Neidar
+are generally 'good' dwarves who exhibit none of the Theiwar of Daergar. 
+The most famous Neidar dwarf is Flint Fireforge, Hero of the Lance.  
+~
+
+-1 Aghar~
+The Aghar, or Gully Dwarves, are considered by many to be the most
+repulsive of races on Krynn.  Gully dwarves are the diminutive cousins of
+true dwarves, though they still have a seat on the Council of Thanes in
+Thorbardin.  Their leader, the Highbulp, is the Aghar who is most
+accomplished at grovelling his way out of any given situation.  Terrified of
+any threat, Gully Dwarves are exceptionally hard-headed and stupid (in the
+entire history of the three gully dwarf clans only Bupu - Raistlin Majere's
+charmed friend - and Raf - Tika Waylan Majere's helper at the Inn of the
+Last Home, have had the ability to count up to three).  
+~
+
+-1 Gnome~
+Every gnome has three different names.  One is the gnomes's true name,
+which is actually an extensive history of the gnome's entire family tree. 
+Extending back to the race's creation by Reorx.  The second they use when
+around other gnomes, The name takes merely half a minute to recite and is
+simply a listing of the highlights of the gnome's ancestry.  The next is
+what Humans and other races who deal with gnomes have developed even it
+consists of the first one or tyo syllables of gnomish names.  Which they
+find very undignified, but have learned to live with them.  
+~
+
+-1 Kender~
+Kender are the unique race of krynn.  They are short in appearance and
+have pointy ears.  They are very curious about many things.  They get
+there hands on anything that they aquire.  They claim to have found the
+aquired item and do not see themselves has thieves.  They are excellent
+locksmiths and at birth are normally given their most treasured item, which
+is their lock picking tool set.  Kender are fearless meaning they do not
+fear anything.  They have a strong urge to explore all that they can in
+there lifetime.  They love adventures.  There most useful strategy in combat
+is there skill to taunt there opponent.  Their weapon of choice is the
+hoopak.  They normally get into more trouble than they can deal with.  In
+times of desperation they tend to throw stones at their opponent.  
+~
+
+-1 Minotaur~
+Minotaurs are proud creatures that grow to be very tall and have long
+horns.  They are half human,half cow.  There goal is the destruction of
+every other race, upon krynn for they see them as lesser beings.  Nothing is
+more important to the minotaur than there honor.  The only creatures they
+see with high regard are the knights of solamnia.  When it comes to weapons
+minotaurs wield two handed swords with one hand for they have an intense
+physical strength.  
+~
+
+-1 baaz~
+Baaz occupy the bottom rung on the ladder of draconian social order. 
+They are often abused and treated as slaves by other draconians.  In the
+past, the Baaz could do little to change this situation, so they remained
+aloof from others not of their kind.  However, with the arrival of female
+Baaz, this is beginning to change.  Baaz females are organizers who work
+well in groups.  They are working to change the status of Baaz at large by
+refusing to cooperate with those who abuse them and encouraging the males to
+follow their lead.  
+ 
+Baaz are often encountered prowling through civilized lands in disguise.
+Their size and build is such that they can pass themselves off as human
+by wearing large hoods and masks and concealing their wings under robes.
+Baaz males serve as scouts and spies, while female Baaz are rapidly
+becoming highly prized managers and low-ranking military commanders.
+ 
+Baaz are the physically weakest and most plentiful of all draconians.
+Male Baaz stand between 5 feet and 6 feet in height, with the majority of
+them being on the short side. Female Baaz tend to be lighter in build 
+than males. 
+ 
+Death Throe: On the round that a Baaz reaches 0 or fewer hit points, his 
+body turns to stone. The creature struck the deathblow must roll a save 
+or have his weapon fused to the draconian. The Baaz "statue" crumbles to
+dust after 1d4 minutes. Items carried by the Baaz are unaffected by the
+petrification and subsequent dissolution. Any stuck weapons can be 
+retrieved after the Baaz crumbles away. The "statue" crumbles to dust 
+1d4 minutes.
+ 
+Glide: A Baaz can use his wings to glide, negating any damage from a fall
+of any height and allowing him to travel horizontally up to four times
+the vertical distance descended.
+~
+
+-1 kapak~
+Kapaks are the backbone of draconian fighting forces.  They are fierce
+warriors who possess an inherent love of battle.  However, they also excel
+at performing quiet missions of sabotage and assassination.  Male Kapaks
+stand between 6 and 7 feet tall.  Kapak females are a little shorter,
+standing about 5 1/2 feet in height.  Both are powerfully muscled.  
+ 
+Neither male nor female Kapaks show any aptitude toward original 
+thinking, nor are they very perceptive. This makes them better followers
+than leaders. Another kind of draconian or a leader of a different 
+species usually leads Kapak forces.
+ 
+Poison: Bite or blade; save negates with a +2 bonus. Their poison causes 
+paralysis, lasting 2d6 minutes. Only male Kapaks have venomous saliva. 
+Before entering combat, male Kapaks often lick the blades of their 
+swords. The poison remains on the blade for 3 rounds. 
+ 
+Healing Saliva: The Saliva of female Kapaks cures wounds. If a female
+Kapak licks a wound within 10 rounds of the injury the wounded creature
+regains 2d6 hit points. The healing properties work especially well on 
+draconians, curing 3d6 hit points. The saliva of a female Kapak does not
+heal when delivered by her bite.
+ 
+Death Throe: On the round that a Kapak reaches 0 or fewer hit points his
+body instantly dissolves into a 5-foot radius pool of acid. All within
+this area suffer 1d6 points of acid damage each round they remain in the
+pool. The acid evaporates in 1d6 rounds. All items the Kapak was carrying
+are rendered useless by the acid.
+~
+
+-1 sivak~
+Sivaks are the most powerful of the commonly encountered draconians. 
+Both male and female Sivaks serve as elite warriors and infiltrators who are
+highly sought after by evil leaders and other draconians.  The males ability
+to perform covert operations is aided by their shapeshifting ability.  The
+males stand close to 9 feet tall.  Females are between 6 and 7 feet tall. 
+They are the only draconians that can truly fly.  
+ 
+Both sexes prefer to wield large, ornate bastard swords. Sivaks tails
+are long (for draconians), and they often use them in combat to knock 
+foes off balance. If unarmed, they will make use of their sharp claws and
+teeth.
+ 
+Trip: As a standard action, a Sivak can use his tail to make a trip 
+attack (+3 attack bonus)
+
+Shapeshift: A male Sivak is capable of assuming the form of a humanoid of
+his own size or smaller at the moment he kills it. The Sivak does not
+gain the memories, skills, or spell use of its victim, but his appearance
+and voice is an exact match to its victims. The Sivak can change back to
+his normal shape, but after doing so cannot shapeshift again without
+killing another humanoid. 
+ 
+Blend: Sivak females cannot shapeshift like male Sivaks. Instead, they
+have a chameleon like ability to blend in with their surroundings. This
+works just like a robe of blending, giving the Sivak a large bonus to her
+hiding attempts and allowing her to change self at will.  
+
+Male Death Throe: A male Sivak changes shape when slain, assuming the
+form of the being that killed it. This death shape lasts for three days,
+and then the entire body decomposes into black soot. If the Sivaks
+slayer is larger than the Sivak or not humanoid, the Sivak instead bursts
+into flame, dealing 2d4 points of fire damage to all within a 10-foot
+radius (save negates). 
+ 
+Female Death Throe: Female Sivaks do not assume the form of those who
+kill them. Instead, they burst into flames when killed, dealing 2d4
+points of fire damage to all within a 10-foot radius (save negates).
+~
+
+-1 bozak~
+Bozaks are intensely spiritual beings.  They sometimes organize religious
+services.  Others have turned their need to believe in something to
+believing in draconians themselves.  This has strengthened their already
+considerable leadership abilities.
+ 
+Bozaks display no gender differentiation in height and build. They stand
+between 6 feet and 6  feet tall. Both sexes have keen organizational
+abilities. Males have served as leaders in draconian military units since 
+the War of the Lance.
+ 
+Bozaks of both sexes are cruel and cunning warriors who only rarely spare 
+the lives of opponents. 
+ 
+Bozaks are natural sorcerers. They can master the mystic arts with only
+minimal instruction while young. The average Bozak casts spells as a
+skilled sorcerer. Few females advance beyond this level, while males have
+been known to advance much higher.
+ 
+Death Throe: On the round that a Bozak reaches 0 or fewer hit points, his 
+scaly flesh shrivels and crumbles from his bones in a cloud of dust. Then 
+the bones explode, dealing 1d6 points of damage to all within a 10-foot 
+radius. A save negates this damage. 
+ 
+Glide (Ex): A Bozak can use his wings to glide, negating any damage from
+a fall of any height and allowing him to travel horizontally up to four 
+times the vertical distance descended.
+~
+
+-1 aurak~
+Auraks are the most innately powerful of all draconians.  They are also
+the rarest.  They often work as special agents and enforcers.  They are
+arrogant, self-absorbed, and view themselves as superior to all creatures
+except dragons and the Dark Queen herself.  Aurak males are about 7 feet
+tall, while females are slightly shorter.  They are the only wingless
+draconians.  
+ 
+Aurak Combat Auraks hardly ever use their natural weapons in combat,
+preferring instead to rely on their ability to generate rays of fire
+energy from each of their hands. These rays can strike targets up to 60
+feet distant. When using change self, Auraks appear to be using a weapon
+appropriate to their form, but they are really attacking with their rays.
+ 
+Breath Weapon: Three times a day Auraks can breathe a noxious cloud
+(5-foot cone). Victims caught in the cloud are dealt damage and blinded
+for 1d4 minutes unless they save.  Those who save still take damage, but
+it is halved.
+ 
+Spell-like Abilities: Auraks can change self three times per day to
+resemble any individual human or humanoid and to perfectly imitate its
+voice. This effect only lasts for 2d6+6 minutes.
+ 
+Up to three times per day, Auraks can perform limited short-range 
+teleportation. This ability functions exactly like the dimension door
+spell except that it has a range limited to 60 feet and Auraks can only
+transport themselves and their equipment.
+ 
+Auraks can turn invisible (as the spell) up to once every 10 minutes. The
+use of their mind control ability on another does not make them visible.
+ 
+Mind Control: An Auraks most insidious power is the ability to affect 
+the minds of others. Auraks can use suggestion once every 10 minutes at
+will. Once per day, they can also mind control one creature for 2d6
+rounds (requires concentration). The draconian controls the actions of
+the subject as if the subjects body where his own. The target of a mind 
+control must succeed a save to avoid being controlled. The save is only 
+rolled as the draconian attempts to take control of the target. 
+ 
+Death Throe: On the round that an Aurak reaches 0 or fewer hit points,
+its flesh transforms into eerie green flames. The Aurak enters a fighting 
+frenzy that grants him a +2 bonus to all attack rolls and saving throws.
+Anyone adjacent to the draconian that attacks it in melee takes of fire
+damage each round from the flames. Six rounds later or when the Aurak 
+reaches -10 hit points, it transforms into a whizzing ball of lightning
+that strikes with an attack bonus of +7 and deals 2d6 points of
+electricity damage to those struck. After three rounds of lightning 
+attacks, it explodes with a thunderous boom, stunning all within 10 feet 
+for 1d4 rounds (2d4 if underwater) and dealing 3d6 points of sonic damage
+to all within 10 feet. A successful save negates the stunning effect. The 
+explosion destroys any items carried by the draconian. 
+ 
+Keen Senses: Auraks senses are so fine that they have low-light vision 
+and can detect hidden and invisible creatures within a 40-foot radius.
+They can also see through all illusions. 
+~
+
+-1 ogre~
+Ogres can be anywhere from 7 feet to 10 feet tall (as an adult), and 
+aren't very nice to look at.  Most have boils, warts and various scars
+covering their body.  The only good thing you could say about ogres is they
+aren't very bright.  But unfortunately they have a rather nasty temper. 
+Ogres can choose any class, but with their relatively low stats (except for
+strength).. it may be a harder task teaching an ogre to do anything other
+than to fight.
+~
+
+-1 hobgoblins~
+Hobgoblins are basically bigger and naster than their cousins.  They usually
+stand 6 1/2 feet tall and are rather hairy.  The race is very military-
+orientated.  Strength and battle zeal go a long way for them and it
+shows.  They make the best fighters and mercenaries because of their skills.
+~
+
+-1 goblins~
+Goblins are notorious for being crafty and fiendish.  While they don't
+possess much brains, they make up for it with tricks and sheer numbers when
+they band together.  Goblins are short creatures, ususally standing around 5
+feet tall, their long arms almost drag on the ground.  They have pointed
+ears, broad noses and flat faces.  Goblins make better fighters than
+anything due to their low intelligence score, but a goblin mage or cleric
+isn't unknown to the world.
+~
+
+-1 Ranger~
+Rangers are the protectors of the forests, they don't feel at home in any
+other environment, and some of their skills may not work in other places. 
+Many elves become rangers, to better protect their forests.  
+~
+
+0 SOCIALS~
+This is a complete list of socials for this MUD:
+Compiled originally by: Sara
+accuse       adjust      air          apologize     applaud     babble
+bark         bcatch      beckon       beer          bearhug     beg
+bird         bkiss       bleed        blink         blush       boast
+boggle       bonk        bounce       bow           brb         burp
+cackle       caress      charge       cheer         chuckle     clap
+claw         collapse    comfort      comb          cough       cover
+cower        cringe      criticize    cry           cuddle      curse
+curtsey      dance       daydream     drool         duck        embrace
+explode      eyebrow     faint        fart          flare       flash
+flex         flinch      flip         flirt         flutter     fondle
+french       frown       fume         gasp          giggle      glare
+goose        grimace     grin         groan         grope       grovel
+growl        grumble     hand         head          hiccup      highfive
+hop          howl        hug          hush          ignore      innocent
+insane       judge       kiss         knee          laugh       lick
+love         lust        massage      meditate      moan        moon
+mosh         mutter      nibble       nod           nudge       nuzzle
+pant         passout     pat          peck          pie         pinch
+pissed       plead       point        poke          ponder      pout
+pray         propose     puke         punch         purr        ramble
+raspberry    rofl        roll         rub           ruffle      run
+scratch      scream      serenade     shake         shiver      shrug
+sigh         sing        slap         slobber       smile       smirk
+snap         snarl       sneeze       snicker       sniff       snore
+snort        snowball    snuggle      sob           spam        spank
+spit         squeal      squeeze      squirm        stare       stretch
+strip        stroke      strut        sulk          swoon       tackle
+tease        thank       threaten     tickle        tip         tongue
+twiddle      type        undress      view          wave        whine
+whistle      wiggle      wince        wink          wonder      worry
+worship      yawn        yeehaw       yodel         rose	    laces
+tank	       starve	 aargh	  homework	    puff	    differ
+yae	       lightbulb   voodoo       ogg	          confused    beam
+bite	       discodance  scuff        whap	    lag	    chortle
+zerbert      twitch	 lol
+~
+
+0 GREETING~
+{x
+{x{wWelcome to:  {x{YLegends of the Lance{x
+{x
+{x                                  (`-.
+{x     /)         ,   '--.           \    `
+{x    //     , '          \/          \   `   `   
+{x   //    ,'              ./         /\    \>- `   ,----------.
+{x  ( \  ,'    .-.-,_        /      ,' /\    \   . `            `.
+{x   \ \'     />--< .)       ./   ,'  /  \     .      `           `.
+{x    \ `   -(/    \ .)        / /   / ,' \       `     `-----.     \
+{x    <\      )     ).:)       ./   /,' ,' \        `.  /\)    `.    \
+{x     >^,  //     /..:)       /   //--'    \         `(         )    )
+{x      | ,'/     /. .:)      /   (/         \          \       /    /
+{x      ( |(_    (...::)     (                \       .-.\     /   ,'
+{x      (O| /     \:.::)                      /\    ,'   \)   /  ,'
+{x       \|/      /`.:::)                   ,/  \  /         (  /
+{x               /  /`,.:)                ,'/    )/           \ \
+{x             ,' ,'.'  `:>-._._________,<;'    (/            (,'
+{x           ,'  /  |     `^-^--^--^-^-^-'
+{x .--------'   /   |
+{x(       .----'    | Head Honchos are: {GZivilyn{x and {BShinare{x.
+{x \ <`.  \         |
+{x  \ \ `. \        |   {cROM Version 2.4 beta
+{x   \ \  `.`.      |{cOriginal DikuMUD by Hans Staerfeldt, Katja Nyboe,
+{x    \ \   `.`.    |{cTom Madsen, Michael Seifert, and Sebastian Hammer
+{x     \ \    `.`.  |{cBased on MERC 2.1 code by Hatchet, Furey, and Kahn
+{x      \ \     `.`.|{cROM 2.4 copyright (c) 1993-1998 Russ Taylor
+{x       \ \      `.`.
+{x        \ \     ,^-'       {WPlease be sure to choose a name that{x
+{x         \ \    |          {Wfits with the Medieval/Fantasy setting{x
+{x          \ \   |          {Wthat we as a DRAGONLANCE mud are in.{x
+{x           `.`. |          {WMake sure it's a name your mother could{x 
+{x             `._)          {Wcall you{x.
+{x                           
+{x                           
+{x
+What is {Wthy {Dname {Yadventurer?{x ~
+
+0 MOTD~
+{BWelcome to the Builder Port of Legends of the Lance.  If you don't
+belong here, you should leave before you get caught - Hiddukel is an ass,
+and will probably punish you.  {x 
+~
+
+102 IMOTD~
+{WWelcome Immortal!{x
+ 
+{WPlaytesting has been completed - New building rules released!
+{R HELP BUILDING {Wwill detail these rules and changes - all builders are 
+required to read, study, and follow these helps.
+{x
+{CNote Hiddukel if you need help with anything, or if you need a new area.
+{R And, don't forget to post a report every week before sunday to {YHiddukel{R.{x
+~
+
+-1 Paladine~
+{WPaladine{x {/{/ Paladine is the chief of the gods of good and patron of the
+Knights of Solamnia, specifically those of the Order of the Rose.  He
+influences order, hope, light, rulership and guardianship.  His colors are
+silver and white.  Spheres of influence include law, wards, thought and war.
+Paladine's avatars are the muddled old wizard Fizban the Fabulous and a
+platinum dragon.  
+~
+
+-1 Branchala~
+{WBranchala{x{/{/ Before the world was created, Branchala was a companion
+to Habbakuk.  Branchala followed his friend so that he too could help forge
+worlds.  His music is that of the souls of all who life.  It is said that
+his music resides in us all and that all hearts beat to its unknown melody. 
+~
+
+-1 Habbakuk~
+{WHabbakuk{x{/{/ Habbakuk is the god of animal life and the sea.  His
+skills of the wild and belief in te harmony with nature constitute a
+peacefull teaching.  He is seen as a symbol of eternal life beyond the world
+and a strong enforcer of natural justice.  Habbakuk is the twin brother of
+Kiri-Jolith.  With his brother and father, Paladine, he helped form the
+Knights of Solamnia.  
+~
+
+-1 Solinari~
+{WSolinari{x{/{/ The son of Paladine, Solinari is the master of good
+magic.  He spins through the sky over the world and keeps his watchful eye
+on all magic.  Along with Lunitari and Nuitari, he did not join their fellow
+gods in the heavens, but chose to stay close to the world.  He founded the
+Good Order of Sorcery, the White Robes.  
+~
+
+-1 Mishakal~
+{WMishakal{x{/{/ Mishakal is Paladine's consort and mother of Habbakuk,
+Kiri-Jolith and Solinari.  Mishakal influences healing, knowledge,
+fertility, life, beauty and blessing.  Her color is any shade of blue; in
+her avatar form, she enhances the natural blues of objects around her. 
+Mishakal influences the spheres of numbers, thought; travelers and wards.  
+~
+
+-1 Majere~
+{WMajere{x{/{/ Majere is the patron of organization and industry.  He
+influences meditation, control, thought, faith, mercy and inspiration.  His
+colors are copper and red, while his spheres of influence are law, thought,
+time and wards.  
+~
+
+-1 Kiri Jolith~
+{WKiri-Jolith{x
+
+Kiri-Jolith is the war god of good.  He is the favorite god of paladins
+and good-aligned fighters.  His constellation threatens the Queen of
+Darkness in the night sky.  Kiri-Jolith is the son of Paladine and Mishakal,
+but he is their peer in ability.  His twin brother is Habbakuk.  He
+influences war, battle, courage and heroism.  Colors are brown and white. 
+Kiri-Jolith's spheres are law, war and wards.  He is also the patron of
+Solamnic Knights of the Sword.  
+~
+
+-1 Gilean~
+{w{RGilean{x{x{/{/ Gilean is the patron god of knowledge, guarding the Tobril
+from all other eyes.  Gilean seeks to keep the forces of good and evil in
+balance and allies himself with whichever side is most powerful at that
+time.  Gilean influences knowledge and his color is gray.  Spheres of
+influence include numbers, time, thought and wards.  
+~
+
+-1 Chislev~
+{RChislev{x{/{/ Chislev is nature.  She is the earth itself.  All animals
+and plants of Krynn worship her.  She dislikes industry, and as such,
+influences nature, wilds, beasts.  Her colors are brown, yellow and green. 
+Spheres of influence include time and chaos.  
+~
+
+-1 Reorx~
+{RReorx{x{/{/ Reorx is the patron god of dwarves and their industry, as
+well as the creator of the Graygem.  Reorx influences dwarves, weapons,
+mining, smithing and technology.  He prefers the colors of slate gray and
+red.  Spheres of influence include law, war, thought and wards.  
+~
+
+-1 Zivilyn~
+{RZivilyn{x{/{/ Several scholars have even proposed that the ageless
+Astinus of Palanthas is a branch of Zivilyn.  After all, Zivilyn may
+maintain several avatars at one time, and Astinus may be one of them.  In
+whatever form, Zivilyn wields a simple wooden cane that obey s any command
+it is given.  Zivilyn, god of all wisdom, is the celestial Tree of Life. 
+His branches and roots extend into all times and places.  Much as Gilean
+holds the knowledge of the universe, Zivilyn holds its wisdom.  He acts not
+according to the dictates of his mind, but according to those of his heart. 
+Because wisdom is incomplete without knowledge and knowledge is incomplete
+without wisdom, Zivilyn and Gilean work closely together.  Zivilyn is the
+companion of Chislev; most mortals view this relationship as a perfect
+marriage.  
+~
+
+-1 Sirrion~
+{RSirrion{x{/{/ Sirrion is the god of fire; he influences flames of any
+sizefrom a candle to the sun.  His companion in the celestial world is
+Shinare.  In addition to flame, Sirrion influences natural power, change and
+transformation.  His colors are bright reds & yellows and his spheres of
+influence include chaos and numbers.  
+~
+
+-1 Shinare~
+{RShinare{x{/{/ Shinare is the goddess of wealth, money, and industry. 
+She is the favorite god of the dwarves, and is the patron god of merchants
+and commerce.  Her companion is Sirrion, whose fondness for nature often
+runs against Shinare's desire for progress.  
+~
+
+-1 Lunitari~
+{RLunitari{x{/{/ The sole daughter of Gilean, Lunitari is the god of
+neutral magic.  She spins through the sky over the world and keeps a
+watchful eye on the balance of magical power throughout the world.  Along
+with Solinari and Nuitari, she chose to stay close to the world and foster
+the growth of magic within.  Lunitari founded the Neutral Order of Sorcery,
+the Red Robes.  
+~
+
+-1 Takhisis~
+{DTakhisis{x{/{/ Takhisis was Paladine's consort in the Age of Dreams,
+but she left him when things did not go to her liking.  Patron of the
+Knights of Takhisis and all that is evil or corrupt, Takhisis influences
+night, hatred, intrigue and chaos; her color is either a shiny or dark black
+and her spheres of influence include chaos, time, war and wards.  Takhisis
+led the shadows from Beyond and brought them to aid in the creation of this
+cosmos.  Her deeds have ever since been a constant struggle to assert her
+rule over all creation.  It is, in her view, only right and just that this
+be so.  Sargonnas has been her consort since before the beginning of all
+things.  Takhisis can appear in any form she wishes and often takes on a
+disguise.  She is most often seen as either a five-headed chromatic dragon,
+or as a beautiful temptress, equally deadly in either form.  
+~
+
+-1 Nuitari~
+{DNuitari{x{/{/ The twin brother of Zeboim, and son of Takhisis and
+Sargonnas.  Nuitari left the ranks of Evil to join with the other two gods
+of magic, Solinari and Lunitari, in the forging of the Orders of Sorcery. 
+Nuitari is the god of Black or Evil Magic.  
+~
+
+-1 Chemosh~
+{DChemosh{x{/{/ Chemosh is the patron of all undead.  Any such creatures
+are his minions, increasing his strength on Krynn.  Chemosh influences
+ravagers, undead and people's nemeses.  His colors are black and blood red. 
+Spheres of influence are time, numbers and thought.  
+~
+
+-1 Sargonnas~
+{DSargonnas{x{/{/ Takhisis's brooding consort is an explosive personality
+who plots against her about as often as he works with her.  Sargonnas
+influences vengeance, destruction, intrigue, volcanoes, fire and deserts. 
+His colors are red and black.  Spheres of influence include chaos, thought;
+numbers and war.  
+~
+
+-1 Hiddukel~
+{DHiddukel{x{/{/ Hiddukel is a deal maker who trades in souls.  It is
+said that he is the only being who can barter with the Queen of Darkness and
+come out ahead.  He controls all ill-gotten wealth in the world, which he
+uses to corrupt greedy men.  He is the patron of evil busniess-men, and
+thieves.  
+~
+
+-1 Morgion~
+{DMorgion{x{/{/ The god of disease, decay, plague, weakness and plotting
+is Morgion.  He despises all that is healthy, attempting to destroy or
+corrupt them.  His colors are deep brown and black.  
+~
+
+-1 Zeboim~
+{DZeb{Boim{x
+ 
+Also known as the Sea Queen, Zeboim is the daughter of Takhisis. Impetuous, manicdepressive, and constanyly swinging to the edges of the emotional spectrum
+ She is the most temperamental of the gods and by far the most dangerous to deal with. She is the queen of tempests and weather. Those seamen who attempt to placate her may occasinally avoid her rage, but as often as not they manage to displease her 
+in some way. Many have been the tales of those seamne how have somehow mistakenly offended Zeboim and were brought to their tragic ends by her.
+~
+
+0 Timmy's Guide to Rolyplaying~
+General: 
+ 
+(1) Get persmission form those you are RPing with. Never do anything in an RP with someone that will knowingly  bring about consequences that those rping with you are not prepared to face. Remember an RP is all about sharing not showing off. 
+ 
+(2) Share the RP. This is what its all about. Share the RP stage with those around you. An RP is never good unless all the people involved are having fun. Don't hog 
+it we all have things to say but if you don't allow other players to get a word or action in because your hoging the RP lime light no one wil want to RP with you.
+ 
+(3) "Yes And!" This is a concept that was taught to me for usage of improvisational acting in Renaissance Festivals. The concept is by far one of the greatest acting tools I have ever learned. When applied to MUDing it simply put as such... if 
+someone tells you somethnig in an RP you accept it and add to it. Whenever possible do not negate that person even if there not always right. Once the orginal idea is out there its there don't negate in an RP its not a good way to share. 
+ 
+Reguarding the creation and general aspects of your character: 
+ 
+(4) don't create goofy names... it hurts the character and most importantly the rest of the MUD. Arguably to goblins, ogres, kenders and such this doesn't always apply. 
+ 
+5) Flaws! Flaws! Flaws! If your characters never screw up then they will never better themselves. A character is generally only as interesting as his flaws and should have no less half that of his merits. Plus they add depth to the character. 
+For an example of a severe character flaw adding to RP let us say you are plying a ruggid mercenary and as a young man you took on a bounty that was too much for you to handle and as a consequence you lost a hand. Now the character forced himself to 
+learn how to fight without a hand and now hasa nub also he on;y takes of bounty he nows he can collect on hus also affecting the RP. With that same scenerio a 
+restring could be used to have a weapon changed to a scrred nub, for rp reasons or if your more priatesc a metal hook. 
+ 
+6) Whenever possible tie in your RP background (with permsission) with other character it paints a better picture for the MUD your playing on if two characters who grew up in the same city know each other or have a past that intertwines.
+ 
+(7) don't God R/ becoem a munchkin. Munchkin/God RPers are those who try and control the RP who do not share and who make their characters uber powerful without properly building the character over time. This abuses rp and creates a negative
+envirement for all those who RP around you. Don't Do It.
+ 
+ 
+~
+
+0 Builder~
+Builders-The Next Frontier, Builders are the back bone of any large mud
+world.  This is no different here.  Where the builders have the option on
+what they build or suggestions on what goes in.  Not every builder is able
+to choose what he or she builds, at first We will tell you what goes in by
+you.  Then when you've proven your skills you get choices and so on.  
+ 
+{WCurrent Head Builder is {yHiddukel{x.
+
+{CCoders, you are most welcome here. I wish to extend to you,
+The chance to join our team.{x
+~
+
+102 JOBS~
+Level 102-105 (inclusive) Builders Your main job is to be building area's
+for the mud.  For the most part quests are not your worry.  You can run them
+just get permission from a questor or higher up before you do.  As well it
+is not your job to be enforcing the rules on the mortals.  You are REQUIRED
+to build at lest 10 rooms a week and post a weekly repot by 6pm Central 
+time EVERY Saturday.  The update will include what area you are working 
+on, any problems you are having with it what you acomplished and an 
+estimated time of completion.  These are to be posted to {W?{x on 
+the builder port every sunday by 6pm central time.  
+
+Level 106-107 (inclusive) Questors 
+
+Your main role is the running of quests and the monitoring of the rp on the mud.
+All rps that are more complex should be brought to the head quester for approval.
+Do not approve anything without first speaking to the head quester. He/she has final
+say in this matter. Problems on the level of rp are handled by this department, however
+should you encounter a problem that is more then just of an abusive rp, contact the imps.
+It is their job to handle rule enforcement that isn't the quester department's job.  At the
+moment the head questor is Gilean.  
+
+Level 108 Gods Your main job is
+enforcing the rules and making sure everything on the mud runs smoothly. 
+AFter that your main purpose is aiding other IMM's and doing what you did
+before you rised to the rank of god be that building or questing.  The same
+building rules apply to you as they do to normal builders.  
+
+Level 109 and 110 IMPs They are the IMP's need I say more?  As an Immortal 
+you are expected to be on as your immortal whenever you have a mortal on 
+the mud. Failure to do your job in any sense is grounds for immediate dismissal as an
+immortal.  But most of all try and have fun as your immortal and rp them
+whenever you can, its great fun.  
+~
+
+0 PKILL PKILLING PKILLER 'PLAYER KILLING' PSTEAL PSTEALING 'PLAYER STEALING'~
+killing and player stealing are allowed to all players with
+{C[{RPK{C]{x provided the victim is is within 15 levels of the character. 
+If done in a law/safe area.  This will flag you as a "killer", allowing any
+Character to attack, and also provoking action from the city guard.  {RALL
+PKS OR PK ATTEMPTS MUST BE ROLE PLAYED{x We now Have nopk which looks like
+this, {C[{BNP{C]{x.  These people are {BNot Player Killers{x.  {GJailing:{x
+Each clan may only jail one person per week (a calendar week, starting on
+sunday).  To jail someone you must dice against an immortal and win.  (6
+sided dice) {CWhining: If you WHINE about pk, you get your notes and
+channels removed.  {x {RBecause of a Lack of Rping pk's PK MUST NOW BE RP'ED
+AND STORYED WITHING 30 MINUTES.  {WPK protectionis in effect on lance.  24
+hours of protection.  You cannot pk the same person more then once a day. 
+{x Failure to abide by this rule is grounds for deletion.  Group PK is
+permitted, However, the 3 item loot rule applies to this.  You may take 3
+pieces and no more, in the event of this clause in the pk rule, will result
+in immediate rewriting of the rule and more restrictive measures being
+taken.  This part has been revised, and will be monitored.  Failure to read
+and abide by these rules is grounds for immediate disciplinary action. 
+{RINVAILD REASONS FOR A PK{x
+{M 1. {WI felt like it. {RThis will get you nuked be real{x.
+ {M2. {WHe looked at me wrong.
+ {M3. {WI wanted to. (refer to number 2){x. 
+ {M4. {WHe called me a bad names on ooc. (ooc is out of character. there for keep 
+     it player to player and take it to aim or icq or msn or whatever or. arena it){x
+{M5. {WHe might have had something I wanted. Either you know he does or don't do it, since pk is ic, you'd have too icly take it.{x
+~
+
+102 COMMANDMENTS LAWS 'GOD RULES' GODS~
+.
+                         **********************
+ 
+1)  Do not kill mortals, do not kill mortals, do not kill mortals.
+    This includes transferring/summoning them to aggressive mobs.
+ 
+2)  Do not cheat for ANY mortal in ANY way, especially your own. 
+    Unless of course you LIKE deletion. Yes this includes tanking,
+    healing/restoring, casting protection spells <armor, sanct>,    
+    and softening up or altering mobs.
+ 
+3)  Do not transfer or summon mobs to mortals or mortals to mobs.
+    They have legs, if they want to kill a mob, they can easilly
+    go there themselves.
+ 
+4)  DO NOT kill the shopkeepers for any reason at ALL.
+ 
+5)  DO NOT use reboot.  <--- Note, simple English.
+
+6)  A note on quests: Quests are a good thing, more or less, BUT 
+    do not give out overly extravagant prizes.  Exercise some 
+    common sense here folks.  Do not load items more than 4 levels
+    below their normal level (i.e. no level 5 ogre gauntlets).
+ 
+7)  Do not undermine the authority of a higher level god.  If you 
+    see that someone has been frozen or nochannelled do not restore
+    their priveleges.  They are being punished for a reason.
+ 
+8)  Do not try to overrule each other.  
+ 
+9) Trusted mortals:  Do not use your god powers to help your mortal
+    character.  If you do, your trust will be taken away.
+
+~
+
+0 RULES~
+{CThese are the rules of LANCE.  For other matters, use common sense{x.
+
+* {RLimited player stealing or player killing{x.
+
+*{C Your presence here is a privilege not a right. Obey any orders from 
+    gods, and you will be fine.  Deletion does not require a reason, 
+    appeals are to be sent to the implementors{x.
+ 
+* {DSitting around idle with a client is hazardous to your health. If we 
+    catch you doing it, you will lose half your playing time{x.
+
+* {MNo multiple logins, multiple playing, or helping your own characters 
+   with other characters you own -- by any arrangment{x.
+ 
+* {RCheating {Gwill not be tolerated.  This includes accepting unwarranted 
+    favors from gods and exploiting bugs. If you find a bug, report it, then do not 
+    use it{x.
+
+* {YChanges to these rules are at the discretion of the implementors, and may 
+   be done without warning, notice, or even evidence of sanity. 
+ 
+{G*{wThe imms of this mud try their best to be fair if you happen to anger 
+      them enough to take action you can get you have totally went way to
+      far and have given up the privilege to be here.
+ 
+ {G* {RNO ADVERTISING, if caught advertising for any mud here you will be deleted, 
+       and prolly banned if you want to advertise use icq or aim, KEEP IT OFF OUR MUD!{x
+ 
+  *Alt-revealing is illegal, people are entitled to their privacy and the right to keep what other characters they have secret, revealing alts can lead to penalties, consider yourself WARNED.
+ 
+{g*{x No swearing {Rat other players{x, ethnic slurs, prejudiced comments, anything detrimental to an
+      other player on the OOC channel, period.
+ 
+{W*{D No pkilling a player who has their {x({GRP{x){D flag on on the wholist. If the rp flag is abused to avoid pk, you will be punished.
+{B*{x {bClan eq is only for members of a clan, if someone who has clan eq is not a member of the clan, and is not dual clanned, it can be punishable by slay/eat.
+~
+
+102 {gDirections{x~
+The city in parenthesis is the city that you dock to.  Note that these
+directions do not count for doors, etc, and only take you to the first room
+of an area, not the "Plaza" or "Town Square".  
+ 
+~
+
+-1 $~
+
+#$

@@ -1,0 +1,372 @@
+#AREADATA
+Name Limbo~
+Builders None~
+Range 0 0
+VNUMs 1 25
+Credits {None } Diku    Limbo~
+Security 9
+End
+
+
+
+#MOBILES
+#1
+golem~
+A Golem~
+A golem stands here.
+~
+~
+human~
+A 0 0 0 0 0
+20 20 6d40+240 20d10+100 5d6+11 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#2
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+Ae 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4
+ferrymaster~
+The Ferrymaster~
+The ferrymaster stands here, ready to take you where you wish.
+~
+This man awaits you to speak your destination, so he can whisk you away!  
+~
+human~
+AB CD e 0 0 0
+150 150 10d450+6750 150d10+100 13d14+89 beating
+-26 -26 -26 -25
+0 0 0 0
+stand stand male 0
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#5
+{]~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0 1d1+0 1d1+0 1d1+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#1
+coin gold gcash~
+a {ygold{x coin~
+One miserable {ygold{x coin.~
+gold~
+money 0 A
+0
+A 0 0 0 0
+0 10 0 P
+#2
+coin steel gcash~
+a {csteel{x coin~
+One valuable {csteel{x coin.~
+steel~
+money 0 A
+0
+0 A 0 0 0
+0 10 0 P
+#3
+coins steel gcash~
+%d {csteel{x coins~
+A pile of {csteel{x coins.~
+steel~
+money 0 A
+0
+0 0 0 0 0
+0 10 0 P
+#4
+coins gold gcash~
+%d {ygold{x coins~
+A pile of {ygold{x coins.~
+gold~
+money 0 A
+0
+0 0 0 0 0
+0 10 0 P
+#5
+coins silver gold gcash~
+%d {ygold{x coins and %d {csteel{x coins~
+A pile of {cc{yo{ci{yn{cs{x.~
+steel~
+money 0 A
+0
+0 0 0 0 0
+0 10 0 P
+#6
+Rose~
+a {rRed{x {WRose{x~
+A long-stemmed {rred rose{x lies here.~
+unknown~
+gem A AO
+0
+0 0 0 0 0
+0 1 0 P
+#7
+blood1~
+a pool of blood~
+A small pool of {rblood{x lies here.~
+unknown~
+fountain O P
+0
+0 0 'blood' 0 0
+0 0 0 P
+#8
+blood2~
+a large pool of blood~
+A large pool of {Rblood{x lies here.~
+unknown~
+fountain O P
+0
+0 0 'blood' 0 0
+0 0 0 P
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+npc_corpse 0 A
+0
+0 0 0 A 0
+0 1000 0 D
+#11
+pccorpse corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+pc_corpse O A
+0
+0 0 0 A 0
+0 1000 0 D
+#12
+head~
+the head of %s~
+The {rsevered{x head of %s is lying here.~
+meat~
+trash 0 A
+0
+0 0 0 0 0
+0 50 0 D
+#13
+heart~
+the heart of %s~
+The {rtorn-out heart{x of %s is lying here.~
+meat~
+food 0 A
+0
+E E 0 0 0
+0 20 0 D
+#14
+arm~
+the arm of %s~
+The {rsliced-off {Darm{x of %s is lying here.~
+meat~
+food 0 A
+0
+CE CE 0 0 0
+0 50 0 D
+#15
+leg~
+the leg of %s~
+A {csteaming{x pile of %s's {yentrails{x is lying here.~
+meat~
+food 0 A
+0
+CE CE 0 0 0
+0 50 0 D
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+meat~
+food 0 A
+0
+AC AC 0 A 0
+0 20 0 D
+#17
+brains brain~
+the brains of %s~
+The {rsplattered {ybrains{x of %s are lying here.~
+meat~
+food 0 A
+0
+BD BD 0 0 0
+0 20 0 D
+#19
+safe token safetoken~
+safe token~
+A valuable safe token lies here.~
+unknown~
+trash 0 AO
+0
+0 0 0 0 0
+0 0 100000 P
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic {ymushroom{x is here.~
+food~
+food 0 A
+0
+D D 0 0 0
+0 10 0 P
+#21
+ball light~
+a {ybright{x ball of {ylight{x~
+A {ybright{x ball of {ylight{x shimmers in the air.~
+energy~
+light A A
+0
+0 0 ABCFGHIJ 0 0
+0 0 0 P
+#22
+spring~
+a {cmagical{x spring~
+A {cmagical spring{x flows from the ground here.~
+water~
+fountain G 0
+0
+100000 100000 'water' 0 0
+0 0 0 P
+#23
+disc disk floating black~
+a {Dfloating{x disc~
+A {Dfloating black disc{x hangs in the air.~
+energy~
+container GMPUYZ AQ
+0
+0 E 0 0 0
+0 0 0 P
+#24
+safe container %s~
+safe container for %s~
+You shouldn't be seeing this.~
+unknown~
+container 0 0
+0
+1000 0 0 1000 0
+0 0 0 P
+#25
+gate portal~
+a {Ds{Ch{Di{Cm{Dm{Ce{Dr{Ci{Dn{Cg{D gate{x~
+A {Ds{Ch{Di{Cm{Dm{Ce{Dr{Ci{Dn{Cg{D Black gate{x rises from the ground, leading to parts unknown.~
+shadow~
+portal GOT 0
+0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+You are floating in nothing.
+~
+~
+0 12 1
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+~
+0 12 1
+S
+#3
+Temp room DO NOT DELETE~
+~
+~
+0 4 0
+S
+#4
+The ferry~
+This ferry will take you to the following destinations:{/Flotsam{/Sanction{/Daltigoth{/Solace{/Neraka{/Sancrist{/Silvamori{/Palanthas
+Caergoth
+Vingaard
+Silvanost
+Vingaard
+Kalaman
+~
+~
+0 7603204 0
+S
+#5
+~
+~
+~
+0 7341061 0
+S
+#6
+~
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#1
+~
+#4
+mob transfer $n 4
+mob echo $n has been whisked away to the ferry.
+~
+#5
+mob transfer $n 10849
+mob echo $n departs from the dock.
+~
+#6
+mob transfer $n 12212
+mob echo $n departs from the dock.
+~
+#0
+
+#$

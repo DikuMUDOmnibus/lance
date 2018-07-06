@@ -1,0 +1,187 @@
+Sender  Reorx~
+Date    Tue Nov 23 21:39:42 2004~
+Stamp   1101271182
+To      all~
+Subject laz, your area~
+Text
+Laz, how about the  conclave clan hall and then the forest outside it? That will work...good luck.
+Reo
+~
+Sender  Lazerous~
+Date    Wed Nov 24 10:58:50 2004~
+Stamp   1101319130
+To      reorx~
+Subject my area~
+Text
+I've already taken over the Storm Keep and have begin work on it.
+~
+Sender  Morgion~
+Date    Wed Nov 24 21:21:31 2004~
+Stamp   1101356491
+To      reorx~
+Subject Laz's area~
+Text
+Since he's already started working on SK i told him to just continue with it.
+ 
+Phil
+~
+Sender  Kazul~
+Date    Sun Nov 28 03:11:29 2004~
+Stamp   1101636689
+To      reorx~
+Subject I need an area~
+Text
+Hey Reorx I need an area to work on. Think you could assign me with one?
+Thanks,
+     Ceslin
+       Kazul also *inno*
+~
+Sender  Ranessa~
+Date    Sun Nov 28 21:00:57 2004~
+Stamp   1101700857
+To      all~
+Subject weekly report~
+Text
+Ok here is my weekly report.  I now have 30 rooms up, although not all
+are described quite yet.  I have 10 object currently done, although the
+majority of them are weapons.  I also have 8 mobs up, one of which is a
+deathtrap.  They are all fully described and battle ready.  Well that's it
+for my report.  A lot more should be done by the end of next week.  
+~
+Sender  Kyntal~
+Date    Sun Nov 28 21:18:50 2004~
+Stamp   1101701930
+To      all~
+Subject Weekly Report: Flotsam~
+Text
+I have almost all of the area mapped out and the streets named.  I will
+start working on the descriptions tomorrow and hopefully be done with a lot
+of that by the next report.  If you have any suggestions about what I could
+add or anything, please note me about them.  I'm completely open to ideas. 
+Thanks :)
+ 
+Until next week...
+Kyntal, the {DG{Wh{Do{Ws{Dt{Wl{Dy{x builder
+~
+Sender  Lazerous~
+Date    Fri Dec  3 19:42:48 2004~
+Stamp   1102128168
+To      ranessa~
+Subject mob reset~
+Text
+insted of waiting for the mud to reset your mobs just type 'edit room reset' and you can do it yourself :)
+~
+Sender  Mishakal~
+Date    Fri Dec  3 21:48:22 2004~
+Stamp   1102135702
+To      lazerous~
+Subject greet 100~
+Text
+if wears $n kotkey
+bow $n
+else
+if carries $n kotkey
+bow $n
+else
+if clan $n kot
+bow $n
+else
+say You are not a devout of the Dark Queen! Begone!
+mob trans $n 11535
+endif
+endif
+endif
+~
+Sender  Kyntal~
+Date    Sat Dec  4 16:59:16 2004~
+Stamp   1102204756
+To      ranessa~
+Subject deleting mobs and objects~
+Text
+Okay, when you are in the oedit or medit for that particular object or
+mob, type delete and the vnum of it to delete it.  :) that should work.  :) 
+ 
+Kyn
+~
+Sender  Kazul~
+Date    Sun Dec  5 02:49:39 2004~
+Stamp   1102240179
+To      reorx~
+Subject hello?~
+Text
+Is anyone ever on here anymore?  Oh well I need an area fast ok, I
+finished my test area and it got deleted again!  So can I get an area?  I
+have been without an area for about 2 weeks now thank 
+Kazul, (8600) ceslin, jhinar
+~
+Sender  Morgion~
+Date    Sun Dec  5 17:31:52 2004~
+Stamp   1102293112
+To      kazul~
+Subject your area~
+Text
+I dont know about you being hired back.  I believe your area was bugged
+and thus taken out.  Talk to Reorx on PP first before you log here anymore. 
+ 
+Morgion
+~
+Sender  Ranessa~
+Date    Sun Dec  5 21:52:43 2004~
+Stamp   1102308763
+To      morgion~
+Subject mprogs~
+Text
+Just wanted to tell you I figured out how to do it.  I can do the very
+simple ones at least.  :) I'll try more complicated ones tomorrow.  See you
+then.  :) 
+~
+Sender  Jacob~
+Date    Mon Dec  6 22:03:03 2004~
+Stamp   1102395783
+To      hiddikul~
+Subject Area report~
+Text
+Heylo, I got hired yesterday, before i built here as Ashander, so i'm
+taking my old area back, i've got about 3 mobs, all the rooms made and descs
+done, and 4 or 5 objects Anyway, ya, so there ya go, Jacob 
+~
+Sender  Jacob~
+Date    Tue Dec  7 17:23:37 2004~
+Stamp   1102465417
+To      morgion~
+Subject Copyover~
+Text
+hey can you copyover the Bp tonight
+thanks
+~
+Sender  Reorx~
+Date    Fri Dec 10 17:29:02 2004~
+Stamp   1102724942
+To      all~
+Subject areas~
+Text
+please when assigning areas DONT forget that an area begins on a zero and ends on a 9 thanks. *only to builders who can create new areas*
+~
+Sender  Morgion~
+Date    Fri Dec 10 22:21:56 2004~
+Stamp   1102742516
+To      all~
+Subject asave changed~
+Text
+When you change something in your area do asave changed or asave area
+This is so you wont lose your shit.  I logged on tonight and noone else was
+on.  Did Asave changed and I got 4 different areas that were changed without
+saving.  There is no need for this, remember to do this.  The areas in fault
+are: Garin Test Area, Rizion Test Area, Ranessa Test area, and Flotsam.  
+~
+Sender  Kyntal~
+Date    Fri Dec 10 22:28:54 2004~
+Stamp   1102742934
+To      morgi ~
+Subject flotsam~
+Text
+I hadn't changed anything in my area.  I was going to but exited the
+editor before changing anything.  I know that you have to do that, but i
+didn't see it as necessary being that i didn't do any changes.  Thank you
+for the reminder, though.  Kyn 
+~

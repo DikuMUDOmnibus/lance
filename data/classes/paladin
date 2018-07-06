@@ -1,0 +1,69 @@
+1 4 axe
+1 4 dagger
+1 4 flail
+1 4 mace
+1 4 polearm
+1 4 lance
+1 2 shield block
+1 4 spear
+1 4 sword
+1 4 whip
+1 1 rescue
+1 5 scrolls
+1 5 staves
+1 5 wands
+1 1 recall
+1 2 human
+1 2 aghar
+1 2 hylar
+1 2 neidar
+1 2 minotaur
+1 2 kagonesti
+1 2 dimernesti
+1 2 gnome
+1 2 kender
+1 2 dracon
+1 2 silvanesti
+1 2 qualinesti
+1 5 right hand
+1 5 left hand
+5 4 parry
+7 4 enhanced damage
+9 3 bash
+10 3 dodge
+12 2 bless
+12 2 refresh
+13 3 counter
+14 4 second attack
+15 2 cause light
+15 2 cure light
+15 3 kick
+15 5 fast healing
+15 6 meditation
+20 1 earthquake
+22 5 hand to hand
+22 5 third attack
+25 2 cause serious
+25 2 cure serious
+30 2 remove curse
+32 5 berserk
+33 1 heat metal
+35 2 cause critical
+35 2 cure critical
+35 1 frenzy
+38 5 disarm
+39 4 critical strike
+40 2 dispel evil
+40 2 dispel good
+40 1 flamestrike
+45 1 demonfire
+45 2 harm
+45 2 heal
+45 1 ray of truth
+47 1 holy word
+50 2 calm
+54 7 fourth attack
+55 2 mass healing
+65 3 sanctuary
+80 5 ambidexterity
+-1

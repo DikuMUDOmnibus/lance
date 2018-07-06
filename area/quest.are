@@ -1,0 +1,928 @@
+#AREADATA
+Name !Quest Stuff~
+Builders None~
+Range 0 0
+VNUMs 26 99
+Credits All~
+Security 9
+End
+
+
+
+#MOBILES
+#26
+george~
+George~
+George the questmaster stands here.
+~
+~
+human~
+AB 0 0 0 0 0
+50 50 10d169+920 50d10+100 5d10+25 none
+-19 -19 -19 -5
+0 0 0 0
+stand stand none 0
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#27
+oldstyle frozen body~
+the frozen body~
+A frozen body lies on the ground.
+~
+As you look at the corpse, you recoil when you see that its eyes still
+move. They stare intently from its bluish face, as if pleading for your
+help.
+~
+human~
+AB 0 J 0 -900 0
+47 0 25d10+3500 23d9+100 6d6+17 none
+-17 -17 -17 4
+EFNU 0 0 0
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#29
+quest master~
+Quest Master~
+The Quest Master stands here.
+~
+~
+human~
+ABU CD Z 0 0 0
+101 101 10d303+3333 101d10+100 11d12+60 none
+-16 -16 -16 -15
+0 ABCDL 0 0
+stand stand male 900000
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#30
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#66
+bartok dark knight~
+{WBartok{x, the {DDark Knight{x~
+A mysterious {DDark Knight{x is standing here.
+~
+A huge {DDark Knight{x looks down on you and considers eating you for
+dinner tonight! RUN!
+~
+unique~
+AB 0 DFH 0 -1000 0
+10 10 3d20+100 10d10+100 3d6+5 none
+2 2 2 2
+CK I 0 H
+stand stand male 5000
+AHMV ABCDEFGHIJK large unknown
+#98
+test mob solamnic knight~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 1000 0
+50 0 0d0+0 0d0+0 0d0+0 none
+-9 -9 -9 -9
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#99
+bud~
+bud~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#26
+blue cyrstal staff~
+{ya {BBlue{y cyrstal staff{x~
+{ya {BBlue{y Cyrstal staff lies here.{x~
+steel~
+trash AGIY A
+0
+0 0 0 0 0
+2 4 10 P
+#27
+Reorx's hammer~
+({CSteel{x) the Hammer of Reorx~
+A {CSteel{x hammer sits here.~
+rock~
+trash A A
+0
+0 0 0 0 0
+2 4 10 P
+#28
+legendary dragonlance lance paladine~
+The {WLegendary Dragonlance{x of {CPaladine{x~
+A lance with a barbed end is here.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+2 0 10 P
+#29
+habba pipe wooden~
+{YHabbakuk's{x Pipe~
+{YHabbakuk's{x wooden pipe lies here.~
+wood~
+trash AG A
+0
+0 0 0 0 0
+0 2 10 P
+#30
+plain stone greygem~
+A plain looking {wstone{x ~
+A plain looking {wstone{x floats here.~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+0 0 10 P
+#31
+Staff Raven~
+the Staff of {DR{wa{Dv{we{Dn{x~
+A wooden staff adorned with a crystal in the shape of a raven sits in the corner.~
+unknown~
+weapon AGIM AN
+AH
+polearm 13 13 wrath CG
+1 4 170000 P
+A
+13 100
+A
+19 5
+A
+18 5
+A
+4 5
+A
+12 350
+E
+staff~
+Once held by Raistlin Majere and Magius himself, the only adornment upon
+this wooden staff is a golden dragon's claw clutching a crystal.  
+~
+#32
+humas travel pack~
+huma's travel pack~
+A backpack made of black leather sits here.~
+unknown~
+container G AT
+0
+9000 A 0 9000 2
+1 0 200000 P
+A
+5 4
+A
+13 50
+A
+1 7
+#33
+Kender walking shoes~
+({cMagical{x) {GKe{Rnd{Ber{x {WWa{Glk{Ying{x {yshoes{x~
+A pair of glowing shoes sit here.~
+unknown~
+armor A AG
+0
+CE CE CE CE 0
+1 2 180000 P
+A
+14 300
+A
+2 9
+A
+13 40
+A
+12 40
+A
+18 4
+A
+20 -10
+#34
+Gauntlets from Istar~
+{RGauntlets{x from {BI{bs{Bt{ba{Br{x~
+A pair of gauntlets from the ruined city of istar lie here.~
+steel~
+armor GI AH
+0
+CE CE CE CE 0
+1 3 160000 P
+A
+18 6
+A
+1 4
+A
+19 6
+A
+20 -10
+A
+3 2
+A
+12 20
+A
+13 40
+#35
+restring coupon~
+a {RR{Be{Gs{Yt{Mr{Ci{Rn{Bg{x Coupon~
+A {RR{Be{Gs{Yt{Mr{Ci{Rn{Bg{x Coupon.~
+unknown~
+gem 0 AO
+0
+0 0 0 0 0
+1 0 30000 P
+E
+restring~
+This coupon entitles the bearer to restring a single piece of equipment. 
+Please have the following done before asking for one: A short description
+(what you see in your inventory or when worn) A long description (what you;see when its on the ground) 
+f
+~
+#36
+makeover coupon~
+a {mM{ba{ck{re{yo{gv{be{rr{x Coupon~
+A {BM{Ga{Yk{Re{Co{mv{re{gr{x Coupon.~
+unknown~
+gem 0 AO
+0
+0 0 0 0 0
+1 0 140000 P
+E
+makeover~
+This coupon entitles the bearer to the restring of all their equipment.
+f
+~
+#37
+quest note coupon qnote~
+a {cQuest{x Note~
+A {cQuest{x Note.~
+unknown~
+gem 0 AO
+0
+0 0 0 0 0
+1 0 50000 P
+E
+quest~
+This coupon entitles the owner to {cONE{x of the following:
+A race or god change
+A corpse retrieval
+Transfer to your recall point
+A restring
+10 diamonds or 1000 steel
+~
+#38
+true faith coupon~
+a {cTrue {bFaith{x Coupon~
+A {cTrue {bFaith{x Coupon.~
+unknown~
+gem 0 AO
+0
+0 0 0 0 0
+1 0 100000 P
+E
+true~
+This coupon entitles the bearer to have their alignment reset to that of their gods.
+f
+~
+#39
+home coupon~
+a {rHome{x Coupon~
+A {rHome{x Coupon.~
+unknown~
+portal Y AO
+0
+A 0 0 CDFGHKLN 0
+0 0 50000 P
+E
+home~
+This coupon entitles the bearer to be sent home by an immortal.  
+f
+~
+#40
+Diamond~
+{xA {CD{Wi{Ca{Wm{Co{Wn{Cd{x~
+A glittering diamond catches the light.~
+diamond~
+gem Y A
+0
+0 0 0 0 0
+1 0 10000 P
+#41
+coupon deck~
+a {RDeck{Ydraw{x coupon~
+This coupon entitles the user to "1" free draw from the infamous "Deck of Many Things" be its effect good or ill.~
+paper~
+gem 0 A
+0
+0 0 0 0 0
+0 0 0 P
+#42
+RPA coupon~
+{RR{mP{Da {WCo{Mup{won{x~
+Good rp this is award~
+unknown~
+trash 0 A
+0
+0 0 0 0 0
+0 2 900000 P
+E
+rpa~
+change flag on 1 weapon
+~
+#43
+platinum bar~
+A {yP{cl{ya{ct{yi{cn{yu{cm{x {DBar{x~
+A {DBar{x of {yP{cl{ya{ct{yi{cn{yu{cm{x lies here.~
+platinum~
+gem WY AO
+0
+0 0 0 0 0
+1 5 1000000 P
+#44
+pet restring coupon~
+A {YP{Me{Ct {RR{Be{Gs{Yt{Mr{Ci{Rn{Bg{x Coupon~
+A pet restring coupon lies here.~
+metal~
+gem Y A
+0
+0 0 0 0 0
+1 1 100000 P
+#45
+custom recall coupon~
+A {YC{ru{Ys{rt{Yo{rm {yR{Re{yc{Ra{yl{Rl{x Coupon~
+A custom recall coupon lies here.~
+unknown~
+gem Y A
+0
+0 0 0 0 0
+1 0 200000 P
+#46
+meat~
+A piece of {rM{Re{Wa{rt{x~
+A piece of meat lies here getting warmer.~
+unknown~
+food 0 A
+0
+CE BD 0 0 0
+0 2 0 P
+#47
+small vial~
+A Small {cVial{x~
+A small delicate vial lies here.~
+unknown~
+potion 0 AO
+0
+0 '' 'reserved' 'reserved' 'reserved'
+1 1 500 P
+#48
+{x~
+{x~
+{x~
+leather~
+armor 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#49
+medium vial~
+A Medium {cVial{x~
+A medium vial lies here, shining in the light.~
+wood~
+potion 0 AO
+0
+0 '' '' 'reserved' 'reserved'
+1 1 1500 P
+#50
+large vial~
+A Large {cVial{x~
+A large vial lies here.~
+unknown~
+potion 0 AO
+0
+0 '' '' '' 'reserved'
+1 1 5000 P
+#51
+small parchment~
+A Small {yParchment{x~
+A small piece of rolled up parchment lies here.~
+parchment~
+scroll 0 AO
+0
+0 '' 'reserved' 'reserved' 'reserved'
+1 4 500 P
+#52
+medium parchment~
+A Medium {yParchment{x~
+A medium roll of parchment lies here.~
+parchment~
+scroll 0 AO
+0
+0 '' '' 'reserved' 'reserved'
+1 1 1500 P
+#53
+large parchment~
+A Large {yParchment{x~
+A large piece of parchment lies here.~
+unknown~
+scroll 0 AO
+0
+0 '' '' '' 'reserved'
+1 1 5000 P
+#54
+large kiwi~
+{x~
+{x~
+unknown~
+light 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#55
+{x~
+{x~
+{x~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#56
+{x~
+{x~
+{x~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#57
+{x~
+{x~
+{x~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#58
+{x~
+{x~
+{x~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#59
+{x~
+{x~
+{x~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#60
+{x~
+{x~
+{x~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#61
+{x~
+{x~
+{x~
+cloth~
+armor 0 I
+0
+0 0 0 0 0
+1 0 0 P
+#62
+card~
+a card~
+Void = Deletion~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#63
+card~
+a card~
+Sun Card = 50k exp~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#64
+card~
+a card~
+Star Card = Gain 5 Trains~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#65
+card~
+a card~
+Talon Card = Lose all items~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#66
+card~
+a card~
+Throne Card = Get your own 10 room Keep~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#67
+card~
+a card~
+Moon Card = 1 wish~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#68
+card~
+a card~
+Knight Card = 1 Custom Pet~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#69
+{x~
+{x~
+{x~
+unknown~
+weapon 0 0
+0
+exotic 0 0 none 0
+1 1 0 P
+#70
+{x~
+{x~
+{x~
+Flesh~
+weapon 0 0
+D
+sword 0 0 none 0
+0 0 0 P
+#71
+{x~
+{x~
+{x~
+unknown~
+gem 0 0
+0
+0 0 0 0 0
+110 0 0 P
+#72
+card~
+a card~
+Key Card= 1 Custom Weapon~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#73
+card~
+a card~
+Fool Card = Lose 10 Levels~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#74
+card~
+a card~
+Gem Card = 2 Quest Rings or 1000 Diamonds~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#75
+card~
+a card~
+Jester Card = Gain 10 levels~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#76
+card~
+a card~
+Fragile Card = Perm Slow~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#77
+card~
+a card~
+Horror Card = Lose all Money (Empty Bank Account)~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#78
+card~
+a card~
+Despair Card = Lose 5 Con (Perm)~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#79
+card~
+a card~
+Defeat Card = Lose 5 Strength (Perm)~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#80
+card~
+a card~
+Betrayal Card = Choose Someone to Lose all There Equipment~
+unknown~
+trash H A
+0
+0 0 0 0 0
+0 0 0 P
+#81
+{x~
+{x~
+{x~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+1 0 0 P
+#82
+{x~
+{x~
+{x~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#83
+{x~
+{x~
+{x~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+1 1 0 P
+#84
+{x~
+{x~
+{x~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+1 0 0 P
+#85
+{x~
+{x~
+{x~
+gold~
+armor 0 0
+0
+0 0 0 0 0
+1 0 0 P
+#86
+{x~
+{x~
+{x~
+paper~
+light 0 0
+0
+0 0 0 0 0
+1 0 0 P
+#87
+{x~
+{x~
+{x~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+5 2 1 P
+#88
+{x~
+{x~
+{x~
+unknown~
+light 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#89
+{x~
+{x~
+{x~
+unknown~
+light 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#90
+{x~
+{x~
+{x~
+unknown~
+trash 0 0
+0
+0 0 0 0 0
+0 0 0 P
+#91
+{x~
+{x~
+{x~
+none~
+weapon 0 0
+0
+exotic 0 0 none 0
+1 1 0 P
+#92
+{x~
+{x~
+{x~
+unknown~
+drink 0 0
+0
+0 1000 'water' 0 0
+0 0 0 P
+#93
+{x~
+{x~
+{x~
+unknown~
+jewelry 0 0
+0
+0 0 0 0 0
+1 0 0 P
+#94
+{x~
+{x~
+{x~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+1 0 0 P
+#95
+{x~
+{x~
+{x~
+air~
+light 0 0
+0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#96
+{x~
+{x~
+{x~
+unknown~
+armor 0 0
+0
+0 0 0 0 0
+1 0 0 P
+#97
+{x~
+{x~
+{x~
+none~
+armor 0 0
+0
+0 0 0 0 0
+1 1 1 P
+#98
+{x~
+{x~
+{x~
+unknown~
+light 0 0
+0
+0 0 0 0 0
+1 1 0 P
+#99
+{x~
+{x~
+{x~
+unknown~
+light 0 0
+0
+0 0 0 0 0
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#26
+~
+~
+~
+0 4 0
+S
+#30
+~
+~
+~
+0 4 0
+S
+#69
+Nuitari's House of Love~
+~
+~
+0 4 0
+S
+#79
+~
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 26 spec_qmaster
+M 27 spec_breath_frost
+M 29 spec_qmaster
+S
+
+
+
+#RESETS
+O 0 85 0 26
+O 0 85 0 26
+O 0 34 0 26
+O 0 90 0 26
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$
